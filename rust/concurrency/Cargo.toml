@@ -1,0 +1,39 @@
+[package]
+name = "concurrency"
+version = "0.1.0"
+edition = "2024"
+
+[profile.dev]
+debug = true
+overflow-checks = true
+sanitizer = "thread"
+
+[dependencies]
+
+[[bin]]
+name = "rel_acq"
+path = "src/rel_acq.rs"
+
+[[bin]]
+name = "rel_acq_unsafe"
+path = "src/rel_acq_unsafe.rs"
+
+[[bin]]
+name = "relaxed"
+path = "src/relaxed.rs"
+
+[[bin]]
+name = "seq_cst"
+path = "src/seq_cst.rs"
+
+[[bin]]
+name = "fence"
+path = "src/fence.rs"
+
+[[bin]]
+name = "channel"
+path = "src/channel.rs"
+
+[[bin]]
+name = "spin_lock"
+path = "src/spin_lock.rs"
