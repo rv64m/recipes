@@ -37,3 +37,7 @@ path = "src/channel.rs"
 [[bin]]
 name = "spin_lock"
 path = "src/spin_lock.rs"
+
+[[bin]]
+name = "arc"
+path = "src/arc.rs"
