@@ -1,0 +1,59 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/katex.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/markdown-it-texmath@1.0.0/css/texmath.min.css">
+
+<article class="tech-card tech-card--front">
+  <header class="tech-card__header">
+    <span class="tech-card__label">Question</span>
+  </header>
+
+  <section id="question-rendered" class="markdown-body"></section>
+  <pre id="question-source" class="markdown-source">{{text:Question}}</pre>
+</article>
+
+<script src="https://cdn.jsdelivr.net/npm/markdown-it@14.1.0/dist/markdown-it.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/katex.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/markdown-it-texmath@1.0.0/texmath.min.js"></script>
+<script>
+(function () {
+  function fallbackMarkdown(source) {
+    return source
+      .replace(/&/g, "&amp;")
+      .replace(/</g, "&lt;")
+      .replace(/>/g, "&gt;")
+      .replace(/\n/g, "<br>");
+  }
+
+  function renderMarkdown(sourceId, targetId) {
+    var source = document.getElementById(sourceId);
+    var target = document.getElementById(targetId);
+
+    if (!source || !target) {
+      return;
+    }
+
+    var text = source.textContent.trim();
+
+    if (window.markdownit) {
+      var md = window.markdownit({
+        breaks: true,
+        html: true,
+        linkify: true,
+        typographer: true
+      });
+
+      if (window.texmath && window.katex) {
+        md.use(window.texmath, {
+          engine: window.katex,
+          delimiters: "dollars"
+        });
+      }
+
+      target.innerHTML = md.render(text);
+    } else {
+      target.innerHTML = fallbackMarkdown(text);
+    }
+  }
+
+  renderMarkdown("question-source", "question-rendered");
+})();
+</script>
