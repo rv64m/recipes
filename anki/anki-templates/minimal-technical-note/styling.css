@@ -1,0 +1,198 @@
+.card {
+  box-sizing: border-box;
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+  background: #fff;
+  color: #000;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  line-height: 1.45;
+  text-align: left;
+}
+
+.minimal-card {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  min-height: 100vh;
+  background: #fff;
+  border: 2px solid #000;
+}
+
+.minimal-card__title {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 56px;
+  padding: 0 16px;
+  border-bottom: 2px solid #000;
+  font-size: 28px;
+  font-weight: 800;
+  letter-spacing: 0;
+  line-height: 1;
+  text-align: center;
+}
+
+.minimal-card__body {
+  box-sizing: border-box;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  padding: 22px 20px 30px;
+}
+
+.minimal-section {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.minimal-section--note {
+  flex: 1;
+}
+
+.minimal-label {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 18px;
+  margin: 0 0 12px;
+  padding: 1px 8px;
+  background: #000;
+  border: 1px solid #000;
+  color: #fff;
+  font-size: 11px;
+  font-weight: 800;
+  letter-spacing: 0;
+  line-height: 1;
+  text-transform: uppercase;
+}
+
+.minimal-divider {
+  height: 0;
+  margin: 18px 0 16px;
+}
+
+.minimal-source {
+  display: none;
+}
+
+.minimal-markdown {
+  width: 100%;
+  color: #000;
+  overflow-wrap: anywhere;
+}
+
+.minimal-section--note .minimal-markdown {
+  flex: 1;
+}
+
+.minimal-markdown > :first-child {
+  margin-top: 0;
+}
+
+.minimal-markdown > :last-child {
+  margin-bottom: 0;
+}
+
+.minimal-markdown h1,
+.minimal-markdown h2,
+.minimal-markdown h3 {
+  margin: 1em 0 0.45em;
+  color: #000;
+  font-weight: 800;
+  letter-spacing: 0;
+  line-height: 1.15;
+}
+
+.minimal-markdown h1 {
+  font-size: 1.45em;
+}
+
+.minimal-markdown h2 {
+  font-size: 1.22em;
+}
+
+.minimal-markdown h3 {
+  font-size: 1.08em;
+}
+
+.minimal-markdown p,
+.minimal-markdown ul,
+.minimal-markdown ol,
+.minimal-markdown blockquote,
+.minimal-markdown pre,
+.minimal-markdown table {
+  margin: 0.8em 0;
+}
+
+.minimal-markdown ul,
+.minimal-markdown ol {
+  padding-left: 1.35em;
+}
+
+.minimal-markdown code {
+  padding: 0.08em 0.3em;
+  background: #f2f2f2;
+  border: 1px solid #000;
+  color: #000;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 0.92em;
+}
+
+.minimal-markdown pre {
+  overflow-x: auto;
+  padding: 12px 14px;
+  background: #111;
+  border: 1px solid #000;
+  color: #f5f5f5;
+}
+
+.minimal-markdown pre code {
+  padding: 0;
+  background: transparent;
+  border: 0;
+  color: inherit;
+}
+
+.minimal-markdown blockquote {
+  padding: 0.2em 0.85em;
+  border-left: 4px solid #000;
+}
+
+.minimal-markdown img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 14px auto;
+}
+
+.minimal-markdown table {
+  display: block;
+  width: 100%;
+  overflow-x: auto;
+  border-collapse: collapse;
+}
+
+.minimal-markdown th,
+.minimal-markdown td {
+  padding: 7px 9px;
+  border: 1px solid #000;
+  vertical-align: top;
+}
+
+@media (max-width: 430px) {
+  .card {
+    font-size: 15px;
+  }
+
+  .minimal-card__title {
+    font-size: 25px;
+  }
+
+  .minimal-card__body {
+    padding: 18px 16px 26px;
+  }
+}

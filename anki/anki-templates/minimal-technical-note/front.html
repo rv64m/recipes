@@ -1,18 +1,16 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/katex.min.css">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/markdown-it-texmath@1.0.0/css/texmath.min.css">
+<article class="minimal-card minimal-card--front">
+  <header class="minimal-card__title">Technical Note</header>
 
-<article class="tech-card tech-card--front">
-  <header class="tech-card__header">
-    <span class="tech-card__label">Question</span>
-  </header>
-
-  <section id="question-rendered" class="markdown-body"></section>
-  <pre id="question-source" class="markdown-source">{{text:Question}}</pre>
+  <main class="minimal-card__body">
+    <div class="minimal-section">
+      <span class="minimal-label">Question</span>
+      <section id="question-rendered" class="minimal-markdown"></section>
+      <pre id="question-source" class="minimal-source">{{Question}}</pre>
+    </div>
+  </main>
 </article>
 
 <script src="https://cdn.jsdelivr.net/npm/markdown-it@14.1.0/dist/markdown-it.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/katex.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/markdown-it-texmath@1.0.0/texmath.min.js"></script>
 <script>
 (function () {
   function fallbackMarkdown(source) {
@@ -23,6 +21,19 @@
       .replace(/\n/g, "<br>");
   }
 
+  function readMarkdownSource(source) {
+    var html = source.innerHTML
+      .replace(/<br\s*\/?>/gi, "\n")
+      .replace(/<\/div>\s*<div>/gi, "\n")
+      .replace(/<\/p>\s*<p>/gi, "\n\n")
+      .replace(/<\/?div>/gi, "")
+      .replace(/<\/?p>/gi, "")
+      .replace(/\n{3,}/g, "\n\n");
+    var decoder = document.createElement("textarea");
+    decoder.innerHTML = html;
+    return decoder.value.trim();
+  }
+
   function renderMarkdown(sourceId, targetId) {
     var source = document.getElementById(sourceId);
     var target = document.getElementById(targetId);
@@ -31,7 +42,7 @@
       return;
     }
 
-    var text = source.textContent.trim();
+    var text = readMarkdownSource(source);
 
     if (window.markdownit) {
       var md = window.markdownit({
@@ -40,13 +51,6 @@
         linkify: true,
         typographer: true
       });
-
-      if (window.texmath && window.katex) {
-        md.use(window.texmath, {
-          engine: window.katex,
-          delimiters: "dollars"
-        });
-      }
 
       target.innerHTML = md.render(text);
     } else {
