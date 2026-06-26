@@ -1,0 +1,24 @@
+name: anki-server
+
+services:
+  anki-sync-server:
+    build:
+      context: .
+      args:
+        ANKI_VERSION: ${ANKI_VERSION:-25.9.4}
+    image: local/anki-sync-server:${ANKI_VERSION:-25.9.4}
+    container_name: anki-sync-server
+    restart: unless-stopped
+    env_file:
+      - .env
+    ports:
+      - "${ANKI_SYNC_PORT:-8080}:8080"
+    environment:
+      SYNC_HOST: 0.0.0.0
+      SYNC_PORT: 8080
+      SYNC_BASE: /data
+      SYNC_USER1: ${SYNC_USER1:?Set SYNC_USER1 in docker/anki-server/.env}
+      TZ: ${TZ:-Asia/Shanghai}
+      MAX_SYNC_PAYLOAD_MEGS: ${MAX_SYNC_PAYLOAD_MEGS:-100}
+    volumes:
+      - ./data:/data
