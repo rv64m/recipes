@@ -1,0 +1,562 @@
+[
+  {
+    "start": 0.0,
+    "end": 11.0,
+    "text": " This is Al Brooks and this is module 4 of my price action trading course and today I'm going to talk about the personality traits of successful traders."
+  },
+  {
+    "start": 11.0,
+    "end": 21.0,
+    "text": " Everyone's familiar with the list of traits that are many more than this. Some are fairly obvious. Being objective, being disciplined, being patient."
+  },
+  {
+    "start": 22.0,
+    "end": 30.0,
+    "text": " The two last ones I think are probably the most important. Being comfortable with uncertainty and managing trades properly."
+  },
+  {
+    "start": 30.0,
+    "end": 40.0,
+    "text": " Discipline traders, they never say to themselves, maybe this time it'll work. I'll try it this time. Or hey, maybe I'll try this."
+  },
+  {
+    "start": 40.0,
+    "end": 50.0,
+    "text": " They don't try ideas out of the blue whimsically just because the market is setting up something that might be fun to try."
+  },
+  {
+    "start": 50.0,
+    "end": 59.0,
+    "text": " They stick to their plan and if a setup is not one that they normally trade or if it's something that doesn't look quite right, they just don't take the trade."
+  },
+  {
+    "start": 59.0,
+    "end": 69.0,
+    "text": " They just let it go. Discipline traders, they never say to themselves, maybe this time it'll work. I'll try it this time. Or hey, maybe I'll try this."
+  },
+  {
+    "start": 69.0,
+    "end": 79.0,
+    "text": " They don't try ideas out of the blue whimsically just because the market is setting up something that might be fun to try."
+  },
+  {
+    "start": 79.0,
+    "end": 88.0,
+    "text": " They stick to their plan and if a setup is not one that they normally trade or if it's something that doesn't look quite right, they just don't take the trade."
+  },
+  {
+    "start": 88.0,
+    "end": 90.0,
+    "text": " They just let it go."
+  },
+  {
+    "start": 91.0,
+    "end": 97.0,
+    "text": " And you're trading against computers and you're trying to duplicate what they're doing."
+  },
+  {
+    "start": 97.0,
+    "end": 113.0,
+    "text": " Institutions are mostly computer generated trades and if you're to make money, you've got to be doing what the institutions are doing and what the computers are doing and they're not trading based on emotion."
+  },
+  {
+    "start": 114.0,
+    "end": 119.0,
+    "text": " So if you're looking at a setup and you feel any emotion, don't take the trade."
+  },
+  {
+    "start": 119.0,
+    "end": 129.0,
+    "text": " You also have to be very comfortable with the idea that the market might do the exact opposite of what you believe and it'll happen about 40% of the time."
+  },
+  {
+    "start": 129.0,
+    "end": 131.0,
+    "text": " It can happen more."
+  },
+  {
+    "start": 131.0,
+    "end": 135.0,
+    "text": " If you're a scalper and you're extremely good, it can happen less."
+  },
+  {
+    "start": 135.0,
+    "end": 141.0,
+    "text": " But you have to be open to the possibility that the market can do the exact opposite of what you think."
+  },
+  {
+    "start": 141.0,
+    "end": 157.0,
+    "text": " Remember that any time you take a trade, an institution agrees with you and another institution disagrees with you and you cannot be so confident that the institution on the other side is wrong."
+  },
+  {
+    "start": 157.0,
+    "end": 165.0,
+    "text": " That institution, no matter how confident you are, is going to be right 40% of the time, at least 40% of the time."
+  },
+  {
+    "start": 165.0,
+    "end": 171.0,
+    "text": " So if you're a pretty good trader, you'll probably lose at least 40% of the time."
+  },
+  {
+    "start": 171.0,
+    "end": 175.0,
+    "text": " You have to be willing to sit there and do nothing."
+  },
+  {
+    "start": 175.0,
+    "end": 189.0,
+    "text": " If you're a day trader, sometimes you have to sit for an hour or two or three waiting for a good signal and never get impatient and start telling yourself that, boy, a good trade is overdue."
+  },
+  {
+    "start": 189.0,
+    "end": 190.0,
+    "text": " Maybe I'll take this one."
+  },
+  {
+    "start": 190.0,
+    "end": 192.0,
+    "text": " A good trade is never overdue."
+  },
+  {
+    "start": 192.0,
+    "end": 198.0,
+    "text": " Sometimes there'll be 20 or 30 good signals in a day, sometimes just three or four."
+  },
+  {
+    "start": 198.0,
+    "end": 206.0,
+    "text": " And if you want to end up positive at the end of the day, you'll just accept whatever the market is offering."
+  },
+  {
+    "start": 206.0,
+    "end": 215.0,
+    "text": " And if it's offering very little, then you have to sit there patiently and do nothing."
+  },
+  {
+    "start": 215.0,
+    "end": 219.0,
+    "text": " This is very important, the idea of being comfortable with uncertainty."
+  },
+  {
+    "start": 219.0,
+    "end": 223.0,
+    "text": " Whenever you're putting on a trade, there's always uncertainty."
+  },
+  {
+    "start": 223.0,
+    "end": 231.0,
+    "text": " The first obvious element of uncertainty is how likely will the trade be successful?"
+  },
+  {
+    "start": 231.0,
+    "end": 235.0,
+    "text": " What's the probability of success of achieving your goals?"
+  },
+  {
+    "start": 235.0,
+    "end": 239.0,
+    "text": " And then you're also going to be uncertain about where to put the stop."
+  },
+  {
+    "start": 239.0,
+    "end": 248.0,
+    "text": " Do you use your routine stop, money stop, like maybe two points in the E-mini, maybe 50 cents in IBM?"
+  },
+  {
+    "start": 248.0,
+    "end": 252.0,
+    "text": " Or do you have to use a bigger stop or a smaller stop?"
+  },
+  {
+    "start": 252.0,
+    "end": 255.0,
+    "text": " You're also going to be uncertain about your profit target."
+  },
+  {
+    "start": 255.0,
+    "end": 264.0,
+    "text": " If the bars are very big and the range is very big and the swings are very big, maybe you should be using larger targets."
+  },
+  {
+    "start": 264.0,
+    "end": 268.0,
+    "text": " And this is something that traders deal with all the time."
+  },
+  {
+    "start": 268.0,
+    "end": 278.0,
+    "text": " If you find yourself getting upset or anxious or feeling pressured that you don't have enough time to make the decision, don't take the trade."
+  },
+  {
+    "start": 278.0,
+    "end": 288.0,
+    "text": " Because then you're feeling emotion and you cannot make money if emotion is influencing your decisions because you're trying to do what the computers are doing"
+  },
+  {
+    "start": 288.0,
+    "end": 292.0,
+    "text": " and they are not trading based on emotion."
+  },
+  {
+    "start": 293.0,
+    "end": 298.0,
+    "text": " You have to be comfortable with losses. They're going to come."
+  },
+  {
+    "start": 298.0,
+    "end": 302.0,
+    "text": " If you're a pretty good trader, you're going to be losing at least 40% of the time."
+  },
+  {
+    "start": 302.0,
+    "end": 307.0,
+    "text": " When you're trading, nothing is crystal clear as you're trading."
+  },
+  {
+    "start": 307.0,
+    "end": 313.0,
+    "text": " And if you think something is crystal clear, don't take the trade because you're reading the charts incorrectly."
+  },
+  {
+    "start": 313.0,
+    "end": 317.0,
+    "text": " At the end of the day, when you print out the chart, everything is crystal clear."
+  },
+  {
+    "start": 317.0,
+    "end": 323.0,
+    "text": " However, that's not the case real time. There's always uncertainty."
+  },
+  {
+    "start": 323.0,
+    "end": 326.0,
+    "text": " You also have to be comfortable with what you're doing."
+  },
+  {
+    "start": 326.0,
+    "end": 333.0,
+    "text": " If this is your job and you're planning on doing it for many years, you have to be doing it in a way that's enjoyable."
+  },
+  {
+    "start": 333.0,
+    "end": 341.0,
+    "text": " You can't be miserably stressed out all day long, worried about losing money and worried that, oh my gosh, I just lost three in a row."
+  },
+  {
+    "start": 341.0,
+    "end": 344.0,
+    "text": " I can't afford losing four in a row."
+  },
+  {
+    "start": 344.0,
+    "end": 349.0,
+    "text": " If that's how you're feeling, you have to change how you're trading"
+  },
+  {
+    "start": 349.0,
+    "end": 355.0,
+    "text": " and find a method to trade where you enjoy what you're doing."
+  },
+  {
+    "start": 355.0,
+    "end": 359.0,
+    "text": " I get up every morning and I just can't wait to get in front of my computer."
+  },
+  {
+    "start": 359.0,
+    "end": 361.0,
+    "text": " I really like what I'm doing."
+  },
+  {
+    "start": 361.0,
+    "end": 368.0,
+    "text": " For years, I was an extreme scalper taking 40 trades a day, but it was really stressful."
+  },
+  {
+    "start": 368.0,
+    "end": 372.0,
+    "text": " It was not fun. Can you make more money doing that?"
+  },
+  {
+    "start": 372.0,
+    "end": 381.0,
+    "text": " Sure, but life has to be fun. You only have so many years and if you're choosing to live them in a miserable way,"
+  },
+  {
+    "start": 381.0,
+    "end": 385.0,
+    "text": " I think that's not the best way to live your life."
+  },
+  {
+    "start": 385.0,
+    "end": 392.0,
+    "text": " I think what you do with your life time is precious and every part of your life should be fun."
+  },
+  {
+    "start": 392.0,
+    "end": 398.0,
+    "text": " You can make money while being happy."
+  },
+  {
+    "start": 398.0,
+    "end": 403.0,
+    "text": " There are lots of jobs where you can really love what you're doing and you can make a lot of money."
+  },
+  {
+    "start": 403.0,
+    "end": 409.0,
+    "text": " Trading is one of them. You don't have to be miserably worried all the time."
+  },
+  {
+    "start": 409.0,
+    "end": 415.0,
+    "text": " You have to find a way of trading that allows you to be happy."
+  },
+  {
+    "start": 415.0,
+    "end": 423.0,
+    "text": " There are lots of ways to trade and chances are you'll be able to find one that suits your personality."
+  },
+  {
+    "start": 423.0,
+    "end": 429.0,
+    "text": " Don't worry if you see someone on television who's trading one way and it's not right for you."
+  },
+  {
+    "start": 429.0,
+    "end": 438.0,
+    "text": " That's okay. Every trader has a different personality and every trader finds a method of trading that suits their personality."
+  },
+  {
+    "start": 438.0,
+    "end": 444.0,
+    "text": " The great traders don't worry that somebody else is using some other approach and making a lot of money."
+  },
+  {
+    "start": 444.0,
+    "end": 451.0,
+    "text": " If that's not them, then don't worry about it. You have to be comfortable doing what you have to do."
+  },
+  {
+    "start": 451.0,
+    "end": 461.0,
+    "text": " Swing traders lose most of the time but they're going for rewards that are two or three times greater than their risk."
+  },
+  {
+    "start": 461.0,
+    "end": 467.0,
+    "text": " If they're comfortable with winning only 40% of the time, it's a great way to trade."
+  },
+  {
+    "start": 467.0,
+    "end": 471.0,
+    "text": " In fact, it's probably the best way to trade when a trader is starting out."
+  },
+  {
+    "start": 471.0,
+    "end": 477.0,
+    "text": " Other traders are comfortable scaling into trades and going against them."
+  },
+  {
+    "start": 477.0,
+    "end": 485.0,
+    "text": " For example, if the market is in a weak bull channel, they'll start selling above prior swing highs."
+  },
+  {
+    "start": 485.0,
+    "end": 490.0,
+    "text": " If they're confident that the channel is about to transform into a trading range or reversal."
+  },
+  {
+    "start": 490.0,
+    "end": 494.0,
+    "text": " But they have to be comfortable with growing open losses."
+  },
+  {
+    "start": 494.0,
+    "end": 499.0,
+    "text": " The losses that they have continue to grow as the channel continues to go up."
+  },
+  {
+    "start": 499.0,
+    "end": 502.0,
+    "text": " They also have to be confident in their read."
+  },
+  {
+    "start": 502.0,
+    "end": 508.0,
+    "text": " They have to be confident that the channel is trying to convert into a trading range."
+  },
+  {
+    "start": 508.0,
+    "end": 512.0,
+    "text": " They also have to be able to stick to their plan."
+  },
+  {
+    "start": 512.0,
+    "end": 520.0,
+    "text": " They can't panic and exit with a huge loss right before the market turns."
+  },
+  {
+    "start": 520.0,
+    "end": 528.0,
+    "text": " They have to be trading with a size that will allow them to have the market go against them sometimes for an hour or two."
+  },
+  {
+    "start": 528.0,
+    "end": 541.0,
+    "text": " But as long as they're confident with their read and they're not trading so large that the losses are too big for what they're doing."
+  },
+  {
+    "start": 541.0,
+    "end": 545.0,
+    "text": " That's a comfortable way to trade."
+  },
+  {
+    "start": 545.0,
+    "end": 550.0,
+    "text": " There are other traders, scalpers, who want a very high probability trade."
+  },
+  {
+    "start": 550.0,
+    "end": 557.0,
+    "text": " But anytime something has a high probability of working, chances are it's only going to work briefly."
+  },
+  {
+    "start": 557.0,
+    "end": 560.0,
+    "text": " So the reward is going to be smaller."
+  },
+  {
+    "start": 560.0,
+    "end": 572.0,
+    "text": " However, even if you're scalping for a small reward, you have to make sure that your risk, the distance to your stop, is no bigger than your reward."
+  },
+  {
+    "start": 572.0,
+    "end": 579.0,
+    "text": " If you're trading with a stop that's bigger than your profit target, you have to be right 80 or 90% of the time."
+  },
+  {
+    "start": 579.0,
+    "end": 584.0,
+    "text": " And that's very difficult to do."
+  },
+  {
+    "start": 584.0,
+    "end": 588.0,
+    "text": " Some traders are comfortable with any type of environment."
+  },
+  {
+    "start": 588.0,
+    "end": 593.0,
+    "text": " High probability, low probability, scalps and swings."
+  },
+  {
+    "start": 593.0,
+    "end": 594.0,
+    "text": " And that's okay."
+  },
+  {
+    "start": 594.0,
+    "end": 598.0,
+    "text": " And if you find yourself to be one of those traders, go for it."
+  },
+  {
+    "start": 598.0,
+    "end": 600.0,
+    "text": " If that's your comfort zone, that's fine."
+  },
+  {
+    "start": 600.0,
+    "end": 602.0,
+    "text": " Go for it."
+  },
+  {
+    "start": 602.0,
+    "end": 608.0,
+    "text": " Managing trades correctly is, I think, the most important part of trading."
+  },
+  {
+    "start": 608.0,
+    "end": 611.0,
+    "text": " And it's more important than spotting perfect setups."
+  },
+  {
+    "start": 611.0,
+    "end": 613.0,
+    "text": " You know, it's fairly easy to spot setups."
+  },
+  {
+    "start": 613.0,
+    "end": 616.0,
+    "text": " It's fairly easy to spot really good setups."
+  },
+  {
+    "start": 616.0,
+    "end": 621.0,
+    "text": " But it can be difficult to manage the trade correctly after you put the trade on."
+  },
+  {
+    "start": 621.0,
+    "end": 627.0,
+    "text": " Most of the time, there's a profitable way to manage both a long and a short."
+  },
+  {
+    "start": 627.0,
+    "end": 632.0,
+    "text": " So most of the time, at any given instant during the day, you could buy and make money."
+  },
+  {
+    "start": 632.0,
+    "end": 635.0,
+    "text": " You can sell and make money if you manage your trades correctly."
+  },
+  {
+    "start": 635.0,
+    "end": 636.0,
+    "text": " How can that be?"
+  },
+  {
+    "start": 636.0,
+    "end": 638.0,
+    "text": " Well, let's say you buy."
+  },
+  {
+    "start": 638.0,
+    "end": 643.0,
+    "text": " There's an institution taking the other side of that trade and chances are they're profitable."
+  },
+  {
+    "start": 643.0,
+    "end": 648.0,
+    "text": " So they have a profitable way to make money selling to you."
+  },
+  {
+    "start": 648.0,
+    "end": 653.0,
+    "text": " But that's management and you have to be able to do it well."
+  },
+  {
+    "start": 653.0,
+    "end": 658.0,
+    "text": " So anyway, like I just said, at any given instant, a good trader usually can make money"
+  },
+  {
+    "start": 658.0,
+    "end": 664.0,
+    "text": " by either buying or selling if they manage their trades correctly."
+  },
+  {
+    "start": 664.0,
+    "end": 667.0,
+    "text": " This is the end of Module 4."
+  },
+  {
+    "start": 667.0,
+    "end": 669.0,
+    "text": " Thank you."
+  }
+]

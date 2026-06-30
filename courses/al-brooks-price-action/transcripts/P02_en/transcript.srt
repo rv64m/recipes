@@ -1,0 +1,351 @@
+1
+00:00:00,000 --> 00:00:07,000
+This is Al Brooks and this is my price action trading course. This module is about my setup.
+
+2
+00:00:11,200 --> 00:00:17,640
+It's pretty simple. I use a laptop computer and it's not particularly expensive. It's
+
+3
+00:00:17,640 --> 00:00:24,640
+a very average laptop. I use a five minute candle chart and a 20 bar exponential moving
+
+4
+00:00:25,160 --> 00:00:32,160
+average and I do not use any indicators. So for example here is a daily chart of the
+
+5
+00:00:38,760 --> 00:00:45,760
+EWZ. I have a 20 bar exponential moving average. Since this is a daily chart, each bar is one
+
+6
+00:00:45,760 --> 00:00:52,760
+day so the 20 bar exponential moving average is a 20 day moving average in this particular
+
+7
+00:00:53,600 --> 00:01:00,600
+case. On a five minute chart the 20 bar exponential moving average would be five 20 minute. When
+
+8
+00:01:02,920 --> 00:01:09,920
+I look at the five minute chart, here is a five minute chart of PBR Petrobras and when
+
+9
+00:01:10,920 --> 00:01:16,920
+I look at the five minute chart I have my 20 bar exponential moving average but I usually
+
+10
+00:01:19,960 --> 00:01:26,240
+have two other moving averages as well. This one is also a 20 bar moving average but it's
+
+11
+00:01:26,240 --> 00:01:33,240
+based upon the 15 minute chart. So in other words it's based upon 20 15 minute bars and
+
+12
+00:01:33,240 --> 00:01:40,240
+this other line is also a 20 bar exponential moving average but it's based on the 60 minute
+
+13
+00:01:42,720 --> 00:01:49,720
+chart. In other words this line is exactly at the prices that I would see the line on
+
+14
+00:01:51,240 --> 00:01:58,240
+a 60 minute chart. So it's helpful. So here you can see the market is forming a double
+
+15
+00:01:58,360 --> 00:02:05,360
+top at the 60 minute moving average. So if this was a 60 minute bar chart this would
+
+16
+00:02:05,720 --> 00:02:12,720
+be right at the 60 minute moving average. I keep my blinds closed. I don't take calls
+
+17
+00:02:16,040 --> 00:02:20,760
+and I don't watch television. Occasionally I'll get a phone call from one of my daughters
+
+18
+00:02:20,760 --> 00:02:26,560
+or one of my sons and I'll take that call but otherwise I don't take calls and I ignore
+
+19
+00:02:26,560 --> 00:02:32,920
+the news. I ignore the pundits. I know when there are reports at 7 o'clock or an FOMC
+
+20
+00:02:32,920 --> 00:02:37,340
+report and when the reports come out I usually do not trade at least for several seconds
+
+21
+00:02:37,340 --> 00:02:43,120
+maybe for several minutes. I don't care what the pundits say. The report means there's
+
+22
+00:02:43,120 --> 00:02:47,440
+going to be a bullish case and a bearish case and they're going to put one pundit on and
+
+23
+00:02:47,440 --> 00:02:52,760
+that pundit will be either a bull or a bear and that's not telling me what the two or
+
+24
+00:02:52,800 --> 00:02:59,800
+300 firms who are trading aggressively think that the market is doing in response to the
+
+25
+00:03:00,720 --> 00:03:07,720
+report. The only way I know how the market thinks the report is by looking at the charts
+
+26
+00:03:10,720 --> 00:03:16,440
+pundit on television is only giving me one side. Also I don't want any distractions and
+
+27
+00:03:16,440 --> 00:03:23,440
+I don't want anybody else's opinions. I just want to analyze what's going on myself and
+
+28
+00:03:24,320 --> 00:03:31,320
+I'm also very focused on it. What's my job? It's simple. It's to take money from other
+
+29
+00:03:31,800 --> 00:03:38,800
+people's accounts and to put it into my account. We're all playing the same game. It's no secret.
+
+30
+00:03:39,320 --> 00:03:42,800
+Everyone's trying to take money from everyone else. Goldman Sachs is trying to take money
+
+31
+00:03:42,800 --> 00:03:47,160
+from Morgan Stanley. Morgan Stanley is trying to take money from Citibank. Hedge funds are
+
+32
+00:03:47,160 --> 00:03:54,160
+trying to take money from everybody else. That's just the game that we're playing.
+
+33
+00:03:54,320 --> 00:04:01,320
+I have a 60-40 rule and sometimes on television you'll see someone insisting that the market
+
+34
+00:04:01,400 --> 00:04:05,520
+is definitely going up or definitely going down or some report is definitely bullish
+
+35
+00:04:05,520 --> 00:04:12,120
+or bearish. Nothing works all of the time. Everything works some of the time. Most things
+
+36
+00:04:12,120 --> 00:04:19,120
+work 40 to 60% of the time. I think we live in a world where the probability is 40 to
+
+37
+00:04:19,200 --> 00:04:26,200
+60%. Allen Greenspan once said that he was very proud that he was right about 70% of
+
+38
+00:04:27,600 --> 00:04:34,240
+the time. Here he is, the chairman of the Fed, and he's making the rules and he's controlling
+
+39
+00:04:34,240 --> 00:04:41,240
+the game and even with that he could still be right only 70% of the time. Most people
+
+40
+00:04:42,120 --> 00:04:48,320
+who are traders are going to live in a world where the probability is 40 to 60%. If you
+
+41
+00:04:48,320 --> 00:04:52,240
+think something is higher than that, you're probably wrong. If you think something is
+
+42
+00:04:52,240 --> 00:04:58,280
+less likely than 40%, you're probably wrong. If things get outside of that band, there
+
+43
+00:04:58,280 --> 00:05:03,720
+will not be institutions taking the other side of the trade and they'll hammer it back
+
+44
+00:05:03,720 --> 00:05:09,400
+into the band. Remember, the market stays pretty much in balance. There'll be an equal
+
+45
+00:05:10,360 --> 00:05:14,000
+number, or approximately an equal number of institutions on one side as there are on
+
+46
+00:05:14,000 --> 00:05:21,000
+the other side. If the market gets too heavy on one side, it will regress toward the mean.
+
+47
+00:05:25,360 --> 00:05:31,160
+Whenever someone says that he has something better than 60-40, there are certain pundits
+
+48
+00:05:31,160 --> 00:05:37,480
+that they put on television who talk with certainty that something is going to happen.
+
+49
+00:05:37,560 --> 00:05:44,560
+I never believe them. Whenever a person is that certain or confident, he is not honest
+
+50
+00:05:45,840 --> 00:05:52,440
+and he's out there selling something. Perfect trades cannot exist because there has to be
+
+51
+00:05:52,440 --> 00:05:58,640
+institutions taking the other side. If something was perfect, perfectly right, that means the
+
+52
+00:05:58,640 --> 00:06:03,440
+other institutions would have to be perfectly wrong. Since these institutions are pretty
+
+53
+00:06:03,520 --> 00:06:10,520
+much balanced on both sides, it would be impossible for that to happen. How can price action trading
+
+54
+00:06:12,000 --> 00:06:18,160
+work if everyone knows it? Trading is very difficult to do. Even when you're very good,
+
+55
+00:06:18,160 --> 00:06:25,160
+your margin for error is very small and every mistake works against you.
+
+56
+00:06:26,160 --> 00:06:33,160
+The best analysis is right only about 60-70% of the time. I often have days when I don't
+
+57
+00:06:34,720 --> 00:06:41,720
+lose it all. That doesn't mean I'm 100% right. It just means I was lucky on that day. Really
+
+58
+00:06:42,920 --> 00:06:48,760
+good traders, for the most part, are not going to be right more than 70% of the time unless
+
+59
+00:06:48,920 --> 00:06:55,080
+they're scalpers. I scalp most of the time. I do try to swing during the day, but most
+
+60
+00:06:55,080 --> 00:07:01,320
+of my trades are scalps. That's the only way you can get a high winning percentage. You're
+
+61
+00:07:01,320 --> 00:07:05,680
+competing against the very best traders in the world, the smartest people in the world,
+
+62
+00:07:05,680 --> 00:07:12,680
+and it's basically a zero-sum game. Everyone wants to take money from everyone else.
+
+63
+00:07:13,680 --> 00:07:20,680
+There's a huge difference between knowing how to do something really well and playing
+
+64
+00:07:22,120 --> 00:07:28,320
+it well enough to make a living. A soccer player, he may know how to play, for example,
+
+65
+00:07:28,320 --> 00:07:35,000
+a coach, but that does not mean he's able to make a living doing it. You can know a
+
+66
+00:07:35,000 --> 00:07:42,000
+lot about trading, but you have to have a lot of experience to be able to trade well
+
+67
+00:07:42,200 --> 00:07:49,200
+enough to make a living. Who's the mark in poker you often hear about? That guy's the
+
+68
+00:07:50,040 --> 00:07:57,040
+mark. In poker, if you're playing poker and you're with a table, six people, eight people,
+
+69
+00:07:57,240 --> 00:08:03,000
+and you don't know who the mark is, who the loser is, then you're probably the mark. In
+
+70
+00:08:03,000 --> 00:08:08,000
+trading, someone is always trapped on the wrong side of the market. If you don't know who's
+
+71
+00:08:08,000 --> 00:08:13,800
+trapped, you'll probably discover that you're trapped, that you're on the wrong side and
+
+72
+00:08:13,800 --> 00:08:20,800
+you're holding a losing position. It's very important to understand that 60-40 rule. If
+
+73
+00:08:22,800 --> 00:08:26,920
+you don't believe that the exact opposite can happen, the exact opposite of what you
+
+74
+00:08:26,920 --> 00:08:32,920
+believe will happen, if you don't believe that the exact opposite can happen 40% of the
+
+75
+00:08:32,920 --> 00:08:38,440
+time, you'll be trapped into bad positions and out of good positions. You have to be
+
+76
+00:08:38,440 --> 00:08:44,000
+very fluid about this and with your beliefs, you have to change when the market is giving
+
+77
+00:08:44,000 --> 00:08:49,560
+you evidence that your current belief is wrong, just take the opposite belief and there's
+
+78
+00:08:49,560 --> 00:08:54,400
+nothing wrong with that. The market does that all the time. It's always reversing all day
+
+79
+00:08:54,400 --> 00:09:01,400
+long. You should change your opinion all day long repeatedly.
+
+80
+00:09:03,880 --> 00:09:10,880
+Can you get trapped out of a good trade? Sure. Here's a strong bull trend. You've got several
+
+81
+00:09:13,000 --> 00:09:20,000
+strong bars and some bulls would have exited below this strong bear bar, especially since
+
+82
+00:09:20,200 --> 00:09:25,760
+it's the second bear bar. If you were one of those traders who exited out because of
+
+83
+00:09:25,760 --> 00:09:32,200
+all these bear bodies and then you see a potential buy signal, just get right back in. If you
+
+84
+00:09:32,200 --> 00:09:38,120
+get trapped out of a good trade, you just get right back in. Don't feel embarrassed about
+
+85
+00:09:38,120 --> 00:09:44,760
+it. That's just the way the market works. It's always trying to trap traders out. If
+
+86
+00:09:44,760 --> 00:09:50,440
+you see that you were wrong in believing that the trade was bad, that a long trade was bad
+
+87
+00:09:50,440 --> 00:09:56,680
+and you got another buy signal, just go ahead and buy. Don't worry. This is the end of the
+
+88
+00:09:56,680 --> 00:09:58,640
+module on my setup.

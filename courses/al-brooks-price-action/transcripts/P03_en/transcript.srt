@@ -1,0 +1,567 @@
+1
+00:00:00,000 --> 00:00:05,000
+This is Al Brooks and this is my price action trading course.
+
+2
+00:00:05,000 --> 00:00:09,000
+This module is about program trading.
+
+3
+00:00:12,000 --> 00:00:15,000
+The markets are controlled by program trading.
+
+4
+00:00:15,000 --> 00:00:23,000
+And you can only make money if you trade in the direction that program trading is trading.
+
+5
+00:00:23,000 --> 00:00:28,000
+If the bullish programs are controlling the market, the market is going to go up,
+
+6
+00:00:28,000 --> 00:00:30,000
+you only make money if you're buying.
+
+7
+00:00:30,000 --> 00:00:35,000
+If the bearish programs are in control, you have to be looking to sell.
+
+8
+00:00:40,000 --> 00:00:43,000
+How do the programmers come up with algorithms?
+
+9
+00:00:43,000 --> 00:00:50,000
+Any idea that you can imagine is something that a programmer has tested.
+
+10
+00:00:50,000 --> 00:00:55,000
+Even when the market is in an extremely tight trading range, the volume is huge.
+
+11
+00:00:55,000 --> 00:01:00,000
+And you have high frequency programs scalping for a tick or two.
+
+12
+00:01:00,000 --> 00:01:06,000
+When the e-mini futures contract is in a tight trading range for an hour or two,
+
+13
+00:01:06,000 --> 00:01:10,000
+and the top of the range to the bottom of the range is only two points,
+
+14
+00:01:10,000 --> 00:01:13,000
+you have high frequency trading firms buying.
+
+15
+00:01:13,000 --> 00:01:17,000
+Every time the market goes below the midpoint they'll buy.
+
+16
+00:01:17,000 --> 00:01:19,000
+It goes another tick or two, they'll buy more.
+
+17
+00:01:19,000 --> 00:01:24,000
+At some point it gets back to the middle of the range, they exit their lungs,
+
+18
+00:01:24,000 --> 00:01:29,000
+they break even on their first entry, and they make a tick or two on their second and third entries.
+
+19
+00:01:29,000 --> 00:01:32,000
+It goes above the midpoint, they sell.
+
+20
+00:01:32,000 --> 00:01:35,000
+It goes a tick or two higher, they sell more.
+
+21
+00:01:35,000 --> 00:01:39,000
+It comes back to the midpoint of the range to the original entry price.
+
+22
+00:01:39,000 --> 00:01:45,000
+They get out around break even with a profit on their later entries.
+
+23
+00:01:45,000 --> 00:01:51,000
+On television, if you listen to television, it sounds as if Goldman Sachs controls the market.
+
+24
+00:01:51,000 --> 00:01:52,000
+They do not.
+
+25
+00:01:52,000 --> 00:01:58,000
+There are, at any given time, hundreds of firms placing trades,
+
+26
+00:01:58,000 --> 00:02:02,000
+and Goldman Sachs is just a small part of it.
+
+27
+00:02:02,000 --> 00:02:06,000
+And the market is, in general, balanced.
+
+28
+00:02:06,000 --> 00:02:16,000
+So there are, pretty much, most of the time, an equal number of dollars going into lungs as there are going into shorts.
+
+29
+00:02:16,000 --> 00:02:25,000
+Bullish programs are trying to create upside breakouts, and bearish programs are adding to positions, trying to create downside breakouts.
+
+30
+00:02:25,000 --> 00:02:28,000
+Eventually one side wins, and the other side covers.
+
+31
+00:02:28,000 --> 00:02:34,000
+So, for example, if the bulls are successful in creating a very big bull breakout,
+
+32
+00:02:34,000 --> 00:02:39,000
+the bears who are shorting in the trading range will buy back their shorts.
+
+33
+00:02:39,000 --> 00:02:46,000
+That adds to the buying, and adds to the breakout, and those bears will not be eager to short again.
+
+34
+00:02:46,000 --> 00:02:51,000
+So you'll have bears sitting on the sidelines not shorting,
+
+35
+00:02:51,000 --> 00:02:57,000
+and that means the market has to go higher to find a price where they'll be willing to short again.
+
+36
+00:02:57,000 --> 00:03:02,000
+So during breakouts, the market can become very one-sided.
+
+37
+00:03:03,000 --> 00:03:11,000
+Now the markets are controlled by programs, and they cannot hide what they're doing.
+
+38
+00:03:11,000 --> 00:03:16,000
+The price action shows everyone exactly what's going on.
+
+39
+00:03:16,000 --> 00:03:25,000
+So if the market is going up bar after bar after bar, you know the buy programs are winning, and the sell programs are losing.
+
+40
+00:03:25,000 --> 00:03:33,000
+And if you know that the buy programs are in control, then you have to get long or look for ways to get long.
+
+41
+00:03:33,000 --> 00:03:37,000
+You know, they cannot be stealthy about it.
+
+42
+00:03:37,000 --> 00:03:46,000
+It's not like, you know, 50 firms are out there buying, and the market is going up, and they're doing it in a secret way.
+
+43
+00:03:46,000 --> 00:03:49,000
+They're showing us what they're doing.
+
+44
+00:03:49,000 --> 00:03:54,000
+If the market's going up, we know that there are more dollars going into buy programs than into sell programs.
+
+45
+00:03:54,000 --> 00:03:58,000
+And that we should look to buy.
+
+46
+00:03:58,000 --> 00:04:01,000
+You know, you cannot move the market.
+
+47
+00:04:01,000 --> 00:04:08,000
+You know, traders always think, oh my gosh, if I buy here, it'll make the market pop up.
+
+48
+00:04:08,000 --> 00:04:12,000
+Or if I sell here, it'll make the market pop down.
+
+49
+00:04:12,000 --> 00:04:18,000
+Or if I'm long and I put a stop below that bar, the market's going to see my stop, and it's going to come down and get my stop.
+
+50
+00:04:18,000 --> 00:04:21,000
+That is absolutely not true.
+
+51
+00:04:22,000 --> 00:04:35,000
+You know, the market cannot get to any price above or below where the market currently is, unless one or more institutions wants to buy or sell at that price.
+
+52
+00:04:35,000 --> 00:04:40,000
+Remember, the market, to be at any price, there has to be a buyer and a seller.
+
+53
+00:04:40,000 --> 00:04:44,000
+So there have to be institutions wanting to sell there.
+
+54
+00:04:44,000 --> 00:04:53,000
+It's not you or your friends wanting to sell on a stop below the current bar or buy above a prior swing high.
+
+55
+00:04:53,000 --> 00:04:55,000
+You cannot make the market get above that high.
+
+56
+00:04:55,000 --> 00:05:04,000
+It only gets above that high if there is one or more institutions who want to buy above that high.
+
+57
+00:05:04,000 --> 00:05:08,000
+So the market totally ignores anything that you do.
+
+58
+00:05:08,000 --> 00:05:14,000
+And you can say, well, I saw a breakout the other day in the E-mini and only three contracts traded.
+
+59
+00:05:14,000 --> 00:05:17,000
+That's right. Sometimes that happens.
+
+60
+00:05:17,000 --> 00:05:22,000
+Sometimes an institution will move the market with a three-lot order.
+
+61
+00:05:22,000 --> 00:05:27,000
+But, you know, you try to move it on a three-lot order. You will not be able to do it.
+
+62
+00:05:27,000 --> 00:05:35,000
+So if the market goes above a certain price and only three contracts are trading, you have to assume it did that because an institution did it.
+
+63
+00:05:35,000 --> 00:05:39,000
+Not because somebody at home did it.
+
+64
+00:05:39,000 --> 00:05:43,000
+And probably there's a reason for that institution doing it.
+
+65
+00:05:43,000 --> 00:05:51,000
+The institution may have wanted the market to go down and may have wanted to trigger traders into thinking that it was going up.
+
+66
+00:05:51,000 --> 00:06:02,000
+And then as soon as they bought their three contracts, a tick down, maybe a tick, they then sold 200.
+
+67
+00:06:02,000 --> 00:06:16,000
+So if you want to sell at any price, whether to get short or to get stopped out of a bad trade, the market cannot reach your price unless there are institutions who want to sell at that same price.
+
+68
+00:06:16,000 --> 00:06:20,000
+You know, the market's not going to go to your price no matter how big a position you have.
+
+69
+00:06:20,000 --> 00:06:23,000
+The market's not going to go to your price because of you.
+
+70
+00:06:23,000 --> 00:06:29,000
+It will only get to that price if institutions want to sell at that same price.
+
+71
+00:06:29,000 --> 00:06:34,000
+High frequency trading firms, HFTs, have received a lot of publicity lately.
+
+72
+00:06:34,000 --> 00:06:38,000
+They were on 60 minutes about a year ago.
+
+73
+00:06:38,000 --> 00:06:44,000
+And all a high frequency trading firm is a type of program trading firm.
+
+74
+00:06:44,000 --> 00:06:47,000
+They create most of the day's volume.
+
+75
+00:06:47,000 --> 00:06:53,000
+In some of the big markets, they can create 50%, maybe even 75% of the volume of trading.
+
+76
+00:06:53,000 --> 00:06:57,000
+And the firms trade scalp for tiny profits.
+
+77
+00:06:57,000 --> 00:06:59,000
+What's a tiny profit?
+
+78
+00:06:59,000 --> 00:07:03,000
+Sometimes a penny, sometimes less than a penny.
+
+79
+00:07:03,000 --> 00:07:09,000
+And they'll be trading a huge number of trades.
+
+80
+00:07:09,000 --> 00:07:13,000
+Ultimately, they don't have any significant effect on the direction of the market.
+
+81
+00:07:13,000 --> 00:07:18,000
+You know, they're just looking for a penny up, a penny down, two pennies up, two pennies down.
+
+82
+00:07:18,000 --> 00:07:25,000
+And they really don't have any significant effect on where the market is going.
+
+83
+00:07:25,000 --> 00:07:30,000
+A typical firm might trade 10 to 50 million trades a day.
+
+84
+00:07:30,000 --> 00:07:32,000
+And the trades are small.
+
+85
+00:07:32,000 --> 00:07:37,000
+There are only 100 contracts, 100 shares in a stock, 300 shares.
+
+86
+00:07:37,000 --> 00:07:45,000
+But if you take 50 million shares and you're trying to make one penny and you write 55% of the time,
+
+87
+00:07:45,000 --> 00:07:51,000
+you can end up having a pretty good day.
+
+88
+00:07:51,000 --> 00:07:56,000
+Okay, they create 70% of the volume in most of the major markets.
+
+89
+00:07:56,000 --> 00:08:01,000
+Other institutions create 25% of the volume.
+
+90
+00:08:01,000 --> 00:08:08,000
+And you and I, on a good day, might make up 5% of the volume.
+
+91
+00:08:08,000 --> 00:08:13,000
+The high-frequency trading firms are really concerned about latency.
+
+92
+00:08:13,000 --> 00:08:23,000
+Latency is the time from when a trade takes place to the time that they see the trade on their computer.
+
+93
+00:08:23,000 --> 00:08:30,000
+And they rent very expensive space very close to the exchanges.
+
+94
+00:08:30,000 --> 00:08:37,000
+And they have very fast computers to try to knock off milliseconds in the latency.
+
+95
+00:08:37,000 --> 00:08:42,000
+They often hold their trades for fractions of a second, sometimes to hours,
+
+96
+00:08:42,000 --> 00:08:50,000
+but for the most part for a very short period of time, and they're looking for a very small profit.
+
+97
+00:08:50,000 --> 00:08:58,000
+I will talk about extreme scalping in one of the later modules.
+
+98
+00:08:58,000 --> 00:09:04,000
+And that is a manual version of high-frequency trading.
+
+99
+00:09:04,000 --> 00:09:09,000
+So, for example, the E-mini has 81 bars during the trading day.
+
+100
+00:09:09,000 --> 00:09:14,000
+And on a typical day, there are about 40 possible scalps.
+
+101
+00:09:14,000 --> 00:09:19,000
+So if you're a scalper looking for all of those one-point scalps during the day,
+
+102
+00:09:19,000 --> 00:09:29,000
+you are basically a high-frequency trader, but instead of doing it using computers, you're doing it manually.
+
+103
+00:09:29,000 --> 00:09:35,000
+Going back to what I was saying, that institutions make up 95% of the trading.
+
+104
+00:09:35,000 --> 00:09:41,000
+They're not out to get your money. You don't have enough money to interest them.
+
+105
+00:09:41,000 --> 00:09:46,000
+Remember, 95% of the dollars out there are from institutions.
+
+106
+00:09:46,000 --> 00:09:52,000
+That 95% is not looking at the 5% as their source of income.
+
+107
+00:09:52,000 --> 00:10:01,000
+Each one of the firms in that 95% are looking at the other firms in that 95% as the source of their income.
+
+108
+00:10:01,000 --> 00:10:06,000
+So none of the firms cares about, Skolman Sachs is not trying to take money from you.
+
+109
+00:10:06,000 --> 00:10:14,000
+They're trying to take money from Citibank, from JP Morgan, from Credit Suisse, from Morgan Stanley, from all of the hedge funds.
+
+110
+00:10:14,000 --> 00:10:19,000
+That's where all the money is, and that's where they're trying to get their money.
+
+111
+00:10:19,000 --> 00:10:23,000
+So although a lot of times when you're starting out, it feels like they're trying to screw the little guy.
+
+112
+00:10:23,000 --> 00:10:27,000
+They don't care that you exist. You don't have enough money.
+
+113
+00:10:27,000 --> 00:10:33,000
+All the little guys put together do not have enough money to interest the institutions.
+
+114
+00:10:33,000 --> 00:10:36,000
+So the institutions are never out to get you.
+
+115
+00:10:36,000 --> 00:10:42,000
+High-frequency trading firms, how much profit potential do they have?
+
+116
+00:10:42,000 --> 00:10:47,000
+For example, let's look at a firm that makes 10 million trades a day.
+
+117
+00:10:47,000 --> 00:10:51,000
+And each trade is for, let's say, 100 shares.
+
+118
+00:10:51,000 --> 00:10:54,000
+And they win 55% of the time.
+
+119
+00:10:54,000 --> 00:11:04,000
+So they make a penny on 5.5 million trades, and they lose a penny on 4.5 million trades.
+
+120
+00:11:04,000 --> 00:11:08,000
+Let's just use that as our hypothetical.
+
+121
+00:11:09,000 --> 00:11:16,000
+Then they end up with 5.5 million winning pennies, which is 5.5 million dollars,
+
+122
+00:11:16,000 --> 00:11:23,000
+and they have 4.5 million losing pennies, or 4.5 million dollars.
+
+123
+00:11:23,000 --> 00:11:26,000
+So their net profit today, a million dollars.
+
+124
+00:11:26,000 --> 00:11:32,000
+Net profit per year, there are about 200 plus trading days a year.
+
+125
+00:11:32,000 --> 00:11:35,000
+That's 200 million dollars for the year.
+
+126
+00:11:36,000 --> 00:11:40,000
+The high-frequency trading firms are just like you and me.
+
+127
+00:11:40,000 --> 00:11:46,000
+They're out to chase riches, and they know that there's a huge profit potential,
+
+128
+00:11:46,000 --> 00:11:54,000
+and that huge profit potential results in the formation of lots of firms chasing that profit.
+
+129
+00:11:54,000 --> 00:12:00,000
+But there's a fallacy. Everyone thinks that all the high-frequency trading firms are making a lot of money.
+
+130
+00:12:00,000 --> 00:12:03,000
+And that's not the reality. Many of them lose money,
+
+131
+00:12:03,000 --> 00:12:10,000
+and only the very best firms do as well as an example that I just gave.
+
+132
+00:12:12,000 --> 00:12:15,000
+The high-frequency trading firms receive a lot of press,
+
+133
+00:12:15,000 --> 00:12:19,000
+and the media makes it sound like if you're not making money,
+
+134
+00:12:19,000 --> 00:12:22,000
+it's because of the high-frequency trading firms.
+
+135
+00:12:22,000 --> 00:12:29,000
+The reason you're not making money is not that the high-frequency trading firms are the problem.
+
+136
+00:12:29,000 --> 00:12:35,000
+It's because you're the problem. Everyone wants to blame everyone else for their losses.
+
+137
+00:12:35,000 --> 00:12:39,000
+But if you lose, it's because you're not yet good enough.
+
+138
+00:12:39,000 --> 00:12:42,000
+Everyone knows that the dollars are there. That's why all of us are here.
+
+139
+00:12:42,000 --> 00:12:46,000
+We all want some of the dollars. We all want a lot of the dollars.
+
+140
+00:12:46,000 --> 00:12:53,000
+But you're competing against very good people on pretty much a level playing field,
+
+141
+00:12:53,000 --> 00:13:01,000
+and you have to learn how to trade if you're expecting to take dollars from other very good traders.
+
+142
+00:13:04,000 --> 00:13:08,000
+This is the end of the module on program trading.

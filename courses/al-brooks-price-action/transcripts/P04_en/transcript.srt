@@ -1,0 +1,447 @@
+1
+00:00:00,000 --> 00:00:11,000
+This is Al Brooks and this is module 4 of my price action trading course and today I'm going to talk about the personality traits of successful traders.
+
+2
+00:00:11,000 --> 00:00:21,000
+Everyone's familiar with the list of traits that are many more than this. Some are fairly obvious. Being objective, being disciplined, being patient.
+
+3
+00:00:22,000 --> 00:00:30,000
+The two last ones I think are probably the most important. Being comfortable with uncertainty and managing trades properly.
+
+4
+00:00:30,000 --> 00:00:40,000
+Discipline traders, they never say to themselves, maybe this time it'll work. I'll try it this time. Or hey, maybe I'll try this.
+
+5
+00:00:40,000 --> 00:00:50,000
+They don't try ideas out of the blue whimsically just because the market is setting up something that might be fun to try.
+
+6
+00:00:50,000 --> 00:00:59,000
+They stick to their plan and if a setup is not one that they normally trade or if it's something that doesn't look quite right, they just don't take the trade.
+
+7
+00:00:59,000 --> 00:01:09,000
+They just let it go. Discipline traders, they never say to themselves, maybe this time it'll work. I'll try it this time. Or hey, maybe I'll try this.
+
+8
+00:01:09,000 --> 00:01:19,000
+They don't try ideas out of the blue whimsically just because the market is setting up something that might be fun to try.
+
+9
+00:01:19,000 --> 00:01:28,000
+They stick to their plan and if a setup is not one that they normally trade or if it's something that doesn't look quite right, they just don't take the trade.
+
+10
+00:01:28,000 --> 00:01:30,000
+They just let it go.
+
+11
+00:01:31,000 --> 00:01:37,000
+And you're trading against computers and you're trying to duplicate what they're doing.
+
+12
+00:01:37,000 --> 00:01:53,000
+Institutions are mostly computer generated trades and if you're to make money, you've got to be doing what the institutions are doing and what the computers are doing and they're not trading based on emotion.
+
+13
+00:01:54,000 --> 00:01:59,000
+So if you're looking at a setup and you feel any emotion, don't take the trade.
+
+14
+00:01:59,000 --> 00:02:09,000
+You also have to be very comfortable with the idea that the market might do the exact opposite of what you believe and it'll happen about 40% of the time.
+
+15
+00:02:09,000 --> 00:02:11,000
+It can happen more.
+
+16
+00:02:11,000 --> 00:02:15,000
+If you're a scalper and you're extremely good, it can happen less.
+
+17
+00:02:15,000 --> 00:02:21,000
+But you have to be open to the possibility that the market can do the exact opposite of what you think.
+
+18
+00:02:21,000 --> 00:02:37,000
+Remember that any time you take a trade, an institution agrees with you and another institution disagrees with you and you cannot be so confident that the institution on the other side is wrong.
+
+19
+00:02:37,000 --> 00:02:45,000
+That institution, no matter how confident you are, is going to be right 40% of the time, at least 40% of the time.
+
+20
+00:02:45,000 --> 00:02:51,000
+So if you're a pretty good trader, you'll probably lose at least 40% of the time.
+
+21
+00:02:51,000 --> 00:02:55,000
+You have to be willing to sit there and do nothing.
+
+22
+00:02:55,000 --> 00:03:09,000
+If you're a day trader, sometimes you have to sit for an hour or two or three waiting for a good signal and never get impatient and start telling yourself that, boy, a good trade is overdue.
+
+23
+00:03:09,000 --> 00:03:10,000
+Maybe I'll take this one.
+
+24
+00:03:10,000 --> 00:03:12,000
+A good trade is never overdue.
+
+25
+00:03:12,000 --> 00:03:18,000
+Sometimes there'll be 20 or 30 good signals in a day, sometimes just three or four.
+
+26
+00:03:18,000 --> 00:03:26,000
+And if you want to end up positive at the end of the day, you'll just accept whatever the market is offering.
+
+27
+00:03:26,000 --> 00:03:35,000
+And if it's offering very little, then you have to sit there patiently and do nothing.
+
+28
+00:03:35,000 --> 00:03:39,000
+This is very important, the idea of being comfortable with uncertainty.
+
+29
+00:03:39,000 --> 00:03:43,000
+Whenever you're putting on a trade, there's always uncertainty.
+
+30
+00:03:43,000 --> 00:03:51,000
+The first obvious element of uncertainty is how likely will the trade be successful?
+
+31
+00:03:51,000 --> 00:03:55,000
+What's the probability of success of achieving your goals?
+
+32
+00:03:55,000 --> 00:03:59,000
+And then you're also going to be uncertain about where to put the stop.
+
+33
+00:03:59,000 --> 00:04:08,000
+Do you use your routine stop, money stop, like maybe two points in the E-mini, maybe 50 cents in IBM?
+
+34
+00:04:08,000 --> 00:04:12,000
+Or do you have to use a bigger stop or a smaller stop?
+
+35
+00:04:12,000 --> 00:04:15,000
+You're also going to be uncertain about your profit target.
+
+36
+00:04:15,000 --> 00:04:24,000
+If the bars are very big and the range is very big and the swings are very big, maybe you should be using larger targets.
+
+37
+00:04:24,000 --> 00:04:28,000
+And this is something that traders deal with all the time.
+
+38
+00:04:28,000 --> 00:04:38,000
+If you find yourself getting upset or anxious or feeling pressured that you don't have enough time to make the decision, don't take the trade.
+
+39
+00:04:38,000 --> 00:04:48,000
+Because then you're feeling emotion and you cannot make money if emotion is influencing your decisions because you're trying to do what the computers are doing
+
+40
+00:04:48,000 --> 00:04:52,000
+and they are not trading based on emotion.
+
+41
+00:04:53,000 --> 00:04:58,000
+You have to be comfortable with losses. They're going to come.
+
+42
+00:04:58,000 --> 00:05:02,000
+If you're a pretty good trader, you're going to be losing at least 40% of the time.
+
+43
+00:05:02,000 --> 00:05:07,000
+When you're trading, nothing is crystal clear as you're trading.
+
+44
+00:05:07,000 --> 00:05:13,000
+And if you think something is crystal clear, don't take the trade because you're reading the charts incorrectly.
+
+45
+00:05:13,000 --> 00:05:17,000
+At the end of the day, when you print out the chart, everything is crystal clear.
+
+46
+00:05:17,000 --> 00:05:23,000
+However, that's not the case real time. There's always uncertainty.
+
+47
+00:05:23,000 --> 00:05:26,000
+You also have to be comfortable with what you're doing.
+
+48
+00:05:26,000 --> 00:05:33,000
+If this is your job and you're planning on doing it for many years, you have to be doing it in a way that's enjoyable.
+
+49
+00:05:33,000 --> 00:05:41,000
+You can't be miserably stressed out all day long, worried about losing money and worried that, oh my gosh, I just lost three in a row.
+
+50
+00:05:41,000 --> 00:05:44,000
+I can't afford losing four in a row.
+
+51
+00:05:44,000 --> 00:05:49,000
+If that's how you're feeling, you have to change how you're trading
+
+52
+00:05:49,000 --> 00:05:55,000
+and find a method to trade where you enjoy what you're doing.
+
+53
+00:05:55,000 --> 00:05:59,000
+I get up every morning and I just can't wait to get in front of my computer.
+
+54
+00:05:59,000 --> 00:06:01,000
+I really like what I'm doing.
+
+55
+00:06:01,000 --> 00:06:08,000
+For years, I was an extreme scalper taking 40 trades a day, but it was really stressful.
+
+56
+00:06:08,000 --> 00:06:12,000
+It was not fun. Can you make more money doing that?
+
+57
+00:06:12,000 --> 00:06:21,000
+Sure, but life has to be fun. You only have so many years and if you're choosing to live them in a miserable way,
+
+58
+00:06:21,000 --> 00:06:25,000
+I think that's not the best way to live your life.
+
+59
+00:06:25,000 --> 00:06:32,000
+I think what you do with your life time is precious and every part of your life should be fun.
+
+60
+00:06:32,000 --> 00:06:38,000
+You can make money while being happy.
+
+61
+00:06:38,000 --> 00:06:43,000
+There are lots of jobs where you can really love what you're doing and you can make a lot of money.
+
+62
+00:06:43,000 --> 00:06:49,000
+Trading is one of them. You don't have to be miserably worried all the time.
+
+63
+00:06:49,000 --> 00:06:55,000
+You have to find a way of trading that allows you to be happy.
+
+64
+00:06:55,000 --> 00:07:03,000
+There are lots of ways to trade and chances are you'll be able to find one that suits your personality.
+
+65
+00:07:03,000 --> 00:07:09,000
+Don't worry if you see someone on television who's trading one way and it's not right for you.
+
+66
+00:07:09,000 --> 00:07:18,000
+That's okay. Every trader has a different personality and every trader finds a method of trading that suits their personality.
+
+67
+00:07:18,000 --> 00:07:24,000
+The great traders don't worry that somebody else is using some other approach and making a lot of money.
+
+68
+00:07:24,000 --> 00:07:31,000
+If that's not them, then don't worry about it. You have to be comfortable doing what you have to do.
+
+69
+00:07:31,000 --> 00:07:41,000
+Swing traders lose most of the time but they're going for rewards that are two or three times greater than their risk.
+
+70
+00:07:41,000 --> 00:07:47,000
+If they're comfortable with winning only 40% of the time, it's a great way to trade.
+
+71
+00:07:47,000 --> 00:07:51,000
+In fact, it's probably the best way to trade when a trader is starting out.
+
+72
+00:07:51,000 --> 00:07:57,000
+Other traders are comfortable scaling into trades and going against them.
+
+73
+00:07:57,000 --> 00:08:05,000
+For example, if the market is in a weak bull channel, they'll start selling above prior swing highs.
+
+74
+00:08:05,000 --> 00:08:10,000
+If they're confident that the channel is about to transform into a trading range or reversal.
+
+75
+00:08:10,000 --> 00:08:14,000
+But they have to be comfortable with growing open losses.
+
+76
+00:08:14,000 --> 00:08:19,000
+The losses that they have continue to grow as the channel continues to go up.
+
+77
+00:08:19,000 --> 00:08:22,000
+They also have to be confident in their read.
+
+78
+00:08:22,000 --> 00:08:28,000
+They have to be confident that the channel is trying to convert into a trading range.
+
+79
+00:08:28,000 --> 00:08:32,000
+They also have to be able to stick to their plan.
+
+80
+00:08:32,000 --> 00:08:40,000
+They can't panic and exit with a huge loss right before the market turns.
+
+81
+00:08:40,000 --> 00:08:48,000
+They have to be trading with a size that will allow them to have the market go against them sometimes for an hour or two.
+
+82
+00:08:48,000 --> 00:09:01,000
+But as long as they're confident with their read and they're not trading so large that the losses are too big for what they're doing.
+
+83
+00:09:01,000 --> 00:09:05,000
+That's a comfortable way to trade.
+
+84
+00:09:05,000 --> 00:09:10,000
+There are other traders, scalpers, who want a very high probability trade.
+
+85
+00:09:10,000 --> 00:09:17,000
+But anytime something has a high probability of working, chances are it's only going to work briefly.
+
+86
+00:09:17,000 --> 00:09:20,000
+So the reward is going to be smaller.
+
+87
+00:09:20,000 --> 00:09:32,000
+However, even if you're scalping for a small reward, you have to make sure that your risk, the distance to your stop, is no bigger than your reward.
+
+88
+00:09:32,000 --> 00:09:39,000
+If you're trading with a stop that's bigger than your profit target, you have to be right 80 or 90% of the time.
+
+89
+00:09:39,000 --> 00:09:44,000
+And that's very difficult to do.
+
+90
+00:09:44,000 --> 00:09:48,000
+Some traders are comfortable with any type of environment.
+
+91
+00:09:48,000 --> 00:09:53,000
+High probability, low probability, scalps and swings.
+
+92
+00:09:53,000 --> 00:09:54,000
+And that's okay.
+
+93
+00:09:54,000 --> 00:09:58,000
+And if you find yourself to be one of those traders, go for it.
+
+94
+00:09:58,000 --> 00:10:00,000
+If that's your comfort zone, that's fine.
+
+95
+00:10:00,000 --> 00:10:02,000
+Go for it.
+
+96
+00:10:02,000 --> 00:10:08,000
+Managing trades correctly is, I think, the most important part of trading.
+
+97
+00:10:08,000 --> 00:10:11,000
+And it's more important than spotting perfect setups.
+
+98
+00:10:11,000 --> 00:10:13,000
+You know, it's fairly easy to spot setups.
+
+99
+00:10:13,000 --> 00:10:16,000
+It's fairly easy to spot really good setups.
+
+100
+00:10:16,000 --> 00:10:21,000
+But it can be difficult to manage the trade correctly after you put the trade on.
+
+101
+00:10:21,000 --> 00:10:27,000
+Most of the time, there's a profitable way to manage both a long and a short.
+
+102
+00:10:27,000 --> 00:10:32,000
+So most of the time, at any given instant during the day, you could buy and make money.
+
+103
+00:10:32,000 --> 00:10:35,000
+You can sell and make money if you manage your trades correctly.
+
+104
+00:10:35,000 --> 00:10:36,000
+How can that be?
+
+105
+00:10:36,000 --> 00:10:38,000
+Well, let's say you buy.
+
+106
+00:10:38,000 --> 00:10:43,000
+There's an institution taking the other side of that trade and chances are they're profitable.
+
+107
+00:10:43,000 --> 00:10:48,000
+So they have a profitable way to make money selling to you.
+
+108
+00:10:48,000 --> 00:10:53,000
+But that's management and you have to be able to do it well.
+
+109
+00:10:53,000 --> 00:10:58,000
+So anyway, like I just said, at any given instant, a good trader usually can make money
+
+110
+00:10:58,000 --> 00:11:04,000
+by either buying or selling if they manage their trades correctly.
+
+111
+00:11:04,000 --> 00:11:07,000
+This is the end of Module 4.
+
+112
+00:11:07,000 --> 00:11:09,000
+Thank you.
