@@ -1,19 +1,21 @@
 # Al Brooks Price Action Course Notes
 
-这些笔记整理自本地视频课程《交易圣经 / Al Brooks 价格行为》中的第 2 至第 4 节。转录稿保存在 `transcripts/`，笔记以中文学习笔记形式重写，不构成交易建议。
+这些笔记整理自本地视频课程《交易圣经 / Al Brooks 价格行为》中的第 1 至第 4 节。转录稿保存在 `transcripts/`，笔记以中文学习笔记形式重写，不构成交易建议。
 
 ## 目录
 
 | 课程 | 主题 | 笔记 |
 |---|---|---|
+| P01 | 价格形态 | [P01-价格形态.md](P01-价格形态.md) |
 | P02 | 我的设置 | [P02-我的设置.md](P02-我的设置.md) |
 | P03 | 程序化交易 | [P03-程序化交易.md](P03-程序化交易.md) |
 | P04 | 成功交易者的人格特质 | [P04-成功交易者的人格特质.md](P04-成功交易者的人格特质.md) |
 
 ## 转录说明
 
-- 主要笔记依据英文转录稿：`transcripts/P02_en/`、`transcripts/P03_en/`、`transcripts/P04_en/`。
-- 同步保留了最初的中文强制识别稿：`transcripts/P02/`、`transcripts/P03/`、`transcripts/P04/`。这些稿件术语噪声较高，仅作对照。
+- P01 目前保留中文强制识别稿：`transcripts/P01/`。该稿件术语噪声较高，笔记已按交易语境校正。
+- P02-P04 的主要笔记依据英文转录稿：`transcripts/P02_en/`、`transcripts/P03_en/`、`transcripts/P04_en/`。
+- 同步保留了 P02-P04 最初的中文强制识别稿：`transcripts/P02/`、`transcripts/P03/`、`transcripts/P04/`。这些稿件术语噪声较高，仅作对照。
 - 转录使用 `openai-whisper small`，运行设备为 CPU。
 
 ## 学习边界
