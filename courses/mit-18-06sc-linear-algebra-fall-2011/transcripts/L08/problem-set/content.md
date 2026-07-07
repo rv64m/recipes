@@ -1,0 +1,29 @@
+## Exercises on transposes, permutations, spaces
+
+Problem 5.1: (2.7 #13. Introduction to Linear Algebra: Strang)
+
+- a) Find a 3 by 3 permutation matrix with P 3 = I (but not P = I ).
+
+�
+
+- b) Find a 4 by 4 permutation P � with P � 4 = I .
+
+Problem 5.2: Suppose A is a four by four matrix. How many entries of A can be chosen independently if:
+
+- a) A is symmetric?
+- b) A is skew-symmetric ? ( A T = -A )
+
+Problem 5.3: (3.1 #18.) True or false (check addition or give a counterexample):
+
+- a) The symmetric matrices in M (with A T = A ) form a subspace.
+- b) The skew-symmetric matrices in M (with A T = -A ) form a subspace.
+
+�
+
+- c) The unsymmetric matrices in M (with A T = A ) form a subspace.
+
+MIT OpenCourseWare http://ocw.mit.edu
+
+## 18.06SC Linear Algebra Fall 2011
+
+For information about citing these materials or our Terms of Use, visit: http://ocw.mit.edu/terms.

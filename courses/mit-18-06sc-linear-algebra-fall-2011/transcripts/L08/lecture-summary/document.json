@@ -1,0 +1,1230 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "lecture-summary",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 17794266313939364086,
+    "filename": "lecture-summary.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/texts/30"
+      },
+      {
+        "$ref": "#/texts/31"
+      },
+      {
+        "$ref": "#/texts/32"
+      },
+      {
+        "$ref": "#/texts/33"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/texts/36"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/21"
+        },
+        {
+          "$ref": "#/texts/22"
+        },
+        {
+          "$ref": "#/texts/23"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/25"
+        },
+        {
+          "$ref": "#/texts/26"
+        },
+        {
+          "$ref": "#/texts/27"
+        },
+        {
+          "$ref": "#/texts/28"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 131.166422,
+            "t": 669.2600818,
+            "r": 367.3712056,
+            "b": 653.5269492338983,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            36
+          ]
+        }
+      ],
+      "orig": "Transposes, permutations, spaces R n",
+      "text": "Transposes, permutations, spaces R n",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 133.768,
+            "t": 641.221568,
+            "r": 407.32107080000003,
+            "b": 631.7750724811189,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            63
+          ]
+        }
+      ],
+      "orig": "In this lecture we introduce vector spaces and their subspaces.",
+      "text": "In this lecture we introduce vector spaces and their subspaces."
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 133.768,
+            "t": 613.3478944,
+            "r": 206.81427200000002,
+            "b": 602.2956159457626,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "Permutations",
+      "text": "Permutations",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 133.76799999999986,
+            "t": 593.2540818,
+            "r": 477.48766259999996,
+            "b": 535.8570724811188,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            342
+          ]
+        }
+      ],
+      "orig": "Multiplication by a permutation matrix P swaps the rows of a matrix; when applying the method of elimination we use permutation matrices to move zeros out of pivot positions. Our factorization A = LU then becomes PA = LU , where P is a permutation matrix which reorders any number of rows of A . Recall that P -1 = P T , i.e. that P T P = I .",
+      "text": "Multiplication by a permutation matrix P swaps the rows of a matrix; when applying the method of elimination we use permutation matrices to move zeros out of pivot positions. Our factorization A = LU then becomes PA = LU , where P is a permutation matrix which reorders any number of rows of A . Recall that P -1 = P T , i.e. that P T P = I ."
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 133.768,
+            "t": 517.4298944,
+            "r": 194.20153600000003,
+            "b": 506.3776159457627,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "Transposes",
+      "text": "Transposes",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 133.76799999999986,
+            "t": 497.206568,
+            "r": 477.48766259999974,
+            "b": 460.76518835623267,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            215
+          ]
+        }
+      ],
+      "orig": "� � When we take the transpose of a matrix, its rows become columns and its columns become rows. If we denote the entry in row i column j of matrix A by Aij , then we can describe A T by: A T ij = Aji . For example:",
+      "text": "� � When we take the transpose of a matrix, its rows become columns and its columns become rows. If we denote the entry in row i column j of matrix A by Aij , then we can describe A T by: A T ij = Aji . For example:"
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 244.206,
+            "t": 449.6201188,
+            "r": 367.16665,
+            "b": 412.3450724811189,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            41
+          ]
+        }
+      ],
+      "orig": "⎡ ⎤ T 1 3 � � 1 2 4 ⎣ 2 3 ⎦ = . 3 3 1 4 1",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 133.7732434,
+            "t": 400.4831188,
+            "r": 477.48294340000007,
+            "b": 358.3330724811189,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            193
+          ]
+        }
+      ],
+      "orig": "A matrix A is symmetric if A T = A . Given any matrix R (not necessarily square) the product R T R is always symmetric, because � R T R � T = R T � R T � T = R T R . (Note that � R T � T = R .)",
+      "text": "A matrix A is symmetric if A T = A . Given any matrix R (not necessarily square) the product R T R is always symmetric, because � R T R � T = R T � R T � T = R T R . (Note that � R T � T = R .)"
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 133.768,
+            "t": 339.9058944,
+            "r": 206.47952640000005,
+            "b": 328.8536159457627,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "Vector spaces",
+      "text": "Vector spaces",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 133.76799999999992,
+            "t": 319.682568,
+            "r": 477.4776999999999,
+            "b": 286.3258324811189,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            163
+          ]
+        }
+      ],
+      "orig": "We can add vectors and multiply them by numbers, which means we can discuss linear combinations of vectors. These combinations follow the rules of a vector space .",
+      "text": "We can add vectors and multiply them by numbers, which means we can discuss linear combinations of vectors. These combinations follow the rules of a vector space ."
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 133.76786340000012,
+            "t": 285.807688,
+            "r": 477.47855119999997,
+            "b": 225.91195248111887,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            283
+          ]
+        }
+      ],
+      "orig": "� � One such vector space is R 2 , the set of all vectors with exactly two real number components. We depict the vector a by drawing an arrow from b the origin to the point ( a , b ) which is a units to the right of the origin and b units above it, and we call R 2 the ' x -y plane'.",
+      "text": "� � One such vector space is R 2 , the set of all vectors with exactly two real number components. We depict the vector a by drawing an arrow from b the origin to the point ( a , b ) which is a units to the right of the origin and b units above it, and we call R 2 the ' x -y plane'."
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 133.76695400000006,
+            "t": 225.49211880000007,
+            "r": 477.476654,
+            "b": 202.0019524811189,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            94
+          ]
+        }
+      ],
+      "orig": "Another example of a space is R n , the set of (column) vectors with n real number components.",
+      "text": "Another example of a space is R n , the set of (column) vectors with n real number components."
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 133.768,
+            "t": 184.2278672,
+            "r": 169.18504300000004,
+            "b": 175.01769678644064,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "Closure",
+      "text": "Closure",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 133.75803739999986,
+            "t": 165.47308180000005,
+            "r": 477.47769999999997,
+            "b": 131.98683248111888,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            237
+          ]
+        },
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 133.768,
+            "t": 664.1390818,
+            "r": 477.4777,
+            "b": 642.6079524811189,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            238,
+            359
+          ]
+        }
+      ],
+      "orig": "The collection of vectors with exactly two positive real valued components is not a vector space. The sum of any two vectors in that collection is again in the collection, but multiplying any vector by, say, -5, gives a vector that's not in the collection. We say that this collection of positive vectors is closed under addition but not under multiplication.",
+      "text": "The collection of vectors with exactly two positive real valued components is not a vector space. The sum of any two vectors in that collection is again in the collection, but multiplying any vector by, say, -5, gives a vector that's not in the collection. We say that this collection of positive vectors is closed under addition but not under multiplication."
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 303.133,
+            "t": 96.13956800000005,
+            "r": 308.11429999999996,
+            "b": 86.69307248111886,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "1",
+      "text": "1"
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 133.76809999999995,
+            "t": 640.0995680000001,
+            "r": 477.47779999999995,
+            "b": 606.742832481119,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            233
+          ]
+        }
+      ],
+      "orig": "If a collection of vectors is closed under linear combinations (i.e. under addition and multiplication by any real numbers), and if multiplication and addition behave in a reasonable way, then we call that collection a vector space .",
+      "text": "If a collection of vectors is closed under linear combinations (i.e. under addition and multiplication by any real numbers), and if multiplication and addition behave in a reasonable way, then we call that collection a vector space ."
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 133.768,
+            "t": 589.7628672,
+            "r": 181.34937760000005,
+            "b": 580.5526967864406,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "Subspaces",
+      "text": "Subspaces",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 133.768,
+            "t": 571.0080818,
+            "r": 477.4809582,
+            "b": 537.5219524811189,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            239
+          ]
+        }
+      ],
+      "orig": "A vector space that is contained inside of another vector space is called a subspace of that space. For example, take any non-zero vector v in R 2 . Then the set of all vectors c v , where c is a real number, forms a subspace of R 2 . This",
+      "text": "A vector space that is contained inside of another vector space is called a subspace of that space. For example, take any non-zero vector v in R 2 . Then the set of all vectors c v , where c is a real number, forms a subspace of R 2 . This"
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 133.76425400000002,
+            "t": 536.393504,
+            "r": 477.47678740000003,
+            "b": 501.5565036811189,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            91
+          ]
+        }
+      ],
+      "orig": "� � collection of vectors describes a line through 0 in R 2 and is closed under 0 addition.",
+      "text": "� � collection of vectors describes a line through 0 in R 2 and is closed under 0 addition."
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 133.76995,
+            "t": 501.033688,
+            "r": 477.4796500000001,
+            "b": 453.73171248111885,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            273
+          ]
+        }
+      ],
+      "orig": "A line in R 2 that does not pass through the origin is not a subspace of R 2 . Multiplying any vector on that line by 0 gives the zero vector, which does not lie on the line. Every subspace must contain the zero vector because vector spaces are closed under multiplication.",
+      "text": "A line in R 2 that does not pass through the origin is not a subspace of R 2 . Multiplying any vector on that line by 0 gives the zero vector, which does not lie on the line. Every subspace must contain the zero vector because vector spaces are closed under multiplication."
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 148.712,
+            "t": 451.070688,
+            "r": 256.8159356,
+            "b": 439.6330724811189,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            25
+          ]
+        }
+      ],
+      "orig": "The subspaces of R 2 are:",
+      "text": "The subspaces of R 2 are:"
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 146.222,
+            "t": 434.52968799999996,
+            "r": 198.03664999999998,
+            "b": 423.0930724811189,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "1. all of R 2 ,",
+      "text": "all of R 2 ,",
+      "enumerated": true,
+      "marker": "1."
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 146.222,
+            "t": 416.9618552,
+            "r": 279.72078999999997,
+            "b": 393.9610724811189,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            31
+          ]
+        }
+      ],
+      "orig": "� � 0 2. any line through and 0",
+      "text": "� � 0 2. any line through and 0",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 146.222,
+            "t": 385.41908179999996,
+            "r": 269.0010324,
+            "b": 375.8430724811189,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            31
+          ]
+        }
+      ],
+      "orig": "3. the zero vector alone ( Z ).",
+      "text": "the zero vector alone ( Z ).",
+      "enumerated": true,
+      "marker": "3."
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 133.768,
+            "t": 370.739688,
+            "r": 241.8719356,
+            "b": 359.3020724811189,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            25
+          ]
+        }
+      ],
+      "orig": "The subspaces of R 3 are:",
+      "text": "The subspaces of R 3 are:"
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 146.222,
+            "t": 354.198688,
+            "r": 198.03764999999999,
+            "b": 342.76207248111893,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "1. all of R 3 ,",
+      "text": "all of R 3 ,",
+      "enumerated": true,
+      "marker": "1."
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 146.222,
+            "t": 333.975568,
+            "r": 287.80045860000007,
+            "b": 324.52907248111893,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            32
+          ]
+        }
+      ],
+      "orig": "2. any plane through the origin,",
+      "text": "any plane through the origin,",
+      "enumerated": true,
+      "marker": "2."
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 146.222,
+            "t": 315.742568,
+            "r": 299.0880844,
+            "b": 306.2960724811189,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            35
+          ]
+        }
+      ],
+      "orig": "3. any line through the origin, and",
+      "text": "any line through the origin, and",
+      "enumerated": true,
+      "marker": "3."
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 146.222,
+            "t": 297.6390818,
+            "r": 269.0010324,
+            "b": 288.0630724811189,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            31
+          ]
+        }
+      ],
+      "orig": "4. the zero vector alone ( Z ).",
+      "text": "the zero vector alone ( Z ).",
+      "enumerated": true,
+      "marker": "4."
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 133.769,
+            "t": 271.0828672,
+            "r": 198.23698460000006,
+            "b": 261.87269678644066,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "Column space",
+      "text": "Column space",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 133.769,
+            "t": 254.18968799999993,
+            "r": 477.47965,
+            "b": 177.02724914125872,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            253
+          ]
+        }
+      ],
+      "orig": "� � � � Given a matrix A with columns in R 3 , these columns and all their linear combi1 3 nations form a subspace of R 3 . This is the column space C ( A ) . If A = 2 3 , 4 1 1 the column space of A is the plane through the origin in R 3 containing 2 4",
+      "text": "� � � � Given a matrix A with columns in R 3 , these columns and all their linear combi1 3 nations form a subspace of R 3 . This is the column space C ( A ) . If A = 2 3 , 4 1 1 the column space of A is the plane through the origin in R 3 containing 2 4"
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 133.769,
+            "t": 173.65523800000005,
+            "r": 182.17665,
+            "b": 143.1542491412588,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "� � 3 and 3 . 1",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 133.77233599999994,
+            "t": 141.10729130000004,
+            "r": 477.48203600000005,
+            "b": 119.38995248111883,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            106
+          ]
+        }
+      ],
+      "orig": "Our next task will be to understand the equation A x = b in terms of subspaces and the column space of A .",
+      "text": "Our next task will be to understand the equation A x = b in terms of subspaces and the column space of A ."
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 303.133,
+            "t": 96.13956800000005,
+            "r": 308.11429999999996,
+            "b": 86.69307248111886,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "2",
+      "text": "2"
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 44.0246,
+            "t": 731.640684,
+            "r": 147.24827660000005,
+            "b": 710.7396100397615,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            37
+          ]
+        }
+      ],
+      "orig": "MIT OpenCourseWare http://ocw.mit.edu",
+      "text": "MIT OpenCourseWare http://ocw.mit.edu"
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 44.0246,
+            "t": 669.6278408,
+            "r": 175.33226791999988,
+            "b": 646.8795100397615,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            32
+          ]
+        }
+      ],
+      "orig": "18.06SC Linear Algebra Fall 2011",
+      "text": "18.06SC Linear Algebra Fall 2011",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 44.0247,
+            "t": 599.277384,
+            "r": 466.772444,
+            "b": 589.8052100397615,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            98
+          ]
+        }
+      ],
+      "orig": "For information about citing these materials or our Terms of Use, visit: http://ocw.mit.edu/terms.",
+      "text": "For information about citing these materials or our Terms of Use, visit: http://ocw.mit.edu/terms."
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 3
+    }
+  }
+}

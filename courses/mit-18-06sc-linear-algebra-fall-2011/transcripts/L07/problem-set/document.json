@@ -1,0 +1,350 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "problems",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 1898598232695512305,
+    "filename": "problems.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 200.175,
+            "t": 662.7553359,
+            "r": 409.56883359999995,
+            "b": 651.2286159457626,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            38
+          ]
+        }
+      ],
+      "orig": "Exercises on factorization into A = LU",
+      "text": "Exercises on factorization into A = LU",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 110.84729759999999,
+            "t": 620.4133359,
+            "r": 499.3912976,
+            "b": 594.2536655216784,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            106
+          ]
+        }
+      ],
+      "orig": "Problem 4.1: What matrix E puts A into triangular form EA = U ? Multiply by E -1 = L to factor A into LU .",
+      "text": "Problem 4.1: What matrix E puts A into triangular form EA = U ? Multiply by E -1 = L to factor A into LU ."
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 260.625,
+            "t": 571.905208,
+            "r": 350.23253184,
+            "b": 529.8446655216784,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            29
+          ]
+        }
+      ],
+      "orig": "⎡ ⎤ 1 3 0 A = ⎣ 2 4 0 ⎦ 2 0 1",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 110.854,
+            "t": 500.1409536,
+            "r": 499.25453759999994,
+            "b": 474.20778392167836,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            103
+          ]
+        }
+      ],
+      "orig": "Problem 4.2: (2.6 #13. Introduction to Linear Algebra: Strang) Compute L and U for the symmetric matrix",
+      "text": "Problem 4.2: (2.6 #13. Introduction to Linear Algebra: Strang) Compute L and U for the symmetric matrix"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 249.621,
+            "t": 461.768208,
+            "r": 360.7798,
+            "b": 405.52714209861495,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            53
+          ]
+        }
+      ],
+      "orig": "⎤ ⎡ A = ⎢ ⎢ ⎣ a a a a a b b b a b c c a b c d ⎥ ⎥ ⎦ .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 110.854,
+            "t": 396.5113359,
+            "r": 447.13960480000003,
+            "b": 384.79666552167834,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            69
+          ]
+        }
+      ],
+      "orig": "Find four conditions on a , b , c , d to get A = LU with four pivots.",
+      "text": "Find four conditions on a , b , c , d to get A = LU with four pivots."
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 302.137,
+            "t": 97.99253599999997,
+            "r": 308.1146,
+            "b": 86.65666552167829,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "1",
+      "text": "1"
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 44.0246,
+            "t": 731.640684,
+            "r": 147.24827660000005,
+            "b": 710.7396100397615,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            37
+          ]
+        }
+      ],
+      "orig": "MIT OpenCourseWare http://ocw.mit.edu",
+      "text": "MIT OpenCourseWare http://ocw.mit.edu"
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 44.0246,
+            "t": 669.6278408,
+            "r": 175.33226791999988,
+            "b": 646.8795100397615,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            32
+          ]
+        }
+      ],
+      "orig": "18.06SC Linear Algebra Fall 2011",
+      "text": "18.06SC Linear Algebra Fall 2011",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 44.0247,
+            "t": 599.277384,
+            "r": 466.772444,
+            "b": 589.8052100397615,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            98
+          ]
+        }
+      ],
+      "orig": "For information about citing these materials or our Terms of Use, visit: http://ocw.mit.edu/terms.",
+      "text": "For information about citing these materials or our Terms of Use, visit: http://ocw.mit.edu/terms."
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 2
+    }
+  }
+}

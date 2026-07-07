@@ -1,0 +1,143 @@
+1
+00:00:00,000 --> 00:00:12,780
+Welcome. Today's problem actually appeared in a quiz. It appeared in quiz one in fall
+
+2
+00:00:12,780 --> 00:00:20,400
+of 1999 as question four. The problem puts the usual solve the following system upside
+
+3
+00:00:20,400 --> 00:00:26,780
+down by saying we have some matrix and we know that all the solutions to ax equals this
+
+4
+00:00:26,780 --> 00:00:34,420
+vector here, one for one one, all the solutions to this problem are given by x equals 0, 1,
+
+5
+00:00:34,420 --> 00:00:41,220
+1 plus any number c times 0, 2, 1. And we're asked to say everything that we can about
+
+6
+00:00:41,220 --> 00:00:46,260
+the columns of the matrix A. So I'm going to let you pretend that you're on an exam,
+
+7
+00:00:46,260 --> 00:00:49,100
+try to solve it yourself and then come back and compare your solution with mine.
+
+8
+00:00:57,260 --> 00:01:02,340
+Okay, welcome back. So the first thing that you should think about in this sort of situation
+
+9
+00:01:02,340 --> 00:01:10,900
+is what is the size of A? Well, we want to multiply A with an x that has three entries,
+
+10
+00:01:10,900 --> 00:01:25,900
+so A should have three columns. Let me call those columns c1, c2, and c3. And when I take
+
+11
+00:01:25,940 --> 00:01:31,780
+some linear combinations of c1, c2, and c3, I'm going to get this vector here, one for one one.
+
+12
+00:01:31,780 --> 00:01:49,420
+So all the ci's, c1, c2, and c3 are vectors in R4. Now if you know about, if you learned about
+
+13
+00:01:50,380 --> 00:01:57,140
+particular solutions and special solutions, then my notation here shouldn't surprise you. I'm going to
+
+14
+00:01:57,140 --> 00:02:08,140
+call this vector here xp and this vector here xs. And I'm going to use the fact that xp plus c times
+
+15
+00:02:08,460 --> 00:02:27,260
+xs satisfies A times this equals b, I will call this vector b, for any number c. In particular,
+
+16
+00:02:27,500 --> 00:02:41,060
+what I'm going to conclude is that when c equals 0, we get A times xp equals b. But also that when c
+
+17
+00:02:41,060 --> 00:02:58,060
+equals 1, we get A times xp plus A times xs equals b. Replacing this by b, we get that this implies that
+
+18
+00:02:58,060 --> 00:03:10,180
+A times xs equals 0. So in trying to find what are the columns c1, c2, and c3 of the matrix A, let's
+
+19
+00:03:10,220 --> 00:03:20,060
+look at these two equations. xp satisfies A times xp equals b, and xs satisfies A times xs equals 0. Again, if you
+
+20
+00:03:20,060 --> 00:03:26,860
+know what particular and special solutions are, this shouldn't surprise you. But we also know what xp and xs are, so
+
+21
+00:03:26,860 --> 00:03:39,060
+let's use them to try to calculate c1, c2, and c3. A times xp equals b means that the linear combination of c1, c2,
+
+22
+00:03:39,100 --> 00:04:05,860
+and c3 encoded in the vector xp, which is 0, 1, 1, gives the vector b. So c1, c2, c3 times 0, 1, 1, gives us 1, 4, 1, 1.
+
+23
+00:04:06,620 --> 00:04:31,020
+In other words, c2 plus c3 equals b. Let's turn our attention to A times xs equals 0. This says that c1, c2, c3 times xs was
+
+24
+00:04:31,020 --> 00:04:50,620
+defined to be 0, 2, 1, equals 0. In other words, 2 times c2 plus c3 equals 0. Now solving this system, where the unknowns are
+
+25
+00:04:50,620 --> 00:05:00,500
+vectors, but it's still just a linear system, we can see, for example, from the second equation that c3 equals minus 2 c2, and
+
+26
+00:05:00,500 --> 00:05:16,300
+plugging it back into the original equation, getting c2 minus 2 c2 equals b, from which it follows that c2 is equal to minus b, and
+
+27
+00:05:16,300 --> 00:05:29,460
+that c3 is equal to 2 times b. So from this tiny amount of information, we just knew the solutions to this one particular
+
+28
+00:05:29,500 --> 00:05:38,340
+equation involving A, we got the second column of A, and the third column of A completely, explicitly calculated. Now what can we say about the first
+
+29
+00:05:38,340 --> 00:05:52,420
+column? I said before that all the solutions of A x equals b are of the form a particular solution, plus some number times a special
+
+30
+00:05:52,460 --> 00:06:03,260
+solution. And the information that we have is that there's just one number here. So we said everything, once we remove this vector here,
+
+31
+00:06:03,260 --> 00:06:14,660
+everything that we get here will satisfy A times x equals 0, and the fact that there's only, that everything that satisfies A times x equals 0 is a
+
+32
+00:06:14,660 --> 00:06:26,420
+multiple of this one vector that was given to us means that the null space of A has dimension one. There is just one special solution. So
+
+33
+00:06:26,420 --> 00:06:52,900
+dimension of the null space of A is one, so rank of A is the number of columns minus this dimension of null space, and it's equal to two. As rank of A is equal to two, the number of
+
+34
+00:06:53,660 --> 00:07:10,580
+linearly independent columns needs to be two as well. So the only thing that we can say at this point is if the first column was also a multiple of b as the second and the third are, then the rank would be smaller than two. So that is the only thing that
+
+35
+00:07:10,580 --> 00:07:32,700
+cannot happen. So c1 is not a multiple of b, not any multiple, including not a zero multiple. And that's pretty much everything we can say. Yes, if it was some other multiple of it, then we would be able to find some other
+
+36
+00:07:32,700 --> 00:07:39,020
+vector here and we would have two parameters. But it's not, and this is everything that we can say about it.

@@ -1,0 +1,1264 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "solutions",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 9633287038494023703,
+    "filename": "solutions.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/texts/30"
+      },
+      {
+        "$ref": "#/texts/31"
+      },
+      {
+        "$ref": "#/texts/32"
+      },
+      {
+        "$ref": "#/texts/33"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/texts/36"
+      },
+      {
+        "$ref": "#/texts/37"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/texts/39"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 200.175,
+            "t": 662.7553359,
+            "r": 409.56883359999995,
+            "b": 651.2286159457626,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            38
+          ]
+        }
+      ],
+      "orig": "Exercises on factorization into A = LU",
+      "text": "Exercises on factorization into A = LU",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 110.854,
+            "t": 622.0153359,
+            "r": 499.405224,
+            "b": 595.8546655216784,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            106
+          ]
+        }
+      ],
+      "orig": "Problem 4.1: What matrix E puts A into triangular form EA = U ? Multiply by E -1 = L to factor A into LU .",
+      "text": "Problem 4.1: What matrix E puts A into triangular form EA = U ? Multiply by E -1 = L to factor A into LU ."
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 260.6218384,
+            "t": 573.507208,
+            "r": 350.23253184,
+            "b": 531.4466655216784,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            29
+          ]
+        }
+      ],
+      "orig": "⎡ ⎤ 1 3 0 A = ⎣ 2 4 0 ⎦ 2 0 1",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 110.85399999999993,
+            "t": 507.16853599999996,
+            "r": 502.3868,
+            "b": 452.5070207216784,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            246
+          ]
+        }
+      ],
+      "orig": "Solution: We will perform a series of row operations to transform the matrix A into an upper triangular matrix. First, we multiply the first row by 2 and then subtract it from the second row in order to make the first element of the second row 0:",
+      "text": "Solution: We will perform a series of row operations to transform the matrix A into an upper triangular matrix. First, we multiply the first row by 2 and then subtract it from the second row in order to make the first element of the second row 0:"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 189.47,
+            "t": 440.110208,
+            "r": 420.79953343999995,
+            "b": 398.0496655216783,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            79
+          ]
+        }
+      ],
+      "orig": "⎡ ⎤⎡ ⎤ ⎡ ⎤ 1 0 0 1 3 0 1 3 0 ⎣ -2 1 0 ⎦⎣ 2 4 0 ⎦ = ⎣ 0 -2 0 ⎦ 0 0 1 2 0 1 2 0 1",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 110.854,
+            "t": 383.89453599999996,
+            "r": 502.38680000000005,
+            "b": 358.11678392167835,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            134
+          ]
+        }
+      ],
+      "orig": "Next, we multiply the first row by 2 (again) and subtract it from the third row in order to make the first element of the third row 0:",
+      "text": "Next, we multiply the first row by 2 (again) and subtract it from the third row in order to make the first element of the third row 0:"
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 184.479,
+            "t": 345.727208,
+            "r": 425.79112544,
+            "b": 303.66666552167834,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            81
+          ]
+        }
+      ],
+      "orig": "⎡ ⎤⎡ ⎤ ⎡ ⎤ 1 0 0 1 3 0 1 3 0 ⎣ 0 1 0 ⎦⎣ 0 -2 0 ⎦ = ⎣ 0 -2 0 ⎦ -2 0 1 2 0 1 0 -6 1",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 110.85081120000012,
+            "t": 289.511536,
+            "r": 502.38361120000013,
+            "b": 263.7337839216784,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            127
+          ]
+        }
+      ],
+      "orig": "Now, we multiply the second row by 3 and subtract it from the third row in order to make the second element of the third row 0:",
+      "text": "Now, we multiply the second row by 3 and subtract it from the third row in order to make the second element of the third row 0:"
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 169.789,
+            "t": 251.34420799999998,
+            "r": 443.5948640000001,
+            "b": 209.28342552167828,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            87
+          ]
+        }
+      ],
+      "orig": "⎡ ⎤⎡ ⎤ ⎡ ⎤ 1 0 0 1 3 0 1 3 0 ⎣ 0 1 0 ⎦⎣ 0 -2 0 ⎦ = ⎣ 0 -2 0 ⎦ = U . 0 -3 1 0 -6 1 0 0 1",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 110.854,
+            "t": 195.12853599999994,
+            "r": 499.39799999999997,
+            "b": 169.34666552167835,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            89
+          ]
+        }
+      ],
+      "orig": "We take the three matrices we used to perform each operation and multiply them to get E :",
+      "text": "We take the three matrices we used to perform each operation and multiply them to get E :"
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 179.771,
+            "t": 156.96120799999994,
+            "r": 430.67041264,
+            "b": 114.90066552167832,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            84
+          ]
+        }
+      ],
+      "orig": "⎡ ⎤ ⎡ ⎤ ⎡ ⎤ 1 0 0 1 0 0 1 0 0 E = ⎣ 0 0 1 -3 0 1 ⎦ ⎣ 0 -2 1 0 0 1 ⎦ ⎣ -2 0 1 0 0 1 ⎦",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 302.137,
+            "t": 97.99253599999997,
+            "r": 311.1034,
+            "b": 86.65666552167829,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "1",
+      "text": "1"
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 159.139,
+            "t": 653.101208,
+            "r": 454.24568960000005,
+            "b": 611.0398783216783,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            92
+          ]
+        }
+      ],
+      "orig": "⎡ ⎤ ⎡ ⎤ ⎡ ⎤ 1 0 0 1 0 0 1 0 0 = ⎣ 0 0 1 -3 0 1 ⎦ ⎣ -2 -2 1 0 0 1 ⎦ = ⎣ -2 4 1 -3 0 1 ⎦ = E .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 110.854,
+            "t": 596.0389536,
+            "r": 252.22423999999998,
+            "b": 584.5476655216784,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            26
+          ]
+        }
+      ],
+      "orig": "To check, we evaluate EA :",
+      "text": "To check, we evaluate EA :"
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 169.789,
+            "t": 572.162208,
+            "r": 443.5948640000001,
+            "b": 530.1016655216783,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            88
+          ]
+        }
+      ],
+      "orig": "⎡ ⎤ ⎡ ⎤ ⎡ ⎤ 1 0 0 1 3 0 1 3 0 ⎣ -2 4 1 -3 0 1 ⎦ ⎣ 2 2 4 0 0 1 ⎦ = ⎣ 0 0 -2 0 0 1 ⎦ = U .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 110.85031839999994,
+            "t": 515.648269,
+            "r": 502.3831184,
+            "b": 487.27466552167834,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            106
+          ]
+        }
+      ],
+      "orig": "To find E -1 , use the Gauss-Jordan elimination method (or just insert the multipliers 2, 2, 3 into E -1 )",
+      "text": "To find E -1 , use the Gauss-Jordan elimination method (or just insert the multipliers 2, 2, 3 into E -1 )"
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 159.204,
+            "t": 474.889208,
+            "r": 451.05841264,
+            "b": 432.8286655216784,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            94
+          ]
+        }
+      ],
+      "orig": "⎡ ⎤ ⎡ ⎤ 1 0 0 1 0 0 1 0 0 1 0 0 ⎣ -2 4 1 -3 0 1 0 0 1 0 0 1 ⎦ -→ ⎣ 0 0 1 -3 0 1 2 -4 1 0 0 1 ⎦",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 172.957,
+            "t": 417.106208,
+            "r": 439.18780000000004,
+            "b": 375.04587832167834,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            82
+          ]
+        }
+      ],
+      "orig": "⎡ ⎤ ⎡ ⎤ 1 0 0 1 0 0 1 0 0 -→ ⎣ 0 0 1 0 0 1 2 2 1 3 0 1 ⎦ -→ ⎣ 2 2 1 3 0 1 ⎦ = E -1",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 110.854,
+            "t": 360.0439536,
+            "r": 366.0736096,
+            "b": 348.55266552167836,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            52
+          ]
+        }
+      ],
+      "orig": "We can check that this is in fact the inverse of E :",
+      "text": "We can check that this is in fact the inverse of E :"
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 154.83712000000003,
+            "t": 336.168208,
+            "r": 458.7442624,
+            "b": 294.10742552167835,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            93
+          ]
+        }
+      ],
+      "orig": "⎡ ⎤⎡ ⎤ ⎡ ⎤ 1 0 0 1 0 0 1 0 0 EE -1 = ⎣ -2 1 0 ⎦⎣ 2 1 0 ⎦ = ⎣ 0 1 0 ⎦ = I . 4 -3 1 2 3 1 0 0 1",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 110.854,
+            "t": 279.6532689999999,
+            "r": 364.5936816,
+            "b": 265.72566552167837,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            50
+          ]
+        }
+      ],
+      "orig": "Finally, to factorize A into LU (where L = E -1 ):",
+      "text": "Finally, to factorize A into LU (where L = E -1 ):"
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 162.047,
+            "t": 253.34020799999996,
+            "r": 451.34360000000004,
+            "b": 211.27942552167838,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            89
+          ]
+        }
+      ],
+      "orig": "⎡ ⎤ ⎡ ⎤⎡ ⎤ 1 3 0 1 0 0 1 3 0 ⎣ 2 4 0 ⎦ = A = LU = ⎣ 2 1 0 ⎦⎣ 0 -2 0 ⎦ . 2 0 1 2 3 1 0 0 1",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 110.85399999999998,
+            "t": 181.57595360000005,
+            "r": 499.24258239999995,
+            "b": 155.6427839216783,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            103
+          ]
+        }
+      ],
+      "orig": "Problem 4.2: (2.6 #13. Introduction to Linear Algebra: Strang) Compute L and U for the symmetric matrix",
+      "text": "Problem 4.2: (2.6 #13. Introduction to Linear Algebra: Strang) Compute L and U for the symmetric matrix"
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 302.137,
+            "t": 97.99253599999997,
+            "r": 311.1034,
+            "b": 86.65666552167829,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "2",
+      "text": "2"
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 143.83,
+            "t": 318.0633359,
+            "r": 143.83,
+            "b": 307.3541771138667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "�",
+      "text": "�"
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 249.621,
+            "t": 653.051208,
+            "r": 363.76860000000005,
+            "b": 596.810142098615,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            53
+          ]
+        }
+      ],
+      "orig": "⎤ ⎡ ⎢ ⎢ ⎣ a a a a a b b b a b c c a b c d ⎥ ⎥ ⎦ A = .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 110.854,
+            "t": 587.7943359,
+            "r": 355.01283359999996,
+            "b": 576.0796655216783,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            51
+          ]
+        }
+      ],
+      "orig": "Find four conditions on a , b , c , d to get A = LU",
+      "text": "Find four conditions on a , b , c , d to get A = LU"
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 358.51570719999995,
+            "t": 587.415536,
+            "r": 450.12840480000006,
+            "b": 576.0796655216783,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            17
+          ]
+        }
+      ],
+      "orig": "with four pivots.",
+      "text": "with four pivots."
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 110.84204479999994,
+            "t": 563.006536,
+            "r": 502.3883184,
+            "b": 508.33778392167835,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            243
+          ]
+        }
+      ],
+      "orig": "Solution: Elimination subtracts row 1 from rows 2-4, then row 2 from rows 3-4, and finally row 3 from row 4; the result is U .  All the multipliers � ij are equal to 1; so L is the lower triangular matrix with 1's on the diagonal and below it.",
+      "text": "Solution: Elimination subtracts row 1 from rows 2-4, then row 2 from rows 3-4, and finally row 3 from row 4; the result is U .  All the multipliers � ij are equal to 1; so L is the lower triangular matrix with 1's on the diagonal and below it."
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 131.814,
+            "t": 483.94320799999997,
+            "r": 478.44553184,
+            "b": 427.48666552167833,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            151
+          ]
+        }
+      ],
+      "orig": "⎤ ⎡ ⎤ ⎡ a a a a a a a a A -→ ⎢ ⎢ ⎣ ⎥ ⎥ ⎦ -→ ⎢ ⎢ ⎣ ⎥ ⎥ ⎦ 0 b -a b -a b -a 0 b -a b -a b -a 0 b -a 0 b -a 0 c -b c -b 0 0 c -b d -b 0 c -a c -a d -a c -a",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 152.555,
+            "t": 412.212208,
+            "r": 452.72353183999996,
+            "b": 355.75566552167834,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            126
+          ]
+        }
+      ],
+      "orig": "⎤ ⎡ ⎤ ⎡ a a a a 1 0 0 0 ⎢ ⎢ ⎣ ⎥ ⎥ ⎦ = U , L = ⎢ ⎢ ⎣ 1 1 0 0 1 1 1 0 ⎥ ⎥ ⎦ 0 b -a b -a b -a 0 c -b c -b -→ 0 0 0 0 d -c 1 1 1 1",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 404.764,
+            "t": 332.5093359,
+            "r": 404.764,
+            "b": 321.80017711386665,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "�",
+      "text": "�"
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 440.794,
+            "t": 332.5093359,
+            "r": 440.794,
+            "b": 321.80017711386665,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "�",
+      "text": "�"
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 475.964,
+            "t": 332.5093359,
+            "r": 475.964,
+            "b": 321.80017711386665,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "�",
+      "text": "�"
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 454.857,
+            "t": 388.660536,
+            "r": 460.8346000000001,
+            "b": 377.32466552167836,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": ".",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 110.84751999999997,
+            "t": 346.7319536,
+            "r": 502.3836112000001,
+            "b": 306.34866552167836,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            160
+          ]
+        }
+      ],
+      "orig": "The pivots are the nonzero entries on the diagonal of U .  So there are four pivots when these four conditions are satisfied: a = 0, b = a , c = b , and d = c .",
+      "text": "The pivots are the nonzero entries on the diagonal of U .  So there are four pivots when these four conditions are satisfied: a = 0, b = a , c = b , and d = c ."
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 302.137,
+            "t": 97.99253599999997,
+            "r": 311.1034,
+            "b": 86.65666552167829,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "3",
+      "text": "3"
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 44.0246,
+            "t": 731.640684,
+            "r": 147.24827660000005,
+            "b": 710.7396100397615,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            37
+          ]
+        }
+      ],
+      "orig": "MIT OpenCourseWare http://ocw.mit.edu",
+      "text": "MIT OpenCourseWare http://ocw.mit.edu"
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 44.0246,
+            "t": 669.6278408,
+            "r": 175.33226791999988,
+            "b": 646.8795100397615,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            32
+          ]
+        }
+      ],
+      "orig": "18.06SC Linear Algebra Fall 2011",
+      "text": "18.06SC Linear Algebra Fall 2011",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 44.0247,
+            "t": 599.277384,
+            "r": 466.772444,
+            "b": 589.8052100397615,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            98
+          ]
+        }
+      ],
+      "orig": "For information about citing these materials or our Terms of Use, visit: http://ocw.mit.edu/terms.",
+      "text": "For information about citing these materials or our Terms of Use, visit: http://ocw.mit.edu/terms."
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 4
+    }
+  }
+}

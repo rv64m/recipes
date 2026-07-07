@@ -1,0 +1,315 @@
+1
+00:00:00,000 --> 00:00:12,600
+Hi, welcome to Recitation. My name is Martina and I'll be your Recitation Instructor for
+
+2
+00:00:12,600 --> 00:00:17,720
+some of these linear algebra videos. Today's problem is a straightforward solve the following
+
+3
+00:00:17,720 --> 00:00:22,440
+linear system with four equations and four unknowns using the method of elimination.
+
+4
+00:00:22,440 --> 00:00:31,320
+The system is x minus y minus z plus u equals 0, 2x plus 2z equals 8, minus y minus 2z equals
+
+5
+00:00:31,320 --> 00:00:38,040
+minus 8, and 3x minus 3y minus 2z plus 4u equals 7. And although you might know different
+
+6
+00:00:38,040 --> 00:00:42,120
+ways to solve this system at this point, the method of elimination is going to show up
+
+7
+00:00:42,120 --> 00:00:47,880
+a million times during these videos, so it's really important to get it right. So I suggest
+
+8
+00:00:47,880 --> 00:00:52,160
+you try solving this system now using the method of elimination as it was described in
+
+9
+00:00:52,160 --> 00:00:56,200
+class. I'm going to leave you alone with the problem. You should pause the video, solve
+
+10
+00:00:56,200 --> 00:01:08,080
+it yourself, and then come back and compare your solution with mine. And we're back.
+
+11
+00:01:08,080 --> 00:01:12,840
+So the method of elimination, if you remember it from class, consisted of replacing this
+
+12
+00:01:12,840 --> 00:01:17,600
+system with an equivalent system, equivalent meaning they have the same solution, by a
+
+13
+00:01:17,600 --> 00:01:22,120
+series of row operations. Row operations are not supposed to change the solution to
+
+14
+00:01:22,120 --> 00:01:27,360
+the system, and therefore, for example, exchange the order of two equations. Multiply an equation
+
+15
+00:01:27,360 --> 00:01:33,200
+with a nonzero number and add a nonzero multiple of one equation to the other. So let's do
+
+16
+00:01:33,200 --> 00:01:37,320
+that. As we're going to do this series of arithmetic operations, we don't really want
+
+17
+00:01:37,320 --> 00:01:41,640
+to copy the names of the variables and the equality signs every time, so we're going
+
+18
+00:01:41,640 --> 00:01:46,800
+to keep the important information which are these numbers, these coefficients here, we're
+
+19
+00:01:46,800 --> 00:01:55,360
+going to keep that information in a matrix. So let's write a matrix. Each row is going
+
+20
+00:01:55,360 --> 00:02:00,120
+to correspond to an equation, and each column is going to correspond to an unknown. So the
+
+21
+00:02:00,120 --> 00:02:15,360
+first row is one minus one minus one one. The second row corresponding to the second
+
+22
+00:02:15,360 --> 00:02:26,720
+equation is two zero two zero. And you want to be very careful to put zeros on the right
+
+23
+00:02:26,720 --> 00:02:41,440
+spots here. The third equation is zero minus one minus two zero, and the fourth row corresponding
+
+24
+00:02:41,520 --> 00:02:51,320
+to the fourth equation is three minus three minus two four. And as we care about the right
+
+25
+00:02:51,320 --> 00:02:55,960
+hand side as well, we're going to copy this information as well and get the augmented
+
+26
+00:02:55,960 --> 00:03:05,360
+matrix of the system. Zero eight minus eight seven. Okay, and now let's try reducing this
+
+27
+00:03:05,440 --> 00:03:12,320
+matrix to an upper triangular one. We start with the first column and we're going to use
+
+28
+00:03:12,320 --> 00:03:17,480
+this number called the pivot to get rid of all the numbers under it. So to get zeros here
+
+29
+00:03:17,480 --> 00:03:24,560
+and here. A way to do it is, well, to get rid of this two, I have to multiply the first
+
+30
+00:03:24,560 --> 00:03:30,040
+row by minus two and add it to the second one. This is not, writing this here is not
+
+31
+00:03:30,040 --> 00:03:33,560
+strictly necessary, but I like to do a bit of bookkeeping because I'm prone to make a
+
+32
+00:03:33,600 --> 00:03:38,480
+lot of errors while doing these simple arithmetic operations. And then if I get to the end,
+
+33
+00:03:38,480 --> 00:03:42,560
+figure out I made a mistake somewhere. This bookkeeping makes it easier to backtrack and
+
+34
+00:03:42,560 --> 00:03:48,840
+find the place where I made this mistake. So we replace this matrix with another matrix. The
+
+35
+00:03:48,840 --> 00:03:59,240
+first row stays the same. One minus one minus one one zero. The second row gets replaced by a
+
+36
+00:03:59,360 --> 00:04:05,000
+second row minus two times the first row. The aim of that is to get a zero here. So that's
+
+37
+00:04:05,000 --> 00:04:11,240
+good. Next on this position here, we get minus two times minus one, which is two plus zero,
+
+38
+00:04:11,240 --> 00:04:21,480
+which is two. Minus one times minus two, which is two plus two, which is four. Minus two plus zero,
+
+39
+00:04:22,120 --> 00:04:29,400
+which is minus two. And eight minus two times zero, which is eight. The third row already has a zero
+
+40
+00:04:29,400 --> 00:04:38,200
+here, so I can just copy it over. Zero minus one minus two zero minus eight. And to get a zero
+
+41
+00:04:38,200 --> 00:04:46,680
+here, I'm going to multiply the first row by minus three and add it to the fourth row and get zero
+
+42
+00:04:47,640 --> 00:04:58,800
+minus three times minus one is three, minus three is zero, minus three minus one, sorry, three minus
+
+43
+00:04:58,800 --> 00:05:11,880
+two is one, and minus three plus four is one. And there we go. The first column looks like a first
+
+44
+00:05:11,880 --> 00:05:17,560
+column of an upper triangular matrix. Now let's do the same to the second column. This is going to be
+
+45
+00:05:17,560 --> 00:05:23,000
+our pivot, the number that we use to get rid of numbers under it, and we see that to get rid of
+
+46
+00:05:23,000 --> 00:05:29,560
+this number here, we will need to multiply it with one half. So multiply the whole second row
+
+47
+00:05:29,560 --> 00:05:38,520
+with one half and add it to the third row. The matrix that we get will have the first row the same,
+
+48
+00:05:38,600 --> 00:05:53,240
+stays the same. One minus one minus one one zero. The second row stays the same. Zero, two, four,
+
+49
+00:05:54,440 --> 00:06:04,280
+minus two, eight. The third row gets replaced by the third row plus one half times the second row
+
+50
+00:06:04,280 --> 00:06:15,720
+and becomes zero, zero, two minus two which is zero, minus one plus zero which is minus one,
+
+51
+00:06:17,640 --> 00:06:25,880
+and four minus eight which is minus four. And the third row, the fourth row already has a zero
+
+52
+00:06:25,880 --> 00:06:36,120
+here so I just copy it over. Zero, zero, one, one, seven. And now let's look at this matrix. It has
+
+53
+00:06:36,120 --> 00:06:41,800
+the first two columns as they're supposed to be, zeros under the diagonal, and now we want to get a
+
+54
+00:06:41,800 --> 00:06:48,840
+zero here. Normally what I would do is to circle this number here, multiply it by something so that
+
+55
+00:06:48,840 --> 00:06:55,080
+I get a minus one, and add it to this row to get a zero here. But that's not going to work. You might
+
+56
+00:06:55,080 --> 00:07:00,440
+remember from lectures that zeros can never be pivots or you can just try finding a number such
+
+57
+00:07:00,440 --> 00:07:04,840
+that zero times this number equals minus one and seeing that such a number doesn't exist because
+
+58
+00:07:04,840 --> 00:07:10,760
+you're always going to get zero. So we cannot proceed as we did until now but is there another way
+
+59
+00:07:10,760 --> 00:07:19,720
+to get a zero here? There is a very simple row operation which consists just of switching the
+
+60
+00:07:19,720 --> 00:07:24,120
+third and the fourth row. It certainly doesn't change the solution of the system. So let's do that.
+
+61
+00:07:25,800 --> 00:07:39,720
+And let's get the next matrix which is one minus one minus one one zero. Zero, two, four, minus two,
+
+62
+00:07:40,840 --> 00:07:49,400
+eight. Then we put the fourth row here, zero, zero, one, one, seven, and we put the third row here,
+
+63
+00:07:49,400 --> 00:07:54,200
+zero, zero, zero, minus one, minus four.
+
+64
+00:07:59,640 --> 00:08:05,960
+And there it is. This is an upper triangular matrix. So in the same way as at the beginning we had a
+
+65
+00:08:05,960 --> 00:08:11,560
+system and then wrote the matrix representing it, this matrix also represents a system and this system
+
+66
+00:08:11,560 --> 00:08:16,920
+has the same solutions as the initial system but is much easier to solve. Now let me write this
+
+67
+00:08:16,920 --> 00:08:21,320
+back as a system and let me do that not starting from the first equation but starting from the
+
+68
+00:08:21,320 --> 00:08:31,320
+last equation. So the last equation here reads minus u equals minus four
+
+69
+00:08:34,520 --> 00:08:40,920
+which is as equations go a pretty easy one to solve. The solution is u equals four.
+
+70
+00:08:41,800 --> 00:08:47,960
+Now let's go back to the third equation. The third equation reads y, uh no I'm sorry z,
+
+71
+00:08:52,280 --> 00:08:55,080
+the third column corresponds to z plus u
+
+72
+00:08:57,640 --> 00:09:06,200
+equals seven. But we know what's u now. So it reads z plus four equals seven
+
+73
+00:09:06,760 --> 00:09:17,480
+which just becomes z equals three. The second equation is two times y
+
+74
+00:09:19,160 --> 00:09:30,760
+plus four times z but z is three minus two times u but u is four equals eight
+
+75
+00:09:30,760 --> 00:09:40,200
+and from this one can easily compute that y is equal to two. And finally the first equation reads
+
+76
+00:09:40,200 --> 00:10:01,480
+x minus y minus z plus u equals zero or x equals one. And this is our solution x, y, z and u
+
+77
+00:10:02,120 --> 00:10:07,400
+equal one, two, three and four. This finish is the problem but I would very strongly encourage
+
+78
+00:10:07,400 --> 00:10:12,360
+you now to take this solution and plug it back into the original system and check if it's really
+
+79
+00:10:12,360 --> 00:10:17,000
+a solution. And that's all I want you to say today.

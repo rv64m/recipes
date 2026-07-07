@@ -1,0 +1,1302 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "lecture summary (PDF)",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 16448094853941292198,
+    "filename": "lecture summary (PDF).pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/texts/30"
+      },
+      {
+        "$ref": "#/texts/31"
+      },
+      {
+        "$ref": "#/texts/32"
+      },
+      {
+        "$ref": "#/texts/33"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/texts/36"
+      },
+      {
+        "$ref": "#/texts/37"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/texts/39"
+      },
+      {
+        "$ref": "#/texts/40"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 133.768,
+            "t": 666.5306464,
+            "r": 435.02385379999976,
+            "b": 653.2679492338983,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            46
+          ]
+        }
+      ],
+      "orig": "Lecture 3: Multiplication and inverse matrices",
+      "text": "Lecture 3: Multiplication and inverse matrices",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 133.768,
+            "t": 640.2298944,
+            "r": 252.94938880000007,
+            "b": 629.1776159457627,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            21
+          ]
+        }
+      ],
+      "orig": "Matrix Multiplication",
+      "text": "Matrix Multiplication",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 133.76515120000005,
+            "t": 620.3222913,
+            "r": 479.966099,
+            "b": 585.4651883562326,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            230
+          ]
+        }
+      ],
+      "orig": "We discuss four different ways of thinking about the product AB = C of two matrices.  If A is an m × n matrix and B is an n × p matrix, then C is an m × p matrix. We use c ij to denote the entry in row i and column j of matrix C .",
+      "text": "We discuss four different ways of thinking about the product AB = C of two matrices.  If A is an m × n matrix and B is an n × p matrix, then C is an m × p matrix. We use c ij to denote the entry in row i and column j of matrix C ."
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 133.76930419999997,
+            "t": 568.8787447999999,
+            "r": 266.301772,
+            "b": 559.6685743864406,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            27
+          ]
+        }
+      ],
+      "orig": "Standard (row times column)",
+      "text": "Standard (row times column)",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 133.76838200000003,
+            "t": 550.1291315999999,
+            "r": 479.9886572000001,
+            "b": 528.5909524811188,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            155
+          ]
+        }
+      ],
+      "orig": "The standard way of describing a matrix product is to say that c ij equals the dot product of row i of matrix A and column j of matrix B .  In other words,",
+      "text": "The standard way of describing a matrix product is to say that c ij equals the dot product of row i of matrix A and column j of matrix B .  In other words,"
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 133.893,
+            "t": 528.0471187999999,
+            "r": 200.17729999999997,
+            "b": 499.047328648951,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            27
+          ]
+        }
+      ],
+      "orig": "n c ij = ∑ a ik bkj . k = 1",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 133.768,
+            "t": 483.3648672,
+            "r": 175.27219160000004,
+            "b": 474.1546967864407,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "Columns",
+      "text": "Columns",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 133.768,
+            "t": 464.615254,
+            "r": 479.9583874,
+            "b": 443.0841246811189,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            149
+          ]
+        }
+      ],
+      "orig": "The product of matrix A and column j of matrix B equals column j of matrix C . This tells us that the columns of C are combinations of columns of A .",
+      "text": "The product of matrix A and column j of matrix B equals column j of matrix C . This tells us that the columns of C are combinations of columns of A ."
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 133.7680000000001,
+            "t": 425.312797,
+            "r": 159.2224430000001,
+            "b": 416.1026265864407,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "Rows",
+      "text": "Rows",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 133.74807480000004,
+            "t": 406.5532212,
+            "r": 479.9484248000001,
+            "b": 385.0220918811189,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            121
+          ]
+        }
+      ],
+      "orig": "The product of row i of matrix A and matrix B equals row i of matrix C . So the rows of C are combinations of rows of B .",
+      "text": "The product of row i of matrix A and matrix B equals row i of matrix C . So the rows of C are combinations of rows of B ."
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 133.7680000000001,
+            "t": 367.2507642,
+            "r": 218.44013740000014,
+            "b": 358.0405937864407,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "Column times row",
+      "text": "Column times row",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 133.7680000000001,
+            "t": 348.6782913,
+            "r": 479.9721914000001,
+            "b": 326.9609524811189,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            93
+          ]
+        }
+      ],
+      "orig": "A column of A is an m × 1 vector and a row of B is a 1 × p vector. Their product is a matrix:",
+      "text": "A column of A is an m × 1 vector and a row of B is a 1 × p vector. Their product is a matrix:"
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 237.91089919999996,
+            "t": 328.4772184,
+            "r": 375.9579536000001,
+            "b": 293.52575248111884,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            48
+          ]
+        }
+      ],
+      "orig": "⎡ ⎤ 2 2 ⎣ 3 ⎦ � 12 1 6 4 � = ⎡ ⎤ ⎣ 3 18 ⎦ . 4 24",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 133.77215,
+            "t": 285.2886329999999,
+            "r": 479.9973854000001,
+            "b": 227.88683248111886,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            416
+          ]
+        }
+      ],
+      "orig": "The columns of this matrix are multiples of the column of A and the rows are multiples of the row of B .  If we think of the entries in these rows as the coordinates ( 2, 12 ) or ( 3, 18 ) or ( 4, 24 ) ,  all  these  points  lie  on  the  same  line; similarly for the two column vectors.  Later we'll see that this is equivalent to saying that the row space of this matrix is a single line, as is the column space .",
+      "text": "The columns of this matrix are multiples of the column of A and the rows are multiples of the row of B .  If we think of the entries in these rows as the coordinates ( 2, 12 ) or ( 3, 18 ) or ( 4, 24 ) ,  all  these  points  lie  on  the  same  line; similarly for the two column vectors.  Later we'll see that this is equivalent to saying that the row space of this matrix is a single line, as is the column space ."
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 148.71605,
+            "t": 225.5077218,
+            "r": 473.87538880000005,
+            "b": 215.9317124811189,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            71
+          ]
+        }
+      ],
+      "orig": "The product of A and B is the sum of these 'column times row' matrices:",
+      "text": "The product of A and B is the sum of these 'column times row' matrices:"
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 223.56613739999997,
+            "t": 204.44678539999995,
+            "r": 390.80980960000005,
+            "b": 161.83018835623272,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            64
+          ]
+        }
+      ],
+      "orig": "⎡ ⎤ a ⎢ 1 k n . ⎥ � AB = ∑ ⎣ . . ⎦ bk 1 k · · · bkn � . = 1 a mk",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 303.133,
+            "t": 96.13956800000005,
+            "r": 310.60495,
+            "b": 86.69307248111886,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "1",
+      "text": "1"
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 133.768,
+            "t": 663.9298672,
+            "r": 164.20374300000003,
+            "b": 654.7196967864406,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "Blocks",
+      "text": "Blocks",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 133.75803740000015,
+            "t": 645.1760818,
+            "r": 479.95838740000016,
+            "b": 623.6440724811189,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            130
+          ]
+        }
+      ],
+      "orig": "If  we  subdivide A and B into  blocks  that  match properly,  we can write the product AB = C in terms of products of the blocks:",
+      "text": "If  we  subdivide A and B into  blocks  that  match properly,  we can write the product AB = C in terms of products of the blocks:"
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 215.847,
+            "t": 612.768504,
+            "r": 398.01630000000006,
+            "b": 588.5513286489511,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            63
+          ]
+        }
+      ],
+      "orig": "� � � � � � A 1 A 2 B 1 B 2 C 1 C 2 A 3 A 4 B 3 B 4 = C 3 C 4 .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 133.768,
+            "t": 578.1802913,
+            "r": 245.3533,
+            "b": 567.202328648951,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            29
+          ]
+        }
+      ],
+      "orig": "Here C 1 = A 1 B 1 + A 2 B 3.",
+      "text": "Here C 1 = A 1 B 1 + A 2 B 3."
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 133.768,
+            "t": 550.0318944,
+            "r": 179.5922816,
+            "b": 538.9796159457628,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Inverses",
+      "text": "Inverses",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 133.768,
+            "t": 529.7288672,
+            "r": 206.53483040000006,
+            "b": 520.5186967864406,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "Square matrices",
+      "text": "Square matrices",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 133.768,
+            "t": 510.97408179999996,
+            "r": 479.97290200000003,
+            "b": 477.4879524811189,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            196
+          ]
+        }
+      ],
+      "orig": "If A is a square matrix, the most important question you can ask about it is whether it has an inverse A -1 .  If it does, then A -1 A = I = AA -1  and we say that A is invertible or nonsingular .",
+      "text": "If A is a square matrix, the most important question you can ask about it is whether it has an inverse A -1 .  If it does, then A -1 A = I = AA -1  and we say that A is invertible or nonsingular ."
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 133.77806259999994,
+            "t": 472.1630818,
+            "r": 479.97841259999996,
+            "b": 450.6319524811189,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            147
+          ]
+        }
+      ],
+      "orig": "If A is singular - i.e. A does not have an inverse - its determinant is zero and we can find some non-zero vector x for which A x = 0. For example:",
+      "text": "If A is singular - i.e. A does not have an inverse - its determinant is zero and we can find some non-zero vector x for which A x = 0. For example:"
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 245.371,
+            "t": 439.75550400000003,
+            "r": 368.49230000000006,
+            "b": 416.75507248111893,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            32
+          ]
+        }
+      ],
+      "orig": "� � � � � � 1 3 3 0 2 6 -1 = 0 .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 133.76799999999997,
+            "t": 404.613568,
+            "r": 477.4777,
+            "b": 383.2119524811189,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            148
+          ]
+        }
+      ],
+      "orig": "In this example, three times the first column minus one times the second column equals the zero vector; the two column vectors lie on the same line.",
+      "text": "In this example, three times the first column minus one times the second column equals the zero vector; the two column vectors lie on the same line."
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 133.768,
+            "t": 377.757568,
+            "r": 479.9684500000001,
+            "b": 356.3550724811189,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            90
+          ]
+        }
+      ],
+      "orig": "Finding the inverse of a matrix is closely related to solving systems of linear equations:",
+      "text": "Finding the inverse of a matrix is closely related to solving systems of linear equations:"
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 225.251,
+            "t": 355.226504,
+            "r": 386.00552108,
+            "b": 319.9142031166205,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            46
+          ]
+        }
+      ],
+      "orig": "� � � � � � 1 3 a c 1 0 = 2 7 b d 0 1 A A -1 I",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 133.76460660000004,
+            "t": 312.08259680000003,
+            "r": 479.96495660000005,
+            "b": 288.4499524811189,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            144
+          ]
+        }
+      ],
+      "orig": "can be read as saying ' A times column j of A -1  equals column j of the identity matrix'. This is just a special form of the equation A x = b .",
+      "text": "can be read as saying ' A times column j of A -1  equals column j of the identity matrix'. This is just a special form of the equation A x = b ."
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 133.768,
+            "t": 270.0628944,
+            "r": 276.2022528,
+            "b": 259.01061594576277,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "Gauss-Jordan Elimination",
+      "text": "Gauss-Jordan Elimination",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 133.76799999999997,
+            "t": 249.84056799999996,
+            "r": 479.96834999999993,
+            "b": 228.43895248111892,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            151
+          ]
+        }
+      ],
+      "orig": "We can use the method of elimination to solve two or more linear equations at the same time. Just augment the matrix with the whole identity matrix I :",
+      "text": "We can use the method of elimination to solve two or more linear equations at the same time. Just augment the matrix with the whole identity matrix I :"
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 163.937,
+            "t": 217.562504,
+            "r": 447.32116448000005,
+            "b": 194.5610724811189,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            68
+          ]
+        }
+      ],
+      "orig": "� � � � � � 1 3 1 0 1 3 1 0 1 0 7 -3 2 7 0 1 -→ 0 1 -2 1 -→ 0 1 -2 1",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 133.768,
+            "t": 182.41956800000003,
+            "r": 479.96835000000004,
+            "b": 149.0628324811189,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            197
+          ]
+        }
+      ],
+      "orig": "(Once we have used Gauss' elimination method to convert the original matrix to upper triangular form, we go on to use Jordan's idea of eliminating entries in the upper right portion of the matrix.)",
+      "text": "(Once we have used Gauss' elimination method to convert the original matrix to upper triangular form, we go on to use Jordan's idea of eliminating entries in the upper right portion of the matrix.)"
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 259.209,
+            "t": 138.19046979999996,
+            "r": 355.1523,
+            "b": 115.18607248111891,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "� � A -1 = -2 7 -1 3 .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 303.133,
+            "t": 96.13956800000005,
+            "r": 310.60495,
+            "b": 86.69307248111886,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "2",
+      "text": "2"
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 133.768,
+            "t": 664.0095680000001,
+            "r": 479.97606200000007,
+            "b": 616.7020724811189,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            324
+          ]
+        }
+      ],
+      "orig": "As in the last lecture, we can write the results of the elimination method as the product of a number of elimination matrices Eij with the matrix A . Letting E be the product of all the Eij , we write the result of this Gauss-Jordan elimination using block matrices: E [ A | I ] = [ I | E ] . But if EA = I , then E = A -1 .",
+      "text": "As in the last lecture, we can write the results of the elimination method as the product of a number of elimination matrices Eij with the matrix A . Letting E be the product of all the Eij , we write the result of this Gauss-Jordan elimination using block matrices: E [ A | I ] = [ I | E ] . But if EA = I , then E = A -1 ."
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 303.133,
+            "t": 96.13956800000005,
+            "r": 310.60495,
+            "b": 86.69307248111886,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "3",
+      "text": "3"
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 79.0246,
+            "t": 726.640684,
+            "r": 182.24827660000005,
+            "b": 705.7396100397615,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            37
+          ]
+        }
+      ],
+      "orig": "MIT OpenCourseWare http://ocw.mit.edu",
+      "text": "MIT OpenCourseWare http://ocw.mit.edu"
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 79.0246,
+            "t": 664.6278408,
+            "r": 210.33226791999982,
+            "b": 641.8795100397615,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            32
+          ]
+        }
+      ],
+      "orig": "18.06SC Linear Algebra Fall 2011",
+      "text": "18.06SC Linear Algebra Fall 2011"
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 79.0247,
+            "t": 594.277384,
+            "r": 501.772444,
+            "b": 584.8052100397615,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            98
+          ]
+        }
+      ],
+      "orig": "For information about citing these materials or our Terms of Use, visit: http://ocw.mit.edu/terms.",
+      "text": "For information about citing these materials or our Terms of Use, visit: http://ocw.mit.edu/terms."
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 4
+    }
+  }
+}

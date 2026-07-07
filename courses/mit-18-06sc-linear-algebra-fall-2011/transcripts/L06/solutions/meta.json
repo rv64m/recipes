@@ -1,0 +1,21 @@
+{
+  "source": "/Users/jackson/Downloads/Solutions (PDF).pdf",
+  "tool": "docling",
+  "out": "courses/mit-18-06sc-linear-algebra-fall-2011/transcripts/L06/solutions",
+  "stats": {
+    "markdown_chars": 784
+  },
+  "signals": {
+    "pages": 3,
+    "sampled_pages": 3,
+    "scanned": false,
+    "cjk_ratio": 0.0,
+    "math_per_page": 6.0,
+    "likely_formulas": false,
+    "images_per_page": 0.0,
+    "two_column": false,
+    "chars_per_page": 434.0,
+    "recommended_tool": "docling",
+    "reason": "general structured extraction → Docling"
+  }
+}

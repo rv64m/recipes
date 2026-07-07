@@ -1,0 +1,8 @@
+{
+  "source": "/Users/jackson/Downloads/Lecture video transcript (PDF).pdf",
+  "tool": "pymupdf4llm",
+  "out": "/Users/jackson/Codes/recipes/courses/mit-18-06sc-linear-algebra-fall-2011/transcripts/L06/video-transcript",
+  "stats": {
+    "markdown_chars": 30977
+  }
+}

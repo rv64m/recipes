@@ -1,0 +1,13 @@
+{
+  "source": "/Users/jackson/【MIT 18.06SC】线性代数，2011年秋季/[P08]08 - 矩阵消元.mp4",
+  "kind": "media",
+  "model": "small",
+  "device": "cpu",
+  "language": "en",
+  "gpu": {
+    "cuda": false,
+    "cuda_name": null,
+    "mps": true,
+    "nvidia_smi": false
+  }
+}

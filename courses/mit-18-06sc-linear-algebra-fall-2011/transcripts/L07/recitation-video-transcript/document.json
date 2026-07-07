@@ -1,0 +1,638 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "recitation-video-transcript",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 864693125059977833,
+    "filename": "recitation-video-transcript.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 28.32,
+            "t": 764.9731840729099,
+            "r": 274.12493480807996,
+            "b": 750.16870926197,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            38
+          ]
+        }
+      ],
+      "orig": "MITOCW | MIT18_06SC_110706_B1_300k-mp4",
+      "text": "MITOCW | MIT18_06SC_110706_B1_300k-mp4"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 28.32,
+            "t": 718.9411677595159,
+            "r": 180.174463659504,
+            "b": 705.123657935972,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "BEN HARRIS: Hi. I'm Ben.",
+      "text": "BEN HARRIS: Hi. I'm Ben.",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 124.25361075,
+            "t": 684.8931781010119,
+            "r": 579.2582843795041,
+            "b": 607.1240209448599,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            366
+          ]
+        }
+      ],
+      "orig": "Today we are going to do an LU decomposition problem. Here's the problem right here. Find that LU decomposition of this matrix A. Now notice that this matrix A has variables, as well as numbers. So the sentence ends: when it exists. And the second part of the question asks you: for which real numbers a and b does the LU decomposition of this matrix actually exist?",
+      "text": "Today we are going to do an LU decomposition problem. Here's the problem right here. Find that LU decomposition of this matrix A. Now notice that this matrix A has variables, as well as numbers. So the sentence ends: when it exists. And the second part of the question asks you: for which real numbers a and b does the LU decomposition of this matrix actually exist?"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 124.25361075,
+            "t": 586.657160693012,
+            "r": 573.69873976932,
+            "b": 551.8662611528599,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            148
+          ]
+        }
+      ],
+      "orig": "Now, you can hit pause now and I'll give you a few seconds. You can try to solve this on your own, and then we'll be back and we can do it together.",
+      "text": "Now, you can hit pause now and I'll give you a few seconds. You can try to solve this on your own, and then we'll be back and we can do it together."
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 124.25361075,
+            "t": 531.399400901012,
+            "r": 578.386439725008,
+            "b": 453.63024374485997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            346
+          ]
+        }
+      ],
+      "orig": "And we're back. Now, what do you have to remember when doing an LU decomposition problem? Well, we do elimination in the same way that we did before in order to find U. But with this question we need to find L as well. So we need to do elimination, but we also need to keep track of the elimination matrices along the way. Good. So let's do that.",
+      "text": "And we're back. Now, what do you have to remember when doing an LU decomposition problem? Well, we do elimination in the same way that we did before in order to find U. But with this question we need to find L as well. So we need to do elimination, but we also need to keep track of the elimination matrices along the way. Good. So let's do that."
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 124.25361075,
+            "t": 433.16338349301196,
+            "r": 573.014157523008,
+            "b": 376.88335514486,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            232
+          ]
+        }
+      ],
+      "orig": "So let me put my matrix up here. And we want to do elimination. So which entry do we eliminate first? That's right. It's this (2, 1) entry. So we replace the second row by the second row minus a times the first row, and we get this.",
+      "text": "So let me put my matrix up here. And we want to do elimination. So which entry do we eliminate first? That's right. It's this (2, 1) entry. So we replace the second row by the second row minus a times the first row, and we get this."
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 124.25361075,
+            "t": 356.416494893012,
+            "r": 569.176813093008,
+            "b": 278.64733773686,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            339
+          ]
+        }
+      ],
+      "orig": "But we're not just doing elimination, we're finding an LU decomposition. So we need to keep track of the matrix that I multiplied the elimination matrix, that I multiplied this matrix A by on the left to get this matrix. So what is that? That's this E_(2,1). Since I eliminated the (2, 1) entry, I'll call it E_(2,1). And it's this matrix.",
+      "text": "But we're not just doing elimination, we're finding an LU decomposition. So we need to keep track of the matrix that I multiplied the elimination matrix, that I multiplied this matrix A by on the left to get this matrix. So what is that? That's this E_(2,1). Since I eliminated the (2, 1) entry, I'll call it E_(2,1). And it's this matrix."
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 124.25361075,
+            "t": 258.18047748501203,
+            "r": 570.0486577475041,
+            "b": 201.90044913685995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            261
+          ]
+        }
+      ],
+      "orig": "Why is it this matrix? Well, remember how multiplication on the left works. I replaced the first row by just the first row. I replaced the second row by the second row minus a times the first row. So you can just read off from these rows which operations I did.",
+      "text": "Why is it this matrix? Well, remember how multiplication on the left works. I replaced the first row by just the first row. I replaced the second row by the second row minus a times the first row. So you can just read off from these rows which operations I did."
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 124.25361075,
+            "t": 181.433588885012,
+            "r": 573.179930802384,
+            "b": 103.66443172886,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            348
+          ]
+        }
+      ],
+      "orig": "Now, which entries should we eliminate next? We need to eliminate this b. So we will replace the third row by the third row minus b times the first row. And which elimination matrix did we use? Well, note, we replaced the third row by the third row minus b times the first row. That's exactly what you should read off this elimination matrix. Good.",
+      "text": "Now, which entries should we eliminate next? We need to eliminate this b. So we will replace the third row by the third row minus b times the first row. And which elimination matrix did we use? Well, note, we replaced the third row by the third row minus b times the first row. That's exactly what you should read off this elimination matrix. Good."
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 124.25361075,
+            "t": 83.19757147701193,
+            "r": 582.2237841550079,
+            "b": 26.91754312885996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            288
+          ]
+        },
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 124.25361075,
+            "t": 775.4545078610118,
+            "r": 563.037062005008,
+            "b": 762.1527371288598,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            289,
+            376
+          ]
+        },
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 124.25361075,
+            "t": 753.9653790530118,
+            "r": 553.164342255504,
+            "b": 697.6853507048598,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            377,
+            587
+          ]
+        }
+      ],
+      "orig": "Now, we only have one step left. We only need to eliminate one last entry. But this one's a little tricky, so let's be careful. In order to eliminate this b, we need a to be a pivot. In particular, we need a to be nonzero. If a were zero here, then we would have to do a row exchange. And need a to be nonzero. If a were zero here, then we would have to do a row exchange. And that's no good. You can't find an LU decomposition if you have to do a row exchange in elimination. So we need to assume that a is non-zero in order to keep going. So let's just assume there that a is non-zero.",
+      "text": "Now, we only have one step left. We only need to eliminate one last entry. But this one's a little tricky, so let's be careful. In order to eliminate this b, we need a to be a pivot. In particular, we need a to be nonzero. If a were zero here, then we would have to do a row exchange. And need a to be nonzero. If a were zero here, then we would have to do a row exchange. And that's no good. You can't find an LU decomposition if you have to do a row exchange in elimination. So we need to assume that a is non-zero in order to keep going. So let's just assume there that a is non-zero."
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 124.25361075,
+            "t": 677.2184904530119,
+            "r": 575.482337460384,
+            "b": 599.4493332968599,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            316
+          ]
+        }
+      ],
+      "orig": "Now, what do we do? Well we can replace the third row by the third row minus b over a times the second row. And we just get this. a minus b. And let's write down our elimination matrix. E_(3,2) now. There's our elimination matrix. We replaced the third row by the third row minus b over a times the second row. Good.",
+      "text": "Now, what do we do? Well we can replace the third row by the third row minus b over a times the second row. And we just get this. a minus b. And let's write down our elimination matrix. E_(3,2) now. There's our elimination matrix. We replaced the third row by the third row minus b over a times the second row. Good."
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 124.25361075,
+            "t": 578.982473045012,
+            "r": 561.502124233008,
+            "b": 544.1915735048599,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            150
+          ]
+        }
+      ],
+      "orig": "So we found our U matrix. That's what elimination does, it gives us our U matrix. So let me write it up here. 1, 0, 1; 0, a, 0; 0, 0, a minus b. Good.",
+      "text": "So we found our U matrix. That's what elimination does, it gives us our U matrix. So let me write it up here. 1, 0, 1; 0, a, 0; 0, 0, a minus b. Good."
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 124.25361075,
+            "t": 523.7247132530119,
+            "r": 579.9213774970079,
+            "b": 445.95555609685994,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            356
+          ]
+        }
+      ],
+      "orig": "Now we have to find our L matrix, and we need to use these elimination matrices that we've been recording along the way in order to do that. So remember that we started with A, and we got U. And how did we do that? Well we multiplied on the left by all of these elimination matrices, E_(2,1), E_(3,1) and E_(3,2). Sorry if that's scrunching together there.",
+      "text": "Now we have to find our L matrix, and we need to use these elimination matrices that we've been recording along the way in order to do that. So remember that we started with A, and we got U. And how did we do that? Well we multiplied on the left by all of these elimination matrices, E_(2,1), E_(3,1) and E_(3,2). Sorry if that's scrunching together there."
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 124.25361075,
+            "t": 425.488695845012,
+            "r": 580.087150776384,
+            "b": 369.2086674968598,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            237
+          ]
+        }
+      ],
+      "orig": "Now, if we move these elimination matrices to the other side then we'll get L. So what do we have? We have A equals E_(2,1) inverse, E_(3,1) inverse, E_(3,2) inverse times U. And this is our L, this product of these three matrices. Good.",
+      "text": "Now, if we move these elimination matrices to the other side then we'll get L. So what do we have? We have A equals E_(2,1) inverse, E_(3,1) inverse, E_(3,2) inverse times U. And this is our L, this product of these three matrices. Good."
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 124.25361075,
+            "t": 348.74180724501184,
+            "r": 577.723346607504,
+            "b": 227.99439247285977,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            473
+          ]
+        }
+      ],
+      "orig": "So let's compute it now. So L is the product of three matrices. I need to get them by going back and looking at these three elimination matrices and taking their inverses. Well the nice thing about taking an inverse of an elementary matrix like this is we just make a minus a plus or a plus a minus. So that's easy enough. We just change the off-diagonal entries, we just change their signs. You can check that that does what we wanted it to. It gives us the inverse. Good.",
+      "text": "So let's compute it now. So L is the product of three matrices. I need to get them by going back and looking at these three elimination matrices and taking their inverses. Well the nice thing about taking an inverse of an elementary matrix like this is we just make a minus a plus or a plus a minus. So that's easy enough. We just change the off-diagonal entries, we just change their signs. You can check that that does what we wanted it to. It gives us the inverse. Good."
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 124.25361075,
+            "t": 207.52753222101205,
+            "r": 580.854619662384,
+            "b": 172.73663268085988,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            190
+          ]
+        }
+      ],
+      "orig": "And the last comment is that multiplying these three matrices is really easy in this order. Turns out all you do is you just plop these entries right in. 1, 1. Good. So this is our L matrix.",
+      "text": "And the last comment is that multiplying these three matrices is really easy in this order. Turns out all you do is you just plop these entries right in. 1, 1. Good. So this is our L matrix."
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 124.25361075,
+            "t": 152.26977242901194,
+            "r": 545.385277627008,
+            "b": 117.47887288885977,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            97
+          ]
+        }
+      ],
+      "orig": "So now we have our U matrix and our L matrix, and we're done with the first part of the question.",
+      "text": "So now we have our U matrix and our L matrix, and we're done with the first part of the question."
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 124.25361075,
+            "t": 97.01201263701205,
+            "r": 574.7762660852641,
+            "b": 40.73198428885985,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            272
+          ]
+        },
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 124.25361075,
+            "t": 763.1750122130118,
+            "r": 582.991253041008,
+            "b": 476.6543180648598,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            273,
+            1173
+          ]
+        }
+      ],
+      "orig": "The second part asks us for which real numbers a and b does this decomposition exist? Now let's go back and remember that at one point we had to assume that A was non-zero. That was the only assumption we had to make to get this decomposition. So it exists-- it being this decomposition-- when a is non-zero. And that's the answer to the second part. So we have our LU decomposition, and we know when it exists. Before I end, two comments. First, always check your work. Always go back and multiply L times U and make sure it's A, because it's easy to screw up the elimination process and it's easy to check your work. So if you go back and make sure things are as they should be. Second comment is that you might be worried when you do this elimination process that-- well OK, we had to assume a is non-zero because we wanted a non-zero pivot. You might worry that we might have to have a minus b be non-zero. But in fact, a minus b can be 0. It's not a problem for this entry to be 0 because we don't have to do a row exchange to get U. That's the only time when we can't do the LU decomposition. In particular, singular matrices can have LU decompositions. Good. Thanks.",
+      "text": "The second part asks us for which real numbers a and b does this decomposition exist? Now let's go back and remember that at one point we had to assume that A was non-zero. That was the only assumption we had to make to get this decomposition. So it exists-- it being this decomposition-- when a is non-zero. And that's the answer to the second part. So we have our LU decomposition, and we know when it exists. Before I end, two comments. First, always check your work. Always go back and multiply L times U and make sure it's A, because it's easy to screw up the elimination process and it's easy to check your work. So if you go back and make sure things are as they should be. Second comment is that you might be worried when you do this elimination process that-- well OK, we had to assume a is non-zero because we wanted a non-zero pivot. You might worry that we might have to have a minus b be non-zero. But in fact, a minus b can be 0. It's not a problem for this entry to be 0 because we don't have to do a row exchange to get U. That's the only time when we can't do the LU decomposition. In particular, singular matrices can have LU decompositions. Good. Thanks."
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 3
+    }
+  }
+}

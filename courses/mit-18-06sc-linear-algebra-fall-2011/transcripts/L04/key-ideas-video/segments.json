@@ -1,0 +1,182 @@
+[
+  {
+    "start": 0.0,
+    "end": 12.780000000000001,
+    "text": " Welcome. Today's problem actually appeared in a quiz. It appeared in quiz one in fall"
+  },
+  {
+    "start": 12.780000000000001,
+    "end": 20.400000000000002,
+    "text": " of 1999 as question four. The problem puts the usual solve the following system upside"
+  },
+  {
+    "start": 20.400000000000002,
+    "end": 26.78,
+    "text": " down by saying we have some matrix and we know that all the solutions to ax equals this"
+  },
+  {
+    "start": 26.78,
+    "end": 34.42,
+    "text": " vector here, one for one one, all the solutions to this problem are given by x equals 0, 1,"
+  },
+  {
+    "start": 34.42,
+    "end": 41.22,
+    "text": " 1 plus any number c times 0, 2, 1. And we're asked to say everything that we can about"
+  },
+  {
+    "start": 41.22,
+    "end": 46.260000000000005,
+    "text": " the columns of the matrix A. So I'm going to let you pretend that you're on an exam,"
+  },
+  {
+    "start": 46.260000000000005,
+    "end": 49.1,
+    "text": " try to solve it yourself and then come back and compare your solution with mine."
+  },
+  {
+    "start": 57.26,
+    "end": 62.34,
+    "text": " Okay, welcome back. So the first thing that you should think about in this sort of situation"
+  },
+  {
+    "start": 62.34,
+    "end": 70.9,
+    "text": " is what is the size of A? Well, we want to multiply A with an x that has three entries,"
+  },
+  {
+    "start": 70.9,
+    "end": 85.9,
+    "text": " so A should have three columns. Let me call those columns c1, c2, and c3. And when I take"
+  },
+  {
+    "start": 85.94000000000001,
+    "end": 91.78,
+    "text": " some linear combinations of c1, c2, and c3, I'm going to get this vector here, one for one one."
+  },
+  {
+    "start": 91.78,
+    "end": 109.42,
+    "text": " So all the ci's, c1, c2, and c3 are vectors in R4. Now if you know about, if you learned about"
+  },
+  {
+    "start": 110.38,
+    "end": 117.14,
+    "text": " particular solutions and special solutions, then my notation here shouldn't surprise you. I'm going to"
+  },
+  {
+    "start": 117.14,
+    "end": 128.14,
+    "text": " call this vector here xp and this vector here xs. And I'm going to use the fact that xp plus c times"
+  },
+  {
+    "start": 128.45999999999998,
+    "end": 147.26,
+    "text": " xs satisfies A times this equals b, I will call this vector b, for any number c. In particular,"
+  },
+  {
+    "start": 147.5,
+    "end": 161.06,
+    "text": " what I'm going to conclude is that when c equals 0, we get A times xp equals b. But also that when c"
+  },
+  {
+    "start": 161.06,
+    "end": 178.06,
+    "text": " equals 1, we get A times xp plus A times xs equals b. Replacing this by b, we get that this implies that"
+  },
+  {
+    "start": 178.06,
+    "end": 190.18,
+    "text": " A times xs equals 0. So in trying to find what are the columns c1, c2, and c3 of the matrix A, let's"
+  },
+  {
+    "start": 190.22,
+    "end": 200.06,
+    "text": " look at these two equations. xp satisfies A times xp equals b, and xs satisfies A times xs equals 0. Again, if you"
+  },
+  {
+    "start": 200.06,
+    "end": 206.86,
+    "text": " know what particular and special solutions are, this shouldn't surprise you. But we also know what xp and xs are, so"
+  },
+  {
+    "start": 206.86,
+    "end": 219.06,
+    "text": " let's use them to try to calculate c1, c2, and c3. A times xp equals b means that the linear combination of c1, c2,"
+  },
+  {
+    "start": 219.1,
+    "end": 245.86,
+    "text": " and c3 encoded in the vector xp, which is 0, 1, 1, gives the vector b. So c1, c2, c3 times 0, 1, 1, gives us 1, 4, 1, 1."
+  },
+  {
+    "start": 246.62,
+    "end": 271.02000000000004,
+    "text": " In other words, c2 plus c3 equals b. Let's turn our attention to A times xs equals 0. This says that c1, c2, c3 times xs was"
+  },
+  {
+    "start": 271.02,
+    "end": 290.62,
+    "text": " defined to be 0, 2, 1, equals 0. In other words, 2 times c2 plus c3 equals 0. Now solving this system, where the unknowns are"
+  },
+  {
+    "start": 290.62,
+    "end": 300.5,
+    "text": " vectors, but it's still just a linear system, we can see, for example, from the second equation that c3 equals minus 2 c2, and"
+  },
+  {
+    "start": 300.5,
+    "end": 316.3,
+    "text": " plugging it back into the original equation, getting c2 minus 2 c2 equals b, from which it follows that c2 is equal to minus b, and"
+  },
+  {
+    "start": 316.3,
+    "end": 329.46,
+    "text": " that c3 is equal to 2 times b. So from this tiny amount of information, we just knew the solutions to this one particular"
+  },
+  {
+    "start": 329.5,
+    "end": 338.34,
+    "text": " equation involving A, we got the second column of A, and the third column of A completely, explicitly calculated. Now what can we say about the first"
+  },
+  {
+    "start": 338.34,
+    "end": 352.41999999999996,
+    "text": " column? I said before that all the solutions of A x equals b are of the form a particular solution, plus some number times a special"
+  },
+  {
+    "start": 352.46000000000004,
+    "end": 363.26,
+    "text": " solution. And the information that we have is that there's just one number here. So we said everything, once we remove this vector here,"
+  },
+  {
+    "start": 363.26,
+    "end": 374.66,
+    "text": " everything that we get here will satisfy A times x equals 0, and the fact that there's only, that everything that satisfies A times x equals 0 is a"
+  },
+  {
+    "start": 374.66,
+    "end": 386.42,
+    "text": " multiple of this one vector that was given to us means that the null space of A has dimension one. There is just one special solution. So"
+  },
+  {
+    "start": 386.42,
+    "end": 412.90000000000003,
+    "text": " dimension of the null space of A is one, so rank of A is the number of columns minus this dimension of null space, and it's equal to two. As rank of A is equal to two, the number of"
+  },
+  {
+    "start": 413.65999999999997,
+    "end": 430.58,
+    "text": " linearly independent columns needs to be two as well. So the only thing that we can say at this point is if the first column was also a multiple of b as the second and the third are, then the rank would be smaller than two. So that is the only thing that"
+  },
+  {
+    "start": 430.58,
+    "end": 452.7,
+    "text": " cannot happen. So c1 is not a multiple of b, not any multiple, including not a zero multiple. And that's pretty much everything we can say. Yes, if it was some other multiple of it, then we would be able to find some other"
+  },
+  {
+    "start": 452.7,
+    "end": 459.02,
+    "text": " vector here and we would have two parameters. But it's not, and this is everything that we can say about it."
+  }
+]

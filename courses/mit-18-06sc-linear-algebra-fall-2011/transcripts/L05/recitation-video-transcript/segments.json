@@ -1,0 +1,397 @@
+[
+  {
+    "start": 0.0,
+    "end": 12.6,
+    "text": " Hi, welcome to Recitation. My name is Martina and I'll be your Recitation Instructor for"
+  },
+  {
+    "start": 12.6,
+    "end": 17.72,
+    "text": " some of these linear algebra videos. Today's problem is a straightforward solve the following"
+  },
+  {
+    "start": 17.72,
+    "end": 22.44,
+    "text": " linear system with four equations and four unknowns using the method of elimination."
+  },
+  {
+    "start": 22.44,
+    "end": 31.32,
+    "text": " The system is x minus y minus z plus u equals 0, 2x plus 2z equals 8, minus y minus 2z equals"
+  },
+  {
+    "start": 31.32,
+    "end": 38.04,
+    "text": " minus 8, and 3x minus 3y minus 2z plus 4u equals 7. And although you might know different"
+  },
+  {
+    "start": 38.04,
+    "end": 42.120000000000005,
+    "text": " ways to solve this system at this point, the method of elimination is going to show up"
+  },
+  {
+    "start": 42.120000000000005,
+    "end": 47.88,
+    "text": " a million times during these videos, so it's really important to get it right. So I suggest"
+  },
+  {
+    "start": 47.88,
+    "end": 52.16,
+    "text": " you try solving this system now using the method of elimination as it was described in"
+  },
+  {
+    "start": 52.16,
+    "end": 56.199999999999996,
+    "text": " class. I'm going to leave you alone with the problem. You should pause the video, solve"
+  },
+  {
+    "start": 56.199999999999996,
+    "end": 68.08,
+    "text": " it yourself, and then come back and compare your solution with mine. And we're back."
+  },
+  {
+    "start": 68.08,
+    "end": 72.84,
+    "text": " So the method of elimination, if you remember it from class, consisted of replacing this"
+  },
+  {
+    "start": 72.84,
+    "end": 77.6,
+    "text": " system with an equivalent system, equivalent meaning they have the same solution, by a"
+  },
+  {
+    "start": 77.6,
+    "end": 82.11999999999999,
+    "text": " series of row operations. Row operations are not supposed to change the solution to"
+  },
+  {
+    "start": 82.11999999999999,
+    "end": 87.36,
+    "text": " the system, and therefore, for example, exchange the order of two equations. Multiply an equation"
+  },
+  {
+    "start": 87.36,
+    "end": 93.19999999999999,
+    "text": " with a nonzero number and add a nonzero multiple of one equation to the other. So let's do"
+  },
+  {
+    "start": 93.19999999999999,
+    "end": 97.32,
+    "text": " that. As we're going to do this series of arithmetic operations, we don't really want"
+  },
+  {
+    "start": 97.32,
+    "end": 101.63999999999999,
+    "text": " to copy the names of the variables and the equality signs every time, so we're going"
+  },
+  {
+    "start": 101.63999999999999,
+    "end": 106.8,
+    "text": " to keep the important information which are these numbers, these coefficients here, we're"
+  },
+  {
+    "start": 106.8,
+    "end": 115.36,
+    "text": " going to keep that information in a matrix. So let's write a matrix. Each row is going"
+  },
+  {
+    "start": 115.36,
+    "end": 120.12,
+    "text": " to correspond to an equation, and each column is going to correspond to an unknown. So the"
+  },
+  {
+    "start": 120.12,
+    "end": 135.36,
+    "text": " first row is one minus one minus one one. The second row corresponding to the second"
+  },
+  {
+    "start": 135.36,
+    "end": 146.72000000000003,
+    "text": " equation is two zero two zero. And you want to be very careful to put zeros on the right"
+  },
+  {
+    "start": 146.72000000000003,
+    "end": 161.44000000000003,
+    "text": " spots here. The third equation is zero minus one minus two zero, and the fourth row corresponding"
+  },
+  {
+    "start": 161.52,
+    "end": 171.32,
+    "text": " to the fourth equation is three minus three minus two four. And as we care about the right"
+  },
+  {
+    "start": 171.32,
+    "end": 175.96,
+    "text": " hand side as well, we're going to copy this information as well and get the augmented"
+  },
+  {
+    "start": 175.96,
+    "end": 185.36,
+    "text": " matrix of the system. Zero eight minus eight seven. Okay, and now let's try reducing this"
+  },
+  {
+    "start": 185.44000000000003,
+    "end": 192.32000000000002,
+    "text": " matrix to an upper triangular one. We start with the first column and we're going to use"
+  },
+  {
+    "start": 192.32000000000002,
+    "end": 197.48000000000002,
+    "text": " this number called the pivot to get rid of all the numbers under it. So to get zeros here"
+  },
+  {
+    "start": 197.48000000000002,
+    "end": 204.56,
+    "text": " and here. A way to do it is, well, to get rid of this two, I have to multiply the first"
+  },
+  {
+    "start": 204.56,
+    "end": 210.04000000000002,
+    "text": " row by minus two and add it to the second one. This is not, writing this here is not"
+  },
+  {
+    "start": 210.04000000000002,
+    "end": 213.56,
+    "text": " strictly necessary, but I like to do a bit of bookkeeping because I'm prone to make a"
+  },
+  {
+    "start": 213.6,
+    "end": 218.48,
+    "text": " lot of errors while doing these simple arithmetic operations. And then if I get to the end,"
+  },
+  {
+    "start": 218.48,
+    "end": 222.56,
+    "text": " figure out I made a mistake somewhere. This bookkeeping makes it easier to backtrack and"
+  },
+  {
+    "start": 222.56,
+    "end": 228.84,
+    "text": " find the place where I made this mistake. So we replace this matrix with another matrix. The"
+  },
+  {
+    "start": 228.84,
+    "end": 239.24,
+    "text": " first row stays the same. One minus one minus one one zero. The second row gets replaced by a"
+  },
+  {
+    "start": 239.36,
+    "end": 245.0,
+    "text": " second row minus two times the first row. The aim of that is to get a zero here. So that's"
+  },
+  {
+    "start": 245.0,
+    "end": 251.24,
+    "text": " good. Next on this position here, we get minus two times minus one, which is two plus zero,"
+  },
+  {
+    "start": 251.24,
+    "end": 261.48,
+    "text": " which is two. Minus one times minus two, which is two plus two, which is four. Minus two plus zero,"
+  },
+  {
+    "start": 262.12,
+    "end": 269.40000000000003,
+    "text": " which is minus two. And eight minus two times zero, which is eight. The third row already has a zero"
+  },
+  {
+    "start": 269.40000000000003,
+    "end": 278.20000000000005,
+    "text": " here, so I can just copy it over. Zero minus one minus two zero minus eight. And to get a zero"
+  },
+  {
+    "start": 278.20000000000005,
+    "end": 286.68,
+    "text": " here, I'm going to multiply the first row by minus three and add it to the fourth row and get zero"
+  },
+  {
+    "start": 287.64,
+    "end": 298.8,
+    "text": " minus three times minus one is three, minus three is zero, minus three minus one, sorry, three minus"
+  },
+  {
+    "start": 298.8,
+    "end": 311.88,
+    "text": " two is one, and minus three plus four is one. And there we go. The first column looks like a first"
+  },
+  {
+    "start": 311.88,
+    "end": 317.56,
+    "text": " column of an upper triangular matrix. Now let's do the same to the second column. This is going to be"
+  },
+  {
+    "start": 317.56,
+    "end": 323.0,
+    "text": " our pivot, the number that we use to get rid of numbers under it, and we see that to get rid of"
+  },
+  {
+    "start": 323.0,
+    "end": 329.56,
+    "text": " this number here, we will need to multiply it with one half. So multiply the whole second row"
+  },
+  {
+    "start": 329.56,
+    "end": 338.52,
+    "text": " with one half and add it to the third row. The matrix that we get will have the first row the same,"
+  },
+  {
+    "start": 338.59999999999997,
+    "end": 353.24,
+    "text": " stays the same. One minus one minus one one zero. The second row stays the same. Zero, two, four,"
+  },
+  {
+    "start": 354.44,
+    "end": 364.28,
+    "text": " minus two, eight. The third row gets replaced by the third row plus one half times the second row"
+  },
+  {
+    "start": 364.28,
+    "end": 375.71999999999997,
+    "text": " and becomes zero, zero, two minus two which is zero, minus one plus zero which is minus one,"
+  },
+  {
+    "start": 377.64,
+    "end": 385.88,
+    "text": " and four minus eight which is minus four. And the third row, the fourth row already has a zero"
+  },
+  {
+    "start": 385.88,
+    "end": 396.12,
+    "text": " here so I just copy it over. Zero, zero, one, one, seven. And now let's look at this matrix. It has"
+  },
+  {
+    "start": 396.12,
+    "end": 401.8,
+    "text": " the first two columns as they're supposed to be, zeros under the diagonal, and now we want to get a"
+  },
+  {
+    "start": 401.8,
+    "end": 408.84,
+    "text": " zero here. Normally what I would do is to circle this number here, multiply it by something so that"
+  },
+  {
+    "start": 408.84,
+    "end": 415.08,
+    "text": " I get a minus one, and add it to this row to get a zero here. But that's not going to work. You might"
+  },
+  {
+    "start": 415.08,
+    "end": 420.44,
+    "text": " remember from lectures that zeros can never be pivots or you can just try finding a number such"
+  },
+  {
+    "start": 420.44,
+    "end": 424.84,
+    "text": " that zero times this number equals minus one and seeing that such a number doesn't exist because"
+  },
+  {
+    "start": 424.84,
+    "end": 430.76,
+    "text": " you're always going to get zero. So we cannot proceed as we did until now but is there another way"
+  },
+  {
+    "start": 430.76,
+    "end": 439.71999999999997,
+    "text": " to get a zero here? There is a very simple row operation which consists just of switching the"
+  },
+  {
+    "start": 439.71999999999997,
+    "end": 444.12,
+    "text": " third and the fourth row. It certainly doesn't change the solution of the system. So let's do that."
+  },
+  {
+    "start": 445.8,
+    "end": 459.71999999999997,
+    "text": " And let's get the next matrix which is one minus one minus one one zero. Zero, two, four, minus two,"
+  },
+  {
+    "start": 460.84,
+    "end": 469.4,
+    "text": " eight. Then we put the fourth row here, zero, zero, one, one, seven, and we put the third row here,"
+  },
+  {
+    "start": 469.4,
+    "end": 474.2,
+    "text": " zero, zero, zero, minus one, minus four."
+  },
+  {
+    "start": 479.64,
+    "end": 485.96,
+    "text": " And there it is. This is an upper triangular matrix. So in the same way as at the beginning we had a"
+  },
+  {
+    "start": 485.96,
+    "end": 491.56,
+    "text": " system and then wrote the matrix representing it, this matrix also represents a system and this system"
+  },
+  {
+    "start": 491.56,
+    "end": 496.91999999999996,
+    "text": " has the same solutions as the initial system but is much easier to solve. Now let me write this"
+  },
+  {
+    "start": 496.92,
+    "end": 501.32,
+    "text": " back as a system and let me do that not starting from the first equation but starting from the"
+  },
+  {
+    "start": 501.32,
+    "end": 511.32,
+    "text": " last equation. So the last equation here reads minus u equals minus four"
+  },
+  {
+    "start": 514.52,
+    "end": 520.9200000000001,
+    "text": " which is as equations go a pretty easy one to solve. The solution is u equals four."
+  },
+  {
+    "start": 521.8,
+    "end": 527.9599999999999,
+    "text": " Now let's go back to the third equation. The third equation reads y, uh no I'm sorry z,"
+  },
+  {
+    "start": 532.28,
+    "end": 535.0799999999999,
+    "text": " the third column corresponds to z plus u"
+  },
+  {
+    "start": 537.64,
+    "end": 546.1999999999999,
+    "text": " equals seven. But we know what's u now. So it reads z plus four equals seven"
+  },
+  {
+    "start": 546.76,
+    "end": 557.48,
+    "text": " which just becomes z equals three. The second equation is two times y"
+  },
+  {
+    "start": 559.1600000000001,
+    "end": 570.76,
+    "text": " plus four times z but z is three minus two times u but u is four equals eight"
+  },
+  {
+    "start": 570.76,
+    "end": 580.2,
+    "text": " and from this one can easily compute that y is equal to two. And finally the first equation reads"
+  },
+  {
+    "start": 580.2,
+    "end": 601.48,
+    "text": " x minus y minus z plus u equals zero or x equals one. And this is our solution x, y, z and u"
+  },
+  {
+    "start": 602.12,
+    "end": 607.4000000000001,
+    "text": " equal one, two, three and four. This finish is the problem but I would very strongly encourage"
+  },
+  {
+    "start": 607.4,
+    "end": 612.36,
+    "text": " you now to take this solution and plug it back into the original system and check if it's really"
+  },
+  {
+    "start": 612.36,
+    "end": 617.0,
+    "text": " a solution. And that's all I want you to say today."
+  }
+]

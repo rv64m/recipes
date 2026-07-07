@@ -1,0 +1,8 @@
+{
+  "source": "/Users/jackson/Downloads/Lecture summary.pdf",
+  "tool": "pymupdf4llm",
+  "out": "/Users/jackson/Codes/recipes/courses/mit-18-06sc-linear-algebra-fall-2011/transcripts/L03/lecture-summary",
+  "stats": {
+    "markdown_chars": 1716
+  }
+}

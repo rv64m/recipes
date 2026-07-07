@@ -1,0 +1,879 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "Recitation video transcript (PDF)",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 11220095384721505704,
+    "filename": "Recitation video transcript (PDF).pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/tables/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 28.32,
+            "t": 764.9731840729099,
+            "r": 274.12493480807996,
+            "b": 750.16870926197,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            38
+          ]
+        }
+      ],
+      "orig": "MITOCW | MIT18_06SC_110526_A1_300k-mp4",
+      "text": "MITOCW | MIT18_06SC_110526_A1_300k-mp4"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 28.32,
+            "t": 763.1750052290121,
+            "r": 583.157026320384,
+            "b": 68.36086372886007,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2092
+          ]
+        }
+      ],
+      "orig": "I know you learned about elimination in the past recitation. So I'll do the first few steps slowly, and then I'll just write the solution for the last steps. So we want to eliminate this a. We want to turn it into 0. So let's subtract the first row from the second. Let's do row 2 minus row 1, and write it instead of row 2. So a, b, b, 1, 0, 0; 0, so a minus a, a minus b, b minus b is 0, 0 minus 1, 1 minus 0, 0 minus 0. And then we want to do the same with the third row. So let's do row 3 minus row 1. 0, a minus b, it doesn't fit. a minus b. Can you understand that? And then 0 minus 1, 0 minus 0, 1 minus 0. All right. Let's continue up here. Now I want to eliminate this a minus b. I want to turn it into a 0. So the first row stays the same. a, b, b, 1, 0, 0; 0, a minus b, 0, -1, 1, 0. And now 0 minus 0, a minus b minus a minus b is 0. a minus b minus 0, that's easy. -1 minus -1, 0 again. -1 and 1. Almost there. We already have 0's down here. It's looking more and more like the identity matrix. So we have to turn all these diagonal entries into 1's, so let's do that now. 1, b over a, b over-oh. I'm dividing by a. a better not be 0. Let me signal that here. a different from 0. 1 over a, 0, 0. 0. I want to make that into a 1. So 1 over a minus b, and-- you guessed it-- a minus b has to be different from 0. 0. -1 over a minus b. 1 over a minus b. 0, 0, 1, 0, -1 over a minus b. 1 over a minus b. AUDIENCE: [INAUDIBLE] PROFESSOR: Someone's pointing a mistake. AUDIENCE: Yeah, the (2, 2) entry, you should have a 1. PROFESSOR: Oh, you're absolutely right. Thank you. All right. So not much left to do. We only have to eliminate b over a and b over a. That's a little bit computationally heavy. So what do you have to do? You just have to basically subtract-- replace row 1 by row 1 minus b over a times row 2 plus row 3. Let me write that down. row 1 minus b over a times row 2 plus row 3. You want that to go into your row 1. These stay the same. -1 over a minus b. 1 over a minus b. This is where I'm going to go to my notes and tell you that these numbers are 1 over a minus",
+      "text": "I know you learned about elimination in the past recitation. So I'll do the first few steps slowly, and then I'll just write the solution for the last steps. So we want to eliminate this a. We want to turn it into 0. So let's subtract the first row from the second. Let's do row 2 minus row 1, and write it instead of row 2. So a, b, b, 1, 0, 0; 0, so a minus a, a minus b, b minus b is 0, 0 minus 1, 1 minus 0, 0 minus 0. And then we want to do the same with the third row. So let's do row 3 minus row 1. 0, a minus b, it doesn't fit. a minus b. Can you understand that? And then 0 minus 1, 0 minus 0, 1 minus 0. All right. Let's continue up here. Now I want to eliminate this a minus b. I want to turn it into a 0. So the first row stays the same. a, b, b, 1, 0, 0; 0, a minus b, 0, -1, 1, 0. And now 0 minus 0, a minus b minus a minus b is 0. a minus b minus 0, that's easy. -1 minus -1, 0 again. -1 and 1. Almost there. We already have 0's down here. It's looking more and more like the identity matrix. So we have to turn all these diagonal entries into 1's, so let's do that now. 1, b over a, b over-oh. I'm dividing by a. a better not be 0. Let me signal that here. a different from 0. 1 over a, 0, 0. 0. I want to make that into a 1. So 1 over a minus b, and-- you guessed it-- a minus b has to be different from 0. 0. -1 over a minus b. 1 over a minus b. 0, 0, 1, 0, -1 over a minus b. 1 over a minus b. AUDIENCE: [INAUDIBLE] PROFESSOR: Someone's pointing a mistake. AUDIENCE: Yeah, the (2, 2) entry, you should have a 1. PROFESSOR: Oh, you're absolutely right. Thank you. All right. So not much left to do. We only have to eliminate b over a and b over a. That's a little bit computationally heavy. So what do you have to do? You just have to basically subtract-- replace row 1 by row 1 minus b over a times row 2 plus row 3. Let me write that down. row 1 minus b over a times row 2 plus row 3. You want that to go into your row 1. These stay the same. -1 over a minus b. 1 over a minus b. This is where I'm going to go to my notes and tell you that these numbers are 1 over a minus"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 124.25361075,
+            "t": 60.17350565301217,
+            "r": 575.420939949504,
+            "b": 46.871734920860035,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            95
+          ]
+        }
+      ],
+      "orig": "b, 0 minus b over a, a minus b. That looks pretty awful. But that is A inverse. And we're done.",
+      "text": "b, 0 minus b over a, a minus b. That looks pretty awful. But that is A inverse. And we're done."
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 124.25361075,
+            "t": 761.6400746690119,
+            "r": 583.157026320384,
+            "b": 650.1022865288601,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            429
+          ]
+        }
+      ],
+      "orig": "Except it looks terrible. So let me just write it in a nicer way. A inverse equals-- see, you're dividing everything by a minus b, so pull out that factor. 1, 0, minus b over a; -1, 1, 0; 0, -1, 1. Looks much better now. So here's your A inverse. And the other question was: what are the conditions on a and b for the matrix A to be invertible? Well, a has to be non-zero, and a has to be different from b. And we're done. That's",
+      "text": "Except it looks terrible. So let me just write it in a nicer way. A inverse equals-- see, you're dividing everything by a minus b, so pull out that factor. 1, 0, minus b over a; -1, 1, 0; 0, -1, 1. Looks much better now. So here's your A inverse. And the other question was: what are the conditions on a and b for the matrix A to be invertible? Well, a has to be non-zero, and a has to be different from b. And we're done. That's"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 124.25361075,
+            "t": 641.914928453012,
+            "r": 272.270729979504,
+            "b": 628.61315772086,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            32
+          ]
+        }
+      ],
+      "orig": "it for today. See you next time.",
+      "text": "it for today. See you next time."
+    }
+  ],
+  "pictures": [],
+  "tables": [
+    {
+      "self_ref": "#/tables/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "table",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 25.900394439697266,
+            "t": 718.4472198486328,
+            "r": 583.0632934570312,
+            "b": 41.433837890625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "data": {
+        "table_cells": [
+          {
+            "bbox": {
+              "l": 26.12388500571251,
+              "t": 74.61414313782007,
+              "r": 98.5289853811264,
+              "b": 88.06134694442153,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "PROFESSOR:",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 130.70495748519897,
+              "t": 75.03105284273624,
+              "r": 576.9881825447083,
+              "b": 150.4423868879676,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Hi there. My name is Ana. Welcome to recitation. In lecture, you've been learning about how to multiply matrices, and how to think about that multiplication in different ways, and also about when a matrix is invertible or not, and how to compute the inverse when it is invertible. And that's what today's problem is about.",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 121.34555569291115,
+              "t": 158.96112494170666,
+              "r": 575.7875454425812,
+              "b": 237.45335544645786,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "We have a matrix A that has variables a and b instead of numbers. And the question is: what are the conditions on a and b that make that matrix invertible? And when it is invertible, what is A inverse? Why don't you hit Pause and work on it for a little while. And then we'll come back and work on it together.",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 123.29195961356163,
+              "t": 261.9112040102482,
+              "r": 568.188645362854,
+              "b": 301.65043500065804,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "And we're back. I hope you had success in solving that. Let's do it ourselves.",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 124.18690967559814,
+              "t": 284.4361450076103,
+              "r": 557.1600744724274,
+              "b": 317.04160606861115,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "So, remember from lecture, we talked about-- well, Professor Strang talked about how it's",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 123.03223767876625,
+              "t": 355.36705231666565,
+              "r": 574.1760941743851,
+              "b": 422.8616346716881,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "a column of 0's or a row of 0's, then the matrix is not invertible. Or if you have two columns that are the same, or two rows that are the same, the matrix is also not invertible. So let's see if this matrix satisfies any of those easy conditions.",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 123.33095276355743,
+              "t": 397.36553037166595,
+              "r": 573.171734213829,
+              "b": 458.1022652387619,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 5,
+            "end_row_offset_idx": 6,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Well, here you have a row of a's. If a is equal to 0, you have a row of 0's, the matrix is not invertible. So a is-- What was the other one? Two of the same column or of the same row.",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 125.30790048837662,
+              "t": 429.9170807003975,
+              "r": 574.1255972981453,
+              "b": 538.0845262408257,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 6,
+            "end_row_offset_idx": 7,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Well, if a is equal to b, then all the entries in the matrix are the same, so all the rows are the same, all the columns are the same, the matrix is not invertible. So that's the other easy condition. A is not invertible if a is equal to 0 or a equals to b.",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 123.99592790007591,
+              "t": 537.6046965122223,
+              "r": 577.5962698459625,
+              "b": 605.750525355339,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 7,
+            "end_row_offset_idx": 8,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "There's not any other easy condition that I can spot. So we have to do it in a more systematic way. So to do that, actually what we do is we start with A, we try to find its inverse, and if in the process we run into something fishy, those are our conditions.",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 123.74309492111206,
+              "t": 618.3333144783974,
+              "r": 579.5929050445557,
+              "b": 719.1137791275978,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 9,
+            "end_row_offset_idx": 10,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "So A and because left side. enough.",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 124.91207602620125,
+              "t": 605.9695982336998,
+              "r": 578.7807718515396,
+              "b": 719.1504997611046,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 8,
+            "end_row_offset_idx": 9,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "remember how to find the inverse of a matrix? You start by writing a giant matrix that has the identity next to it. And then you perform elimination steps until-- let's put dots here, there's lots of steps-- and you stop once you've reached the identity matrix on the And when you do that, what you have on the right side will be your A inverse. Easy",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 125.9423816204071,
+              "t": 728.1370072364807,
+              "r": 574.7873686552048,
+              "b": 752.3802922964096,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 10,
+            "end_row_offset_idx": 11,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "So let's do the computations. a, b, b; a, a, b; a, a, a; and my identity matrix next to it. And now",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          }
+        ],
+        "num_rows": 11,
+        "num_cols": 2,
+        "orientation": "rot_0",
+        "grid": [
+          [
+            {
+              "bbox": {
+                "l": 26.12388500571251,
+                "t": 74.61414313782007,
+                "r": 98.5289853811264,
+                "b": 88.06134694442153,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "PROFESSOR:",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 130.70495748519897,
+                "t": 75.03105284273624,
+                "r": 576.9881825447083,
+                "b": 150.4423868879676,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Hi there. My name is Ana. Welcome to recitation. In lecture, you've been learning about how to multiply matrices, and how to think about that multiplication in different ways, and also about when a matrix is invertible or not, and how to compute the inverse when it is invertible. And that's what today's problem is about.",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 121.34555569291115,
+                "t": 158.96112494170666,
+                "r": 575.7875454425812,
+                "b": 237.45335544645786,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "We have a matrix A that has variables a and b instead of numbers. And the question is: what are the conditions on a and b that make that matrix invertible? And when it is invertible, what is A inverse? Why don't you hit Pause and work on it for a little while. And then we'll come back and work on it together.",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 123.29195961356163,
+                "t": 261.9112040102482,
+                "r": 568.188645362854,
+                "b": 301.65043500065804,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "And we're back. I hope you had success in solving that. Let's do it ourselves.",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 124.18690967559814,
+                "t": 284.4361450076103,
+                "r": 557.1600744724274,
+                "b": 317.04160606861115,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "So, remember from lecture, we talked about-- well, Professor Strang talked about how it's",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 123.03223767876625,
+                "t": 355.36705231666565,
+                "r": 574.1760941743851,
+                "b": 422.8616346716881,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "a column of 0's or a row of 0's, then the matrix is not invertible. Or if you have two columns that are the same, or two rows that are the same, the matrix is also not invertible. So let's see if this matrix satisfies any of those easy conditions.",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 5,
+              "end_row_offset_idx": 6,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 123.33095276355743,
+                "t": 397.36553037166595,
+                "r": 573.171734213829,
+                "b": 458.1022652387619,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 5,
+              "end_row_offset_idx": 6,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Well, here you have a row of a's. If a is equal to 0, you have a row of 0's, the matrix is not invertible. So a is-- What was the other one? Two of the same column or of the same row.",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 6,
+              "end_row_offset_idx": 7,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 125.30790048837662,
+                "t": 429.9170807003975,
+                "r": 574.1255972981453,
+                "b": 538.0845262408257,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 6,
+              "end_row_offset_idx": 7,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Well, if a is equal to b, then all the entries in the matrix are the same, so all the rows are the same, all the columns are the same, the matrix is not invertible. So that's the other easy condition. A is not invertible if a is equal to 0 or a equals to b.",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 7,
+              "end_row_offset_idx": 8,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 123.99592790007591,
+                "t": 537.6046965122223,
+                "r": 577.5962698459625,
+                "b": 605.750525355339,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 7,
+              "end_row_offset_idx": 8,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "There's not any other easy condition that I can spot. So we have to do it in a more systematic way. So to do that, actually what we do is we start with A, we try to find its inverse, and if in the process we run into something fishy, those are our conditions.",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 8,
+              "end_row_offset_idx": 9,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 124.91207602620125,
+                "t": 605.9695982336998,
+                "r": 578.7807718515396,
+                "b": 719.1504997611046,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 8,
+              "end_row_offset_idx": 9,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "remember how to find the inverse of a matrix? You start by writing a giant matrix that has the identity next to it. And then you perform elimination steps until-- let's put dots here, there's lots of steps-- and you stop once you've reached the identity matrix on the And when you do that, what you have on the right side will be your A inverse. Easy",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 9,
+              "end_row_offset_idx": 10,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 123.74309492111206,
+                "t": 618.3333144783974,
+                "r": 579.5929050445557,
+                "b": 719.1137791275978,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 9,
+              "end_row_offset_idx": 10,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "So A and because left side. enough.",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 10,
+              "end_row_offset_idx": 11,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 125.9423816204071,
+                "t": 728.1370072364807,
+                "r": 574.7873686552048,
+                "b": 752.3802922964096,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 10,
+              "end_row_offset_idx": 11,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "So let's do the computations. a, b, b; a, a, b; a, a, a; and my identity matrix next to it. And now",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ]
+        ]
+      },
+      "annotations": []
+    }
+  ],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 3
+    }
+  }
+}

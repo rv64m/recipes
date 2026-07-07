@@ -1,0 +1,4382 @@
+[
+  {
+    "start": 0.0,
+    "end": 2.4,
+    "text": " The following content is provided under a Creative"
+  },
+  {
+    "start": 2.4,
+    "end": 3.64,
+    "text": " Commons license."
+  },
+  {
+    "start": 3.64,
+    "end": 6.0,
+    "text": " Your support will help MIT OpenCourseWare"
+  },
+  {
+    "start": 6.0,
+    "end": 9.96,
+    "text": " continue to offer high quality educational resources for free."
+  },
+  {
+    "start": 9.96,
+    "end": 12.64,
+    "text": " To make a donation or to view additional materials"
+  },
+  {
+    "start": 12.64,
+    "end": 16.56,
+    "text": " from hundreds of MIT courses, visit MIT OpenCourseWare"
+  },
+  {
+    "start": 16.56,
+    "end": 17.44,
+    "text": " at ocw.mit.edu."
+  },
+  {
+    "start": 21.88,
+    "end": 27.080000000000002,
+    "text": " OK, so this is the one and only review,"
+  },
+  {
+    "start": 27.080000000000002,
+    "end": 29.72,
+    "text": " you could say, of linear algebra."
+  },
+  {
+    "start": 30.68,
+    "end": 33.68,
+    "text": " I just think linear algebra is very important."
+  },
+  {
+    "start": 33.68,
+    "end": 35.56,
+    "text": " You may have got that idea."
+  },
+  {
+    "start": 35.56,
+    "end": 41.48,
+    "text": " And my website even has a little essay called Too Much"
+  },
+  {
+    "start": 41.48,
+    "end": 48.72,
+    "text": " Calculus, because I think it's crazy for all the US"
+  },
+  {
+    "start": 48.72,
+    "end": 51.0,
+    "text": " universities to do this pretty much."
+  },
+  {
+    "start": 51.0,
+    "end": 54.239999999999995,
+    "text": " You get semester after semester differential calculus,"
+  },
+  {
+    "start": 54.239999999999995,
+    "end": 57.239999999999995,
+    "text": " integral calculus, ultimately differential equations."
+  },
+  {
+    "start": 57.24,
+    "end": 60.120000000000005,
+    "text": " You run out of steam before the good stuff,"
+  },
+  {
+    "start": 60.120000000000005,
+    "end": 61.760000000000005,
+    "text": " or you run out of time."
+  },
+  {
+    "start": 61.760000000000005,
+    "end": 67.48,
+    "text": " And anybody who computes, who's living in the real world,"
+  },
+  {
+    "start": 67.48,
+    "end": 70.04,
+    "text": " is using linear algebra."
+  },
+  {
+    "start": 70.04,
+    "end": 73.12,
+    "text": " You're taking a differential equation,"
+  },
+  {
+    "start": 73.12,
+    "end": 76.32000000000001,
+    "text": " you're taking your model, making it discrete,"
+  },
+  {
+    "start": 76.32000000000001,
+    "end": 79.6,
+    "text": " and computing with matrices."
+  },
+  {
+    "start": 79.6,
+    "end": 83.12,
+    "text": " I mean, the world's digital now, not analog."
+  },
+  {
+    "start": 87.24,
+    "end": 90.67999999999999,
+    "text": " I hope it's OK to start the course with linear algebra."
+  },
+  {
+    "start": 90.67999999999999,
+    "end": 98.24,
+    "text": " And so, but many engineering curricula don't fully"
+  },
+  {
+    "start": 98.24,
+    "end": 99.16,
+    "text": " recognize that."
+  },
+  {
+    "start": 99.16,
+    "end": 102.83999999999999,
+    "text": " And so if you haven't had an official course,"
+  },
+  {
+    "start": 102.83999999999999,
+    "end": 106.8,
+    "text": " linear algebra, stay with 18085."
+  },
+  {
+    "start": 106.8,
+    "end": 108.32,
+    "text": " This is a good way to learn it."
+  },
+  {
+    "start": 108.32,
+    "end": 111.44,
+    "text": " You start learning what's important."
+  },
+  {
+    "start": 111.44,
+    "end": 116.75999999999999,
+    "text": " So my review would be, and then this is,"
+  },
+  {
+    "start": 116.80000000000001,
+    "end": 120.44000000000001,
+    "text": " so future Wednesdays will be in our regular room"
+  },
+  {
+    "start": 120.44000000000001,
+    "end": 124.0,
+    "text": " for homework, review, questions of all kinds."
+  },
+  {
+    "start": 124.0,
+    "end": 126.88000000000001,
+    "text": " And today, questions too."
+  },
+  {
+    "start": 126.88000000000001,
+    "end": 131.0,
+    "text": " Shall I just fire away for the first half of the time"
+  },
+  {
+    "start": 131.0,
+    "end": 135.36,
+    "text": " to give you a sense of how I see the subject,"
+  },
+  {
+    "start": 135.36,
+    "end": 138.0,
+    "text": " or at least within that limited time?"
+  },
+  {
+    "start": 138.0,
+    "end": 142.48000000000002,
+    "text": " And then questions are totally welcome."
+  },
+  {
+    "start": 142.48000000000002,
+    "end": 144.64000000000001,
+    "text": " Always welcome, actually."
+  },
+  {
+    "start": 144.64000000000001,
+    "end": 146.6,
+    "text": " So I'll just start right up."
+  },
+  {
+    "start": 146.6,
+    "end": 151.16,
+    "text": " So essentially, linear algebra progresses"
+  },
+  {
+    "start": 151.16,
+    "end": 161.04,
+    "text": " starting with vectors to matrices, and then finally"
+  },
+  {
+    "start": 161.04,
+    "end": 162.56,
+    "text": " to subspaces."
+  },
+  {
+    "start": 162.56,
+    "end": 166.56,
+    "text": " So that's like the abstraction, you could say abstraction,"
+  },
+  {
+    "start": 166.56,
+    "end": 170.72,
+    "text": " but it's not difficult, that you want to see."
+  },
+  {
+    "start": 170.72,
+    "end": 173.32,
+    "text": " Until you see the idea of a subspace,"
+  },
+  {
+    "start": 173.32,
+    "end": 176.12,
+    "text": " you haven't really got linear algebra."
+  },
+  {
+    "start": 176.64000000000001,
+    "end": 178.52,
+    "text": " So I'll start at the beginning."
+  },
+  {
+    "start": 178.52,
+    "end": 181.24,
+    "text": " What do you do with vectors?"
+  },
+  {
+    "start": 181.24,
+    "end": 184.20000000000002,
+    "text": " Answer, you take their linear combinations."
+  },
+  {
+    "start": 184.20000000000002,
+    "end": 186.16,
+    "text": " That's what you can do with a vector."
+  },
+  {
+    "start": 186.16,
+    "end": 191.16,
+    "text": " You can multiply it by a number, and you can add or subtract."
+  },
+  {
+    "start": 191.16,
+    "end": 193.8,
+    "text": " So that's the key operation."
+  },
+  {
+    "start": 193.8,
+    "end": 198.12,
+    "text": " Suppose I have vectors u, v, and w."
+  },
+  {
+    "start": 198.12,
+    "end": 200.88,
+    "text": " Let me take three of them."
+  },
+  {
+    "start": 200.88,
+    "end": 202.68,
+    "text": " So I can take their combinations,"
+  },
+  {
+    "start": 202.72,
+    "end": 208.64000000000001,
+    "text": " so some combination will be, say, some number times u,"
+  },
+  {
+    "start": 208.64000000000001,
+    "end": 213.24,
+    "text": " plus some number times v, plus some number times w."
+  },
+  {
+    "start": 213.24,
+    "end": 216.56,
+    "text": " So these numbers are called scalars."
+  },
+  {
+    "start": 216.56,
+    "end": 219.76000000000002,
+    "text": " So these would be called scalars."
+  },
+  {
+    "start": 219.76000000000002,
+    "end": 224.32,
+    "text": " And the whole thing is a linear combination."
+  },
+  {
+    "start": 224.32,
+    "end": 228.24,
+    "text": " Let me abbreviate those words, linear combination."
+  },
+  {
+    "start": 228.24,
+    "end": 232.12,
+    "text": " And you get some answer, say, b."
+  },
+  {
+    "start": 233.12,
+    "end": 234.4,
+    "text": " OK."
+  },
+  {
+    "start": 234.4,
+    "end": 240.6,
+    "text": " But let's pin it down, make this whole discussion specific."
+  },
+  {
+    "start": 240.6,
+    "end": 244.56,
+    "text": " Yeah, I started a little early, I think."
+  },
+  {
+    "start": 244.56,
+    "end": 248.08,
+    "text": " So I'm going to take three vectors, u, v, and w,"
+  },
+  {
+    "start": 248.08,
+    "end": 251.0,
+    "text": " and take their combinations."
+  },
+  {
+    "start": 251.0,
+    "end": 254.92000000000002,
+    "text": " So my u is going to be, they're carefully chosen,"
+  },
+  {
+    "start": 254.92000000000002,
+    "end": 260.44,
+    "text": " my u is going to be 1 minus 1, 0."
+  },
+  {
+    "start": 260.44,
+    "end": 263.6,
+    "text": " And I'll take vectors in three dimensions."
+  },
+  {
+    "start": 263.6,
+    "end": 265.96,
+    "text": " So that means their combinations will be in three"
+  },
+  {
+    "start": 265.96,
+    "end": 269.96,
+    "text": " dimensions, r3, three-dimensional space."
+  },
+  {
+    "start": 269.96,
+    "end": 278.44,
+    "text": " So that'll be u, and then v, let's take 0, I think, 1"
+  },
+  {
+    "start": 278.44,
+    "end": 280.56,
+    "text": " and minus 1."
+  },
+  {
+    "start": 280.56,
+    "end": 281.24,
+    "text": " OK."
+  },
+  {
+    "start": 281.24,
+    "end": 284.8,
+    "text": " Suppose I stopped there and took their linear combinations."
+  },
+  {
+    "start": 284.8,
+    "end": 290.15999999999997,
+    "text": " It's very helpful to see a picture in three-dimensional space."
+  },
+  {
+    "start": 290.36,
+    "end": 292.16,
+    "text": " The great thing about linear algebra,"
+  },
+  {
+    "start": 292.16,
+    "end": 295.88000000000005,
+    "text": " it moves into n-dimensional space, 10-dimensional,"
+  },
+  {
+    "start": 295.88000000000005,
+    "end": 298.40000000000003,
+    "text": " 100-dimensional, where we can't visualize."
+  },
+  {
+    "start": 298.40000000000003,
+    "end": 302.12,
+    "text": " But yet, our instinct is right if we just follow."
+  },
+  {
+    "start": 302.12,
+    "end": 307.04,
+    "text": " So what's your instinct if I took those two vectors,"
+  },
+  {
+    "start": 307.04,
+    "end": 309.36,
+    "text": " and notice they're not on the same line."
+  },
+  {
+    "start": 309.36,
+    "end": 311.0,
+    "text": " One isn't a multiple of the other."
+  },
+  {
+    "start": 311.0,
+    "end": 313.32000000000005,
+    "text": " They go in different directions."
+  },
+  {
+    "start": 313.32,
+    "end": 320.4,
+    "text": " If I took their combinations, cx1 times u plus x2 times v,"
+  },
+  {
+    "start": 320.4,
+    "end": 322.24,
+    "text": " oh, now let me push."
+  },
+  {
+    "start": 322.24,
+    "end": 324.0,
+    "text": " This is a serious question."
+  },
+  {
+    "start": 324.0,
+    "end": 326.68,
+    "text": " If I took all their combinations,"
+  },
+  {
+    "start": 326.68,
+    "end": 328.84,
+    "text": " so let me try to draw a little bit."
+  },
+  {
+    "start": 328.84,
+    "end": 333.56,
+    "text": " OK, I'm in three-dimensional space, and u goes somewhere,"
+  },
+  {
+    "start": 333.56,
+    "end": 339.08,
+    "text": " maybe there, and v goes somewhere, maybe here."
+  },
+  {
+    "start": 339.08,
+    "end": 342.03999999999996,
+    "text": " Now suppose I take all the combinations,"
+  },
+  {
+    "start": 342.04,
+    "end": 344.96000000000004,
+    "text": " so I could multiply that first guy by any number."
+  },
+  {
+    "start": 344.96000000000004,
+    "end": 346.92,
+    "text": " That would fill the line."
+  },
+  {
+    "start": 346.92,
+    "end": 350.84000000000003,
+    "text": " I could multiply that second guy, v, so this was u,"
+  },
+  {
+    "start": 350.84000000000003,
+    "end": 351.96000000000004,
+    "text": " and this was v."
+  },
+  {
+    "start": 351.96000000000004,
+    "end": 354.24,
+    "text": " I could multiply that by any number x2."
+  },
+  {
+    "start": 354.24,
+    "end": 356.36,
+    "text": " That would fill its line."
+  },
+  {
+    "start": 356.36,
+    "end": 358.12,
+    "text": " Each of those lines I would later"
+  },
+  {
+    "start": 358.12,
+    "end": 361.56,
+    "text": " call a one-dimensional subspace, just a line."
+  },
+  {
+    "start": 361.56,
+    "end": 366.8,
+    "text": " But now what happens if I take all combinations of the two?"
+  },
+  {
+    "start": 366.8,
+    "end": 368.64000000000004,
+    "text": " What do you think?"
+  },
+  {
+    "start": 368.64000000000004,
+    "end": 369.92,
+    "text": " You get a plane."
+  },
+  {
+    "start": 369.92,
+    "end": 371.12,
+    "text": " Get a plane."
+  },
+  {
+    "start": 371.12,
+    "end": 374.48,
+    "text": " If I take anything on this line and anything on this line"
+  },
+  {
+    "start": 374.48,
+    "end": 379.48,
+    "text": " and add them up, you can see that I'm not going to fill 3d."
+  },
+  {
+    "start": 379.48,
+    "end": 383.68,
+    "text": " But I'm going to fill a plane, and that maybe"
+  },
+  {
+    "start": 383.68,
+    "end": 385.68,
+    "text": " takes a little thinking."
+  },
+  {
+    "start": 385.68,
+    "end": 388.92,
+    "text": " It just then becomes sort of, yeah, you see"
+  },
+  {
+    "start": 388.92,
+    "end": 391.24,
+    "text": " that that's what it has to be."
+  },
+  {
+    "start": 391.24,
+    "end": 395.08,
+    "text": " OK, now I'm going to have a third vector."
+  },
+  {
+    "start": 395.08,
+    "end": 399.56,
+    "text": " My third vector will be 001."
+  },
+  {
+    "start": 399.6,
+    "end": 404.72,
+    "text": " So that 001 is 0 in the x, 0 in the y, and 1 in the z direction."
+  },
+  {
+    "start": 404.72,
+    "end": 407.0,
+    "text": " So there's w."
+  },
+  {
+    "start": 407.0,
+    "end": 411.48,
+    "text": " OK, now I want to take their combinations."
+  },
+  {
+    "start": 411.48,
+    "end": 414.56,
+    "text": " OK, so let me do that very specifically."
+  },
+  {
+    "start": 414.56,
+    "end": 416.4,
+    "text": " How do I take combinations?"
+  },
+  {
+    "start": 416.4,
+    "end": 418.6,
+    "text": " Ha, this is important."
+  },
+  {
+    "start": 418.6,
+    "end": 421.72,
+    "text": " Seems it's very simple but important."
+  },
+  {
+    "start": 421.72,
+    "end": 427.8,
+    "text": " I like to think of taking the combinations of some vectors."
+  },
+  {
+    "start": 427.8,
+    "end": 432.08,
+    "text": " I'm always putting vectors into the columns of a matrix."
+  },
+  {
+    "start": 432.08,
+    "end": 435.24,
+    "text": " So now I'm going to move to step two, matrix."
+  },
+  {
+    "start": 435.24,
+    "end": 439.08,
+    "text": " I'm going to move to step two, and maybe I'll put it,"
+  },
+  {
+    "start": 439.08,
+    "end": 440.8,
+    "text": " well, now I better put it here."
+  },
+  {
+    "start": 440.8,
+    "end": 446.44,
+    "text": " OK, step two is the matrix has those vectors in its columns."
+  },
+  {
+    "start": 446.44,
+    "end": 451.32,
+    "text": " So in this case, it's 3 by 3."
+  },
+  {
+    "start": 451.32,
+    "end": 456.52,
+    "text": " OK, that's my matrix that I'm going to call it a."
+  },
+  {
+    "start": 456.56,
+    "end": 463.12,
+    "text": " And now I'm going to, how do I take combinations of vectors?"
+  },
+  {
+    "start": 463.12,
+    "end": 467.88,
+    "text": " Well, I could have, I should have maybe done it in detail here,"
+  },
+  {
+    "start": 467.88,
+    "end": 472.79999999999995,
+    "text": " but let me, I'll just do it with a matrix here."
+  },
+  {
+    "start": 472.79999999999995,
+    "end": 474.88,
+    "text": " Watch this now."
+  },
+  {
+    "start": 474.88,
+    "end": 485.0,
+    "text": " If I multiply a by the vector of x's, what that does?"
+  },
+  {
+    "start": 485.04,
+    "end": 488.12,
+    "text": " So this is now a times x, so very important,"
+  },
+  {
+    "start": 488.12,
+    "end": 490.2,
+    "text": " of matrix times a vector."
+  },
+  {
+    "start": 490.2,
+    "end": 492.6,
+    "text": " What does it do?"
+  },
+  {
+    "start": 492.6,
+    "end": 495.72,
+    "text": " The output is just what I want."
+  },
+  {
+    "start": 495.72,
+    "end": 497.84,
+    "text": " This is the output."
+  },
+  {
+    "start": 497.84,
+    "end": 503.0,
+    "text": " It takes x1 times the first column, plus x2 times the second,"
+  },
+  {
+    "start": 503.0,
+    "end": 504.44,
+    "text": " plus x3 times the third."
+  },
+  {
+    "start": 504.44,
+    "end": 508.84,
+    "text": " That's the way matrix multiplication works by columns."
+  },
+  {
+    "start": 508.84,
+    "end": 510.84,
+    "text": " And you don't always see that."
+  },
+  {
+    "start": 510.84,
+    "end": 512.96,
+    "text": " Because what do you see, you know how to,"
+  },
+  {
+    "start": 512.96,
+    "end": 515.96,
+    "text": " probably know how to multiply that matrix by that vector."
+  },
+  {
+    "start": 515.96,
+    "end": 518.32,
+    "text": " Let me ask you to do it."
+  },
+  {
+    "start": 518.32,
+    "end": 520.52,
+    "text": " OK, what do you get?"
+  },
+  {
+    "start": 520.52,
+    "end": 523.8000000000001,
+    "text": " So everybody does it, a component at a time."
+  },
+  {
+    "start": 523.8000000000001,
+    "end": 527.44,
+    "text": " So what's the first component of the answer?"
+  },
+  {
+    "start": 527.44,
+    "end": 528.52,
+    "text": " x1, yeah."
+  },
+  {
+    "start": 528.52,
+    "end": 529.8000000000001,
+    "text": " How do you get that?"
+  },
+  {
+    "start": 529.8000000000001,
+    "end": 532.84,
+    "text": " It's a row times the vector."
+  },
+  {
+    "start": 532.84,
+    "end": 536.64,
+    "text": " And when I say times, I really mean that dot product."
+  },
+  {
+    "start": 536.64,
+    "end": 540.0,
+    "text": " This time plus this, plus this is x1."
+  },
+  {
+    "start": 540.04,
+    "end": 541.76,
+    "text": " And what about the second row?"
+  },
+  {
+    "start": 544.76,
+    "end": 549.76,
+    "text": " Minus x1 plus x2, or I'll just say x2 minus x1."
+  },
+  {
+    "start": 549.76,
+    "end": 556.36,
+    "text": " And the third guy, the third component would be x3 minus x2."
+  },
+  {
+    "start": 556.36,
+    "end": 559.2,
+    "text": " Right?"
+  },
+  {
+    "start": 559.2,
+    "end": 562.04,
+    "text": " OK."
+  },
+  {
+    "start": 562.04,
+    "end": 565.76,
+    "text": " So right away, I'm going to say, I'm going to call this"
+  },
+  {
+    "start": 565.76,
+    "end": 567.88,
+    "text": " matrix a, a difference matrix."
+  },
+  {
+    "start": 567.92,
+    "end": 571.4399999999999,
+    "text": " It always helps to give names to things."
+  },
+  {
+    "start": 571.4399999999999,
+    "end": 574.48,
+    "text": " So this a is a difference matrix."
+  },
+  {
+    "start": 574.48,
+    "end": 577.4399999999999,
+    "text": " Because it takes differences of the x's."
+  },
+  {
+    "start": 577.4399999999999,
+    "end": 580.4399999999999,
+    "text": " And I would even say a first difference matrix."
+  },
+  {
+    "start": 580.4399999999999,
+    "end": 583.84,
+    "text": " Because it's just a straightforward difference."
+  },
+  {
+    "start": 583.84,
+    "end": 588.08,
+    "text": " And we'll see second differences in class Friday."
+  },
+  {
+    "start": 588.08,
+    "end": 588.8,
+    "text": " OK."
+  },
+  {
+    "start": 588.8,
+    "end": 590.08,
+    "text": " So that's what a does."
+  },
+  {
+    "start": 590.08,
+    "end": 594.12,
+    "text": " But remember my first point was that when a matrix"
+  },
+  {
+    "start": 594.12,
+    "end": 598.6,
+    "text": " multiplies a vector, the result is a combination"
+  },
+  {
+    "start": 598.6,
+    "end": 601.5600000000001,
+    "text": " of the columns."
+  },
+  {
+    "start": 601.5600000000001,
+    "end": 604.8,
+    "text": " And that's not always, because see, I'm looking at the"
+  },
+  {
+    "start": 604.8,
+    "end": 607.12,
+    "text": " picture, not just by numbers."
+  },
+  {
+    "start": 607.12,
+    "end": 610.88,
+    "text": " You know, with numbers I'm just doing this stuff."
+  },
+  {
+    "start": 610.88,
+    "end": 613.88,
+    "text": " But now I'm stepping back a little bit and saying, I'm"
+  },
+  {
+    "start": 613.88,
+    "end": 618.12,
+    "text": " combining, it's this vector times x1."
+  },
+  {
+    "start": 618.12,
+    "end": 622.2,
+    "text": " That vector times x1 plus this vector times x2 plus that one"
+  },
+  {
+    "start": 622.2,
+    "end": 625.72,
+    "text": " times x3 added together gives me this."
+  },
+  {
+    "start": 625.72,
+    "end": 628.8000000000001,
+    "text": " Same, nothing complicated here."
+  },
+  {
+    "start": 628.8000000000001,
+    "end": 631.6800000000001,
+    "text": " Just look at it by vectors also."
+  },
+  {
+    "start": 631.6800000000001,
+    "end": 632.44,
+    "text": " OK."
+  },
+  {
+    "start": 632.44,
+    "end": 639.0400000000001,
+    "text": " Now suppose, so, so, it's a little interesting already."
+  },
+  {
+    "start": 639.0400000000001,
+    "end": 645.0,
+    "text": " Here we multiplied these vectors by numbers."
+  },
+  {
+    "start": 645.0,
+    "end": 646.84,
+    "text": " x1, x2, x3."
+  },
+  {
+    "start": 646.84,
+    "end": 649.12,
+    "text": " That was our thinking here."
+  },
+  {
+    "start": 649.12,
+    "end": 652.4,
+    "text": " Now our thinking here is a little, we've switched slightly."
+  },
+  {
+    "start": 652.4,
+    "end": 657.84,
+    "text": " Now I'm multiplying the matrix times the numbers in x."
+  },
+  {
+    "start": 657.84,
+    "end": 659.2,
+    "text": " Just a slight switch."
+  },
+  {
+    "start": 659.2,
+    "end": 661.16,
+    "text": " Multiply the matrix times the numbers."
+  },
+  {
+    "start": 661.16,
+    "end": 663.2,
+    "text": " And I get some answer, b."
+  },
+  {
+    "start": 663.2,
+    "end": 664.04,
+    "text": " Which is this?"
+  },
+  {
+    "start": 664.04,
+    "end": 665.84,
+    "text": " This is b."
+  },
+  {
+    "start": 665.84,
+    "end": 667.52,
+    "text": " OK."
+  },
+  {
+    "start": 667.52,
+    "end": 667.88,
+    "text": " OK."
+  },
+  {
+    "start": 667.88,
+    "end": 672.64,
+    "text": " And of course I can do a specific example like, suppose I"
+  },
+  {
+    "start": 672.64,
+    "end": 679.92,
+    "text": " take, well, I could take the squares to be in x."
+  },
+  {
+    "start": 679.92,
+    "end": 687.88,
+    "text": " So suppose I take a times the first three squares, 1, 4, 9."
+  },
+  {
+    "start": 687.88,
+    "end": 689.96,
+    "text": " What answer would I get?"
+  },
+  {
+    "start": 689.96,
+    "end": 695.12,
+    "text": " Just to keep it clear that we're very specific here."
+  },
+  {
+    "start": 695.12,
+    "end": 698.68,
+    "text": " So what would be the output b?"
+  },
+  {
+    "start": 698.68,
+    "end": 702.24,
+    "text": " I think of this as the input, the 1, 4, 9, the x's."
+  },
+  {
+    "start": 702.36,
+    "end": 706.52,
+    "text": " Now the machine is a multiply by a."
+  },
+  {
+    "start": 706.52,
+    "end": 708.28,
+    "text": " And here's the output."
+  },
+  {
+    "start": 708.28,
+    "end": 709.6800000000001,
+    "text": " And what would be the output?"
+  },
+  {
+    "start": 709.6800000000001,
+    "end": 711.36,
+    "text": " What numbers am I going to get there?"
+  },
+  {
+    "start": 711.36,
+    "end": 712.84,
+    "text": " Yeah."
+  },
+  {
+    "start": 712.84,
+    "end": 715.16,
+    "text": " 1, 3, something?"
+  },
+  {
+    "start": 715.16,
+    "end": 717.84,
+    "text": " 1, 3, 5."
+  },
+  {
+    "start": 717.84,
+    "end": 723.24,
+    "text": " Which is actually a little neat that you find the differences"
+  },
+  {
+    "start": 723.24,
+    "end": 726.08,
+    "text": " of the squares are the odd numbers."
+  },
+  {
+    "start": 726.08,
+    "end": 729.96,
+    "text": " That appealed to me in school somehow."
+  },
+  {
+    "start": 729.96,
+    "end": 733.48,
+    "text": " And that was already a bad sign, right?"
+  },
+  {
+    "start": 733.48,
+    "end": 738.52,
+    "text": " This dumb kid notices that you take differences of squares"
+  },
+  {
+    "start": 738.52,
+    "end": 739.5600000000001,
+    "text": " and you get odd numbers."
+  },
+  {
+    "start": 739.5600000000001,
+    "end": 740.0400000000001,
+    "text": " Right."
+  },
+  {
+    "start": 740.0400000000001,
+    "end": 740.9200000000001,
+    "text": " Whatever."
+  },
+  {
+    "start": 740.9200000000001,
+    "end": 741.88,
+    "text": " OK."
+  },
+  {
+    "start": 741.88,
+    "end": 745.2800000000001,
+    "text": " So now is a big step."
+  },
+  {
+    "start": 745.2800000000001,
+    "end": 749.4000000000001,
+    "text": " This was the forward direction."
+  },
+  {
+    "start": 749.4000000000001,
+    "end": 752.0400000000001,
+    "text": " Input, and there's the output."
+  },
+  {
+    "start": 752.0400000000001,
+    "end": 756.52,
+    "text": " But now the real reality, that's easy and important."
+  },
+  {
+    "start": 756.52,
+    "end": 767.24,
+    "text": " But the more deep problem is, what if I give you b and ask"
+  },
+  {
+    "start": 767.24,
+    "end": 768.36,
+    "text": " for x?"
+  },
+  {
+    "start": 768.36,
+    "end": 772.24,
+    "text": " So again, we're switching the direction here."
+  },
+  {
+    "start": 772.24,
+    "end": 772.56,
+    "text": " OK."
+  },
+  {
+    "start": 772.56,
+    "end": 775.68,
+    "text": " We're solving an equation now, or three equations,"
+  },
+  {
+    "start": 775.68,
+    "end": 778.16,
+    "text": " and three unknowns, ax equal b."
+  },
+  {
+    "start": 778.16,
+    "end": 782.64,
+    "text": " So if I give you this b, can you get x?"
+  },
+  {
+    "start": 782.64,
+    "end": 783.04,
+    "text": " OK."
+  },
+  {
+    "start": 783.04,
+    "end": 784.96,
+    "text": " How do you solve three equations?"
+  },
+  {
+    "start": 785.0,
+    "end": 788.0,
+    "text": " So it's just we're looking backwards."
+  },
+  {
+    "start": 788.0,
+    "end": 793.2,
+    "text": " Now, that won't be too hard for this matrix,"
+  },
+  {
+    "start": 793.2,
+    "end": 796.1600000000001,
+    "text": " for this particular matrix that I chose."
+  },
+  {
+    "start": 796.1600000000001,
+    "end": 800.48,
+    "text": " Because it's triangular, we'll be able to find,"
+  },
+  {
+    "start": 800.48,
+    "end": 803.24,
+    "text": " we'll be able to go backwards."
+  },
+  {
+    "start": 803.24,
+    "end": 805.96,
+    "text": " So let me do that."
+  },
+  {
+    "start": 805.96,
+    "end": 808.48,
+    "text": " Let me take b to b."
+  },
+  {
+    "start": 808.48,
+    "end": 809.76,
+    "text": " It's a vector."
+  },
+  {
+    "start": 809.76,
+    "end": 811.64,
+    "text": " It's got three components."
+  },
+  {
+    "start": 811.64,
+    "end": 816.1999999999999,
+    "text": " And now I'm going to go backwards to find x."
+  },
+  {
+    "start": 816.1999999999999,
+    "end": 818.12,
+    "text": " Or we will."
+  },
+  {
+    "start": 818.12,
+    "end": 819.4399999999999,
+    "text": " OK."
+  },
+  {
+    "start": 819.4399999999999,
+    "end": 821.96,
+    "text": " So do you see the three equations?"
+  },
+  {
+    "start": 821.96,
+    "end": 827.88,
+    "text": " Here they are, x1 is b1, this is b2, that difference is b3."
+  },
+  {
+    "start": 827.88,
+    "end": 829.28,
+    "text": " Those are my three equations."
+  },
+  {
+    "start": 829.28,
+    "end": 833.24,
+    "text": " Three unknown x's, three known right-hand sides."
+  },
+  {
+    "start": 833.24,
+    "end": 838.56,
+    "text": " Or I think of it as a times x is a matrix times x giving a"
+  },
+  {
+    "start": 838.56,
+    "end": 840.52,
+    "text": " vector b."
+  },
+  {
+    "start": 840.52,
+    "end": 842.0799999999999,
+    "text": " What's the answer?"
+  },
+  {
+    "start": 842.0799999999999,
+    "end": 845.68,
+    "text": " OK, as I said, we're going to be able to do this."
+  },
+  {
+    "start": 845.68,
+    "end": 849.16,
+    "text": " We're going to be able to solve this system easily because"
+  },
+  {
+    "start": 849.16,
+    "end": 851.84,
+    "text": " it's already triangular."
+  },
+  {
+    "start": 851.84,
+    "end": 854.52,
+    "text": " And it's actually lower triangular."
+  },
+  {
+    "start": 854.52,
+    "end": 857.92,
+    "text": " So that means we'll start from the top."
+  },
+  {
+    "start": 857.92,
+    "end": 864.76,
+    "text": " So the answer is the solution will be what?"
+  },
+  {
+    "start": 864.76,
+    "end": 866.16,
+    "text": " Let's make room for it."
+  },
+  {
+    "start": 866.16,
+    "end": 868.88,
+    "text": " x1, x2, and x3."
+  },
+  {
+    "start": 868.88,
+    "end": 870.48,
+    "text": " I want to find."
+  },
+  {
+    "start": 870.48,
+    "end": 873.88,
+    "text": " And what's the answer?"
+  },
+  {
+    "start": 873.88,
+    "end": 877.52,
+    "text": " Can we just go from top to bottom now?"
+  },
+  {
+    "start": 877.52,
+    "end": 880.56,
+    "text": " What's x1?"
+  },
+  {
+    "start": 880.56,
+    "end": 882.3199999999999,
+    "text": " b1, great."
+  },
+  {
+    "start": 882.3199999999999,
+    "end": 884.8399999999999,
+    "text": " What's x2?"
+  },
+  {
+    "start": 884.8399999999999,
+    "end": 888.24,
+    "text": " So x2 minus x1, these are my equations."
+  },
+  {
+    "start": 888.24,
+    "end": 890.68,
+    "text": " So what's x2 minus x1?"
+  },
+  {
+    "start": 890.68,
+    "end": 891.9599999999999,
+    "text": " Well, it's b2."
+  },
+  {
+    "start": 891.9599999999999,
+    "end": 895.4399999999999,
+    "text": " So what is x2?"
+  },
+  {
+    "start": 895.44,
+    "end": 899.7600000000001,
+    "text": " b1 plus b2, right?"
+  },
+  {
+    "start": 899.7600000000001,
+    "end": 902.6800000000001,
+    "text": " And what's x3?"
+  },
+  {
+    "start": 902.6800000000001,
+    "end": 905.8800000000001,
+    "text": " What do we need there for x3?"
+  },
+  {
+    "start": 905.8800000000001,
+    "end": 908.5200000000001,
+    "text": " So I'm looking at the third equation."
+  },
+  {
+    "start": 908.5200000000001,
+    "end": 911.08,
+    "text": " That'll determine x3."
+  },
+  {
+    "start": 911.08,
+    "end": 914.4000000000001,
+    "text": " When I see it this way, I see those ones and I see it"
+  },
+  {
+    "start": 914.4000000000001,
+    "end": 916.2,
+    "text": " multiplying x3."
+  },
+  {
+    "start": 916.2,
+    "end": 920.84,
+    "text": " And what do I get?"
+  },
+  {
+    "start": 920.84,
+    "end": 925.0,
+    "text": " Yeah, so x3 minus this guy is b3."
+  },
+  {
+    "start": 925.04,
+    "end": 927.84,
+    "text": " So I have to add in another b3, right?"
+  },
+  {
+    "start": 927.84,
+    "end": 931.6,
+    "text": " I'm doing sort of substitution down as I go."
+  },
+  {
+    "start": 931.6,
+    "end": 938.32,
+    "text": " Once I learned that x1 was b1, I used it there to find x2."
+  },
+  {
+    "start": 938.32,
+    "end": 940.76,
+    "text": " And now I'll use x2 to find x3."
+  },
+  {
+    "start": 940.76,
+    "end": 945.44,
+    "text": " And what do I get again?"
+  },
+  {
+    "start": 945.44,
+    "end": 948.56,
+    "text": " x3 is, I put the x2 over there."
+  },
+  {
+    "start": 948.56,
+    "end": 953.32,
+    "text": " I think it's, you've got it, b1 plus b2 plus b3."
+  },
+  {
+    "start": 953.32,
+    "end": 959.7600000000001,
+    "text": " OK, so that's a solution."
+  },
+  {
+    "start": 959.7600000000001,
+    "end": 962.5600000000001,
+    "text": " Not difficult because the matrix was triangular."
+  },
+  {
+    "start": 962.5600000000001,
+    "end": 966.72,
+    "text": " But let's think about that solution."
+  },
+  {
+    "start": 966.72,
+    "end": 972.5200000000001,
+    "text": " That solution is a matrix times b."
+  },
+  {
+    "start": 972.5200000000001,
+    "end": 975.0400000000001,
+    "text": " When you look at that, when you look at that, so this is"
+  },
+  {
+    "start": 975.0400000000001,
+    "end": 979.72,
+    "text": " like a good early step in linear algebra."
+  },
+  {
+    "start": 979.76,
+    "end": 985.6800000000001,
+    "text": " When I look at that, I see a matrix multiplying b."
+  },
+  {
+    "start": 985.6800000000001,
+    "end": 988.72,
+    "text": " I mean, take that step up to seeing a matrix."
+  },
+  {
+    "start": 988.72,
+    "end": 990.5600000000001,
+    "text": " And you can just read it off."
+  },
+  {
+    "start": 990.5600000000001,
+    "end": 993.88,
+    "text": " So let me say, what's the matrix there?"
+  },
+  {
+    "start": 993.88,
+    "end": 996.88,
+    "text": " That's multiplying b to give that answer."
+  },
+  {
+    "start": 1001.6,
+    "end": 1006.48,
+    "text": " Remember, the columns of this matrix, well, I don't know"
+  },
+  {
+    "start": 1006.48,
+    "end": 1008.0400000000001,
+    "text": " how you want to read it off."
+  },
+  {
+    "start": 1008.04,
+    "end": 1012.9599999999999,
+    "text": " But one way is to think, the columns of that matrix are"
+  },
+  {
+    "start": 1012.9599999999999,
+    "end": 1017.3199999999999,
+    "text": " multiplying b1, b2, and b3 to give this."
+  },
+  {
+    "start": 1017.3199999999999,
+    "end": 1021.64,
+    "text": " So what's the first column of the matrix?"
+  },
+  {
+    "start": 1021.64,
+    "end": 1026.24,
+    "text": " It's whatever, I'm reading off the coefficients really of b1"
+  },
+  {
+    "start": 1026.24,
+    "end": 1029.1599999999999,
+    "text": " here, 1, 1, 1."
+  },
+  {
+    "start": 1029.1599999999999,
+    "end": 1032.32,
+    "text": " And what's the second column of the matrix?"
+  },
+  {
+    "start": 1032.32,
+    "end": 1033.24,
+    "text": " 0, 1, 1."
+  },
+  {
+    "start": 1033.24,
+    "end": 1035.8799999999999,
+    "text": " Good, 0, b2 is 1, 1."
+  },
+  {
+    "start": 1036.68,
+    "end": 1039.8400000000001,
+    "text": " And the third is 0, 0, 1."
+  },
+  {
+    "start": 1039.8400000000001,
+    "end": 1043.24,
+    "text": " Good."
+  },
+  {
+    "start": 1043.24,
+    "end": 1047.0800000000002,
+    "text": " Now, so lots of things to comment here."
+  },
+  {
+    "start": 1047.0800000000002,
+    "end": 1050.72,
+    "text": " This is, let me write it up again here, this is x."
+  },
+  {
+    "start": 1050.72,
+    "end": 1054.3600000000001,
+    "text": " That was the answer."
+  },
+  {
+    "start": 1054.3600000000001,
+    "end": 1058.64,
+    "text": " It's a matrix times b."
+  },
+  {
+    "start": 1058.64,
+    "end": 1062.2800000000002,
+    "text": " And what's the name of that matrix?"
+  },
+  {
+    "start": 1062.2800000000002,
+    "end": 1064.48,
+    "text": " It's the inverse matrix."
+  },
+  {
+    "start": 1064.52,
+    "end": 1069.04,
+    "text": " If ax gives b, the inverse matrix does it the other way"
+  },
+  {
+    "start": 1069.04,
+    "end": 1070.96,
+    "text": " around, x is a inverse b."
+  },
+  {
+    "start": 1070.96,
+    "end": 1073.24,
+    "text": " Let me just put that over here."
+  },
+  {
+    "start": 1073.24,
+    "end": 1079.6,
+    "text": " If ax is b, then x should be a inverse b."
+  },
+  {
+    "start": 1079.6,
+    "end": 1084.1200000000001,
+    "text": " Now, you could, so we had inverse, I wrote down inverse"
+  },
+  {
+    "start": 1084.1200000000001,
+    "end": 1088.56,
+    "text": " this morning, but without saying the point."
+  },
+  {
+    "start": 1088.56,
+    "end": 1090.2,
+    "text": " So you see how that comes?"
+  },
+  {
+    "start": 1090.2,
+    "end": 1093.04,
+    "text": " I mean, if I want to go formally, I multiply both sides"
+  },
+  {
+    "start": 1093.04,
+    "end": 1095.12,
+    "text": " by a inverse."
+  },
+  {
+    "start": 1095.12,
+    "end": 1099.36,
+    "text": " If there is an a inverse, that's a critical thing,"
+  },
+  {
+    "start": 1099.36,
+    "end": 1100.28,
+    "text": " as we saw."
+  },
+  {
+    "start": 1100.28,
+    "end": 1101.76,
+    "text": " Is the matrix invertible?"
+  },
+  {
+    "start": 1101.76,
+    "end": 1104.3999999999999,
+    "text": " The answer here is yes, there is an inverse."
+  },
+  {
+    "start": 1104.3999999999999,
+    "end": 1106.12,
+    "text": " And what does that really mean?"
+  },
+  {
+    "start": 1106.12,
+    "end": 1112.12,
+    "text": " The inverse is the thing that takes us from b back to x."
+  },
+  {
+    "start": 1112.12,
+    "end": 1116.36,
+    "text": " Think of a as kind of a, multiplying by a is kind of a"
+  },
+  {
+    "start": 1116.36,
+    "end": 1120.96,
+    "text": " mapping, mathematicians use the word, or transform."
+  },
+  {
+    "start": 1120.96,
+    "end": 1122.68,
+    "text": " Transform would be good."
+  },
+  {
+    "start": 1122.68,
+    "end": 1125.88,
+    "text": " Transform from x to b."
+  },
+  {
+    "start": 1125.88,
+    "end": 1129.08,
+    "text": " And this is the inverse transform."
+  },
+  {
+    "start": 1129.08,
+    "end": 1133.24,
+    "text": " So it doesn't happen to be the discrete Fourier transform,"
+  },
+  {
+    "start": 1133.24,
+    "end": 1134.68,
+    "text": " or a wavelet transform."
+  },
+  {
+    "start": 1134.68,
+    "end": 1137.8400000000001,
+    "text": " It's a, well actually, we could give it a name."
+  },
+  {
+    "start": 1137.8400000000001,
+    "end": 1140.76,
+    "text": " This is kind of a difference transform, right?"
+  },
+  {
+    "start": 1140.76,
+    "end": 1143.6000000000001,
+    "text": " That's what a did, took differences."
+  },
+  {
+    "start": 1143.6000000000001,
+    "end": 1146.8,
+    "text": " So what does a inverse do?"
+  },
+  {
+    "start": 1146.8,
+    "end": 1149.08,
+    "text": " It takes sums."
+  },
+  {
+    "start": 1149.08,
+    "end": 1150.04,
+    "text": " It takes sums."
+  },
+  {
+    "start": 1150.04,
+    "end": 1155.56,
+    "text": " That's why you see 1, 1 and 1, 1, 1 along the rows."
+  },
+  {
+    "start": 1155.56,
+    "end": 1159.28,
+    "text": " Because it's just adding, and you see it here in fully"
+  },
+  {
+    "start": 1159.28,
+    "end": 1161.76,
+    "text": " displayed, it's a sum matrix."
+  },
+  {
+    "start": 1161.76,
+    "end": 1165.1599999999999,
+    "text": " I might as well call it s for sum."
+  },
+  {
+    "start": 1165.1599999999999,
+    "end": 1168.84,
+    "text": " So that matrix, that sum matrix, is the inverse of the"
+  },
+  {
+    "start": 1168.84,
+    "end": 1170.6399999999999,
+    "text": " difference matrix."
+  },
+  {
+    "start": 1170.6399999999999,
+    "end": 1173.76,
+    "text": " Yeah, OK."
+  },
+  {
+    "start": 1173.8,
+    "end": 1180.56,
+    "text": " And maybe I just, since I hit on calculus earlier, you could"
+  },
+  {
+    "start": 1180.56,
+    "end": 1185.44,
+    "text": " say the calculus is all about one thing and its inverse."
+  },
+  {
+    "start": 1185.44,
+    "end": 1192.04,
+    "text": " The derivative is a and what's s in calculus?"
+  },
+  {
+    "start": 1192.04,
+    "end": 1193.52,
+    "text": " The integral."
+  },
+  {
+    "start": 1193.52,
+    "end": 1197.92,
+    "text": " The whole subject is about one operation."
+  },
+  {
+    "start": 1197.92,
+    "end": 1200.4,
+    "text": " Now admittedly, it's not a matrix."
+  },
+  {
+    "start": 1200.44,
+    "end": 1204.8400000000001,
+    "text": " It operates on functions instead of just little vectors."
+  },
+  {
+    "start": 1204.8400000000001,
+    "end": 1207.0,
+    "text": " But that's the main point."
+  },
+  {
+    "start": 1207.0,
+    "end": 1210.4,
+    "text": " The fundamental theorem of calculus is telling us that"
+  },
+  {
+    "start": 1210.4,
+    "end": 1213.24,
+    "text": " integrations, the inverse of differentiation."
+  },
+  {
+    "start": 1213.24,
+    "end": 1214.44,
+    "text": " OK."
+  },
+  {
+    "start": 1214.44,
+    "end": 1219.24,
+    "text": " So this is good, and I could put in, if I put in b equal"
+  },
+  {
+    "start": 1219.24,
+    "end": 1224.68,
+    "text": " 1, 3, 5, for example, just to put in some numbers."
+  },
+  {
+    "start": 1224.68,
+    "end": 1229.2800000000002,
+    "text": " If I put in b equal 1, 3, 5, what would the x that comes"
+  },
+  {
+    "start": 1229.28,
+    "end": 1231.36,
+    "text": " out be?"
+  },
+  {
+    "start": 1231.36,
+    "end": 1233.2,
+    "text": " 1, 4, 9."
+  },
+  {
+    "start": 1233.2,
+    "end": 1233.8799999999999,
+    "text": " Right?"
+  },
+  {
+    "start": 1233.8799999999999,
+    "end": 1235.6399999999999,
+    "text": " Because it takes us back."
+  },
+  {
+    "start": 1235.6399999999999,
+    "end": 1239.56,
+    "text": " Here previously we took differences of 1, 4, 9, got 1,"
+  },
+  {
+    "start": 1239.56,
+    "end": 1240.72,
+    "text": " 3, 5."
+  },
+  {
+    "start": 1240.72,
+    "end": 1244.76,
+    "text": " Now if we take sums of 1, 3, 5, we get 1, 4, 9."
+  },
+  {
+    "start": 1244.76,
+    "end": 1245.8799999999999,
+    "text": " OK."
+  },
+  {
+    "start": 1245.8799999999999,
+    "end": 1251.28,
+    "text": " Now we have a system of linear equations."
+  },
+  {
+    "start": 1251.28,
+    "end": 1256.04,
+    "text": " Now I want to step back and see what was good about this"
+  },
+  {
+    "start": 1256.04,
+    "end": 1256.56,
+    "text": " matrix."
+  },
+  {
+    "start": 1256.56,
+    "end": 1259.24,
+    "text": " Somehow it has an inverse."
+  },
+  {
+    "start": 1259.52,
+    "end": 1263.08,
+    "text": " A x equal b has a solution, in other words."
+  },
+  {
+    "start": 1263.08,
+    "end": 1265.48,
+    "text": " And it has only one solution."
+  },
+  {
+    "start": 1265.48,
+    "end": 1267.16,
+    "text": " Because we worked it out."
+  },
+  {
+    "start": 1267.16,
+    "end": 1268.1200000000001,
+    "text": " We had no choice."
+  },
+  {
+    "start": 1268.1200000000001,
+    "end": 1269.76,
+    "text": " That was it."
+  },
+  {
+    "start": 1269.76,
+    "end": 1272.28,
+    "text": " So there's just one solution."
+  },
+  {
+    "start": 1272.28,
+    "end": 1274.84,
+    "text": " There's always one and only one solution."
+  },
+  {
+    "start": 1274.84,
+    "end": 1279.32,
+    "text": " It's like a perfect transform from the x's to the b's and"
+  },
+  {
+    "start": 1279.32,
+    "end": 1280.4,
+    "text": " back again."
+  },
+  {
+    "start": 1280.4,
+    "end": 1281.52,
+    "text": " Yeah."
+  },
+  {
+    "start": 1281.52,
+    "end": 1284.16,
+    "text": " So that's what an invertible matrix is."
+  },
+  {
+    "start": 1284.2,
+    "end": 1289.8000000000002,
+    "text": " It's a perfect map from one set of x's to the b's and you"
+  },
+  {
+    "start": 1289.8000000000002,
+    "end": 1291.0800000000002,
+    "text": " can get back again."
+  },
+  {
+    "start": 1291.0800000000002,
+    "end": 1292.28,
+    "text": " OK."
+  },
+  {
+    "start": 1292.28,
+    "end": 1293.0800000000002,
+    "text": " Right."
+  },
+  {
+    "start": 1293.0800000000002,
+    "end": 1293.5600000000002,
+    "text": " Yeah."
+  },
+  {
+    "start": 1293.5600000000002,
+    "end": 1296.16,
+    "text": " Questions always."
+  },
+  {
+    "start": 1296.16,
+    "end": 1299.88,
+    "text": " Now I think I'm ready for another example."
+  },
+  {
+    "start": 1299.88,
+    "end": 1301.16,
+    "text": " There are only two examples."
+  },
+  {
+    "start": 1301.16,
+    "end": 1307.5600000000002,
+    "text": " And actually these two examples are on the 1806 web page."
+  },
+  {
+    "start": 1307.5600000000002,
+    "end": 1312.1200000000001,
+    "text": " If you want to, some people asked after class, OK, how to"
+  },
+  {
+    "start": 1312.12,
+    "end": 1315.6799999999998,
+    "text": " get sort of a review of linear algebra."
+  },
+  {
+    "start": 1315.6799999999998,
+    "end": 1325.2399999999998,
+    "text": " Well, the 1806 website would be definitely a possibility."
+  },
+  {
+    "start": 1325.2399999999998,
+    "end": 1330.1599999999999,
+    "text": " So that's, well, I'll put down the open courseware website,"
+  },
+  {
+    "start": 1330.1599999999999,
+    "end": 1332.08,
+    "text": " M-M-I-T-E-D-U."
+  },
+  {
+    "start": 1332.08,
+    "end": 1339.08,
+    "text": " And then you would look at the linear algebra course or the"
+  },
+  {
+    "start": 1339.08,
+    "end": 1340.6399999999999,
+    "text": " math one."
+  },
+  {
+    "start": 1340.64,
+    "end": 1341.0400000000002,
+    "text": " What is it?"
+  },
+  {
+    "start": 1341.0400000000002,
+    "end": 1346.16,
+    "text": " Web.math.edu, is that it?"
+  },
+  {
+    "start": 1346.16,
+    "end": 1350.4,
+    "text": " No, maybe that's an MIT."
+  },
+  {
+    "start": 1350.4,
+    "end": 1355.0400000000002,
+    "text": " So is it math?"
+  },
+  {
+    "start": 1355.0400000000002,
+    "end": 1358.0800000000002,
+    "text": " I can't live without edu at the end, right?"
+  },
+  {
+    "start": 1358.0800000000002,
+    "end": 1359.2,
+    "text": " Yeah."
+  },
+  {
+    "start": 1359.2,
+    "end": 1361.72,
+    "text": " Is it just edu?"
+  },
+  {
+    "start": 1361.72,
+    "end": 1363.64,
+    "text": " Whatever."
+  },
+  {
+    "start": 1363.64,
+    "end": 1367.24,
+    "text": " And then that."
+  },
+  {
+    "start": 1367.24,
+    "end": 1368.5600000000002,
+    "text": " Yeah."
+  },
+  {
+    "start": 1368.5600000000002,
+    "end": 1369.68,
+    "text": " OK."
+  },
+  {
+    "start": 1369.68,
+    "end": 1374.04,
+    "text": " So that website has, well, all the old exams you could ever"
+  },
+  {
+    "start": 1374.04,
+    "end": 1375.72,
+    "text": " want, if you wanted any."
+  },
+  {
+    "start": 1375.72,
+    "end": 1383.0,
+    "text": " And it has this example."
+  },
+  {
+    "start": 1383.0,
+    "end": 1386.76,
+    "text": " You click on starting with two matrices."
+  },
+  {
+    "start": 1386.76,
+    "end": 1389.04,
+    "text": " And this is one of them."
+  },
+  {
+    "start": 1389.04,
+    "end": 1391.24,
+    "text": " OK, ready for the other."
+  },
+  {
+    "start": 1391.24,
+    "end": 1394.4,
+    "text": " So here comes the second matrix, second example that you"
+  },
+  {
+    "start": 1394.4,
+    "end": 1396.0,
+    "text": " can contrast."
+  },
+  {
+    "start": 1396.56,
+    "end": 1400.36,
+    "text": " Second example is going to have the same u."
+  },
+  {
+    "start": 1400.36,
+    "end": 1405.56,
+    "text": " Let me put our matrix, I'm going to call it, what am I"
+  },
+  {
+    "start": 1405.56,
+    "end": 1406.12,
+    "text": " going to call it?"
+  },
+  {
+    "start": 1406.12,
+    "end": 1409.52,
+    "text": " Maybe c."
+  },
+  {
+    "start": 1409.52,
+    "end": 1416.68,
+    "text": " OK, so it'll have the same u and the same v."
+  },
+  {
+    "start": 1416.68,
+    "end": 1419.6,
+    "text": " But I'm going to change w."
+  },
+  {
+    "start": 1419.6,
+    "end": 1421.44,
+    "text": " And that's going to make all the difference."
+  },
+  {
+    "start": 1421.44,
+    "end": 1427.2,
+    "text": " My w, I'm going to make that into w."
+  },
+  {
+    "start": 1427.2,
+    "end": 1428.68,
+    "text": " OK."
+  },
+  {
+    "start": 1428.68,
+    "end": 1432.76,
+    "text": " So now I have three vectors."
+  },
+  {
+    "start": 1432.76,
+    "end": 1435.3200000000002,
+    "text": " I can take their combinations."
+  },
+  {
+    "start": 1435.3200000000002,
+    "end": 1439.0,
+    "text": " I can look at the equations cx equal b."
+  },
+  {
+    "start": 1439.0,
+    "end": 1445.3200000000002,
+    "text": " I can try to solve it, all the normal stuff, with those"
+  },
+  {
+    "start": 1445.3200000000002,
+    "end": 1447.64,
+    "text": " combinations of those three vectors."
+  },
+  {
+    "start": 1447.64,
+    "end": 1448.72,
+    "text": " OK."
+  },
+  {
+    "start": 1448.72,
+    "end": 1452.24,
+    "text": " So, and we'll see a difference."
+  },
+  {
+    "start": 1452.24,
+    "end": 1457.8,
+    "text": " OK, so now what happens if I do, can I even do just a"
+  },
+  {
+    "start": 1457.8,
+    "end": 1464.2,
+    "text": " little erase to deal with c now?"
+  },
+  {
+    "start": 1464.2,
+    "end": 1466.0,
+    "text": " How does c differ?"
+  },
+  {
+    "start": 1466.0,
+    "end": 1473.0,
+    "text": " If I change this multiplication from a to c to this new"
+  },
+  {
+    "start": 1473.0,
+    "end": 1478.72,
+    "text": " matrix, then what we've done is to put in a minus one."
+  },
+  {
+    "start": 1478.72,
+    "end": 1481.36,
+    "text": " That's the only change we made."
+  },
+  {
+    "start": 1481.36,
+    "end": 1483.16,
+    "text": " And what's the change in cx?"
+  },
+  {
+    "start": 1488.84,
+    "end": 1492.04,
+    "text": " This, I've changed the first row, so I'm going to change the"
+  },
+  {
+    "start": 1492.04,
+    "end": 1496.24,
+    "text": " first row of the answer to what?"
+  },
+  {
+    "start": 1496.24,
+    "end": 1500.4,
+    "text": " x1 minus x3."
+  },
+  {
+    "start": 1500.4,
+    "end": 1503.24,
+    "text": " OK."
+  },
+  {
+    "start": 1503.24,
+    "end": 1506.6000000000001,
+    "text": " So you could say again, as I said this morning, you've sort"
+  },
+  {
+    "start": 1506.6000000000001,
+    "end": 1509.1200000000001,
+    "text": " of changed the boundary condition maybe."
+  },
+  {
+    "start": 1509.1200000000001,
+    "end": 1514.52,
+    "text": " You've made this difference equation somehow circular."
+  },
+  {
+    "start": 1514.52,
+    "end": 1517.88,
+    "text": " That's why I'm using that letter c."
+  },
+  {
+    "start": 1517.88,
+    "end": 1523.3600000000001,
+    "text": " Yeah."
+  },
+  {
+    "start": 1523.3600000000001,
+    "end": 1525.6000000000001,
+    "text": " Is it different?"
+  },
+  {
+    "start": 1525.6000000000001,
+    "end": 1526.92,
+    "text": " Oh, yes."
+  },
+  {
+    "start": 1526.92,
+    "end": 1529.24,
+    "text": " I didn't get it right here."
+  },
+  {
+    "start": 1529.24,
+    "end": 1529.76,
+    "text": " Thank you."
+  },
+  {
+    "start": 1529.76,
+    "end": 1533.84,
+    "text": " Thank you very much."
+  },
+  {
+    "start": 1533.84,
+    "end": 1535.36,
+    "text": " Absolutely."
+  },
+  {
+    "start": 1535.36,
+    "end": 1537.44,
+    "text": " I mean that would have been another matrix that we could"
+  },
+  {
+    "start": 1537.44,
+    "end": 1539.88,
+    "text": " think about, but it wouldn't have made the point I wanted."
+  },
+  {
+    "start": 1539.88,
+    "end": 1541.16,
+    "text": " So, thanks."
+  },
+  {
+    "start": 1541.16,
+    "end": 1542.56,
+    "text": " That's absolutely great."
+  },
+  {
+    "start": 1542.56,
+    "end": 1547.16,
+    "text": " So let me, yeah, so now it's correct here, and this is"
+  },
+  {
+    "start": 1547.16,
+    "end": 1553.96,
+    "text": " correct, and I can look at equations, but can I solve them?"
+  },
+  {
+    "start": 1553.96,
+    "end": 1556.32,
+    "text": " Can I solve them?"
+  },
+  {
+    "start": 1556.32,
+    "end": 1558.52,
+    "text": " And you're guessing already."
+  },
+  {
+    "start": 1558.52,
+    "end": 1560.6,
+    "text": " No, we can't do it."
+  },
+  {
+    "start": 1560.6,
+    "end": 1567.96,
+    "text": " Because, so now let me maybe go to a board work below,"
+  },
+  {
+    "start": 1567.96,
+    "end": 1571.08,
+    "text": " because I hate to erase that, but so great."
+  },
+  {
+    "start": 1571.08,
+    "end": 1575.52,
+    "text": " That being able to solve it in a nice, clear solution and some"
+  },
+  {
+    "start": 1575.52,
+    "end": 1577.04,
+    "text": " matrix coming in."
+  },
+  {
+    "start": 1577.04,
+    "end": 1579.08,
+    "text": " But now how about this one?"
+  },
+  {
+    "start": 1579.08,
+    "end": 1581.0,
+    "text": " OK."
+  },
+  {
+    "start": 1581.0,
+    "end": 1587.48,
+    "text": " So, one comment I should have made here."
+  },
+  {
+    "start": 1587.52,
+    "end": 1590.68,
+    "text": " Suppose the b's were zero."
+  },
+  {
+    "start": 1590.68,
+    "end": 1593.96,
+    "text": " Suppose I was looking at originally at a times x"
+  },
+  {
+    "start": 1593.96,
+    "end": 1596.28,
+    "text": " equal all zeroes."
+  },
+  {
+    "start": 1596.28,
+    "end": 1598.32,
+    "text": " What's x?"
+  },
+  {
+    "start": 1598.32,
+    "end": 1603.72,
+    "text": " If all the b's were zero, and this was the one that dealt"
+  },
+  {
+    "start": 1603.72,
+    "end": 1607.88,
+    "text": " with the matrix a, if all the b's are zero, then the x's"
+  },
+  {
+    "start": 1607.88,
+    "end": 1610.28,
+    "text": " are zero."
+  },
+  {
+    "start": 1610.28,
+    "end": 1615.64,
+    "text": " The only way to get zero right-hand sides, b's, was to"
+  },
+  {
+    "start": 1615.64,
+    "end": 1618.92,
+    "text": " have zero x's."
+  },
+  {
+    "start": 1618.92,
+    "end": 1624.44,
+    "text": " It was, it didn't, if you wanted to get zero out, you had to"
+  },
+  {
+    "start": 1624.44,
+    "end": 1626.1200000000001,
+    "text": " put zero in."
+  },
+  {
+    "start": 1626.1200000000001,
+    "end": 1629.2,
+    "text": " Well, you can always put zero in, get zero out, but here you"
+  },
+  {
+    "start": 1629.2,
+    "end": 1632.3200000000002,
+    "text": " can put other vectors in and get zero out."
+  },
+  {
+    "start": 1632.3200000000002,
+    "end": 1637.76,
+    "text": " So I want to say there's a solution with zeroes out,"
+  },
+  {
+    "start": 1637.76,
+    "end": 1642.24,
+    "text": " coming out of c, but some non-zeroes are going in."
+  },
+  {
+    "start": 1642.24,
+    "end": 1646.84,
+    "text": " And of course, we know from this morning that that's a"
+  },
+  {
+    "start": 1646.84,
+    "end": 1649.92,
+    "text": " signal, that it's a different sort of matrix."
+  },
+  {
+    "start": 1649.92,
+    "end": 1651.16,
+    "text": " There won't be an inverse."
+  },
+  {
+    "start": 1651.16,
+    "end": 1653.08,
+    "text": " We've got questions."
+  },
+  {
+    "start": 1653.08,
+    "end": 1657.32,
+    "text": " Now, what, so what is, what are the, tell me all the"
+  },
+  {
+    "start": 1657.32,
+    "end": 1659.28,
+    "text": " solutions."
+  },
+  {
+    "start": 1659.28,
+    "end": 1660.56,
+    "text": " All the solutions."
+  },
+  {
+    "start": 1660.56,
+    "end": 1663.44,
+    "text": " So actually not just one, well you could tell me one."
+  },
+  {
+    "start": 1663.44,
+    "end": 1665.36,
+    "text": " Tell me one first."
+  },
+  {
+    "start": 1665.36,
+    "end": 1666.4,
+    "text": " One, one, one."
+  },
+  {
+    "start": 1666.4,
+    "end": 1667.28,
+    "text": " OK."
+  },
+  {
+    "start": 1667.28,
+    "end": 1670.88,
+    "text": " Now tell me all."
+  },
+  {
+    "start": 1670.92,
+    "end": 1672.5200000000002,
+    "text": " C, C, C, yeah."
+  },
+  {
+    "start": 1672.5200000000002,
+    "end": 1675.2800000000002,
+    "text": " That whole line through one, one, one."
+  },
+  {
+    "start": 1675.2800000000002,
+    "end": 1678.1200000000001,
+    "text": " And that would be normal."
+  },
+  {
+    "start": 1678.1200000000001,
+    "end": 1681.92,
+    "text": " So this is a line of solutions."
+  },
+  {
+    "start": 1681.92,
+    "end": 1683.16,
+    "text": " A line of solutions."
+  },
+  {
+    "start": 1683.16,
+    "end": 1686.92,
+    "text": " I think of one, one, one as in some solution space."
+  },
+  {
+    "start": 1686.92,
+    "end": 1690.6000000000001,
+    "text": " And then all multiples, that whole line."
+  },
+  {
+    "start": 1690.6000000000001,
+    "end": 1693.3200000000002,
+    "text": " Later I would say it's a subspace."
+  },
+  {
+    "start": 1693.3200000000002,
+    "end": 1698.6000000000001,
+    "text": " When I say what that word subspace means, it's just this"
+  },
+  {
+    "start": 1698.6399999999999,
+    "end": 1703.8,
+    "text": " linear algebra has done its job beyond just one, one, one."
+  },
+  {
+    "start": 1703.8,
+    "end": 1705.0,
+    "text": " OK."
+  },
+  {
+    "start": 1705.0,
+    "end": 1713.1999999999998,
+    "text": " So, and again it's, yeah, it's just, it's this fact of if we"
+  },
+  {
+    "start": 1713.1999999999998,
+    "end": 1719.9199999999998,
+    "text": " only know the differences, yeah, you can see different ways"
+  },
+  {
+    "start": 1719.9199999999998,
+    "end": 1722.04,
+    "text": " that this has got problems."
+  },
+  {
+    "start": 1722.04,
+    "end": 1723.9599999999998,
+    "text": " So that's c times x."
+  },
+  {
+    "start": 1724.0,
+    "end": 1729.28,
+    "text": " Now one way to see a problem is to say, oh, we can get the"
+  },
+  {
+    "start": 1729.28,
+    "end": 1732.04,
+    "text": " answer of all zeros by putting constants."
+  },
+  {
+    "start": 1732.04,
+    "end": 1736.28,
+    "text": " All that saying is, in words, the differences of a constant"
+  },
+  {
+    "start": 1736.28,
+    "end": 1738.72,
+    "text": " vector are all zero."
+  },
+  {
+    "start": 1738.72,
+    "end": 1740.6000000000001,
+    "text": " That's all that happened."
+  },
+  {
+    "start": 1740.6000000000001,
+    "end": 1745.0,
+    "text": " Another way to see a problem, if I had this system of"
+  },
+  {
+    "start": 1745.0,
+    "end": 1748.44,
+    "text": " equations, how would you see that there's a problem?"
+  },
+  {
+    "start": 1748.44,
+    "end": 1750.96,
+    "text": " And how would you see that there is sometimes an answer"
+  },
+  {
+    "start": 1750.96,
+    "end": 1753.28,
+    "text": " and even decide when?"
+  },
+  {
+    "start": 1753.28,
+    "end": 1757.36,
+    "text": " I don't know if you can take a quick look."
+  },
+  {
+    "start": 1757.36,
+    "end": 1760.96,
+    "text": " If I had three equations, x1 minus x3 is b1."
+  },
+  {
+    "start": 1760.96,
+    "end": 1762.24,
+    "text": " This equals b2."
+  },
+  {
+    "start": 1762.24,
+    "end": 1764.6399999999999,
+    "text": " This equals b3."
+  },
+  {
+    "start": 1764.6399999999999,
+    "end": 1769.32,
+    "text": " Why, yeah, do you see something that I can do to the"
+  },
+  {
+    "start": 1769.32,
+    "end": 1776.04,
+    "text": " left sides that's important somehow?"
+  },
+  {
+    "start": 1776.04,
+    "end": 1779.52,
+    "text": " Suppose I add those left-hand sides."
+  },
+  {
+    "start": 1779.52,
+    "end": 1780.8,
+    "text": " What do I get?"
+  },
+  {
+    "start": 1780.8,
+    "end": 1782.48,
+    "text": " So I'm allowed to do that, right?"
+  },
+  {
+    "start": 1782.48,
+    "end": 1785.48,
+    "text": " If I've got three equations, I'm allowed to add them."
+  },
+  {
+    "start": 1785.48,
+    "end": 1791.2,
+    "text": " And I would get zero, if I add, I get zero equals b, I have"
+  },
+  {
+    "start": 1791.2,
+    "end": 1795.64,
+    "text": " to add the right sides, of course, b1 plus b2 plus b3."
+  },
+  {
+    "start": 1795.64,
+    "end": 1800.4,
+    "text": " That's, I hesitate to say, a fourth equation, because it's"
+  },
+  {
+    "start": 1800.4,
+    "end": 1802.56,
+    "text": " not independent of those three."
+  },
+  {
+    "start": 1802.56,
+    "end": 1804.92,
+    "text": " But it's a consequence of those three."
+  },
+  {
+    "start": 1804.92,
+    "end": 1811.48,
+    "text": " So actually, this is telling me when I could get an answer"
+  },
+  {
+    "start": 1811.48,
+    "end": 1814.4,
+    "text": " and when I couldn't."
+  },
+  {
+    "start": 1814.4,
+    "end": 1817.32,
+    "text": " If I get zero on the left side, I have to have zero on the"
+  },
+  {
+    "start": 1817.32,
+    "end": 1819.6,
+    "text": " right side or I'm lost."
+  },
+  {
+    "start": 1819.6,
+    "end": 1826.88,
+    "text": " So I could actually solve this when b1 plus b2 plus b3 is"
+  },
+  {
+    "start": 1826.88,
+    "end": 1828.56,
+    "text": " zero."
+  },
+  {
+    "start": 1828.56,
+    "end": 1833.04,
+    "text": " That would be, so I've taken a step there."
+  },
+  {
+    "start": 1833.04,
+    "end": 1837.28,
+    "text": " I've said that, OK, we're in trouble often."
+  },
+  {
+    "start": 1837.28,
+    "end": 1841.44,
+    "text": " But in case the right side adds up to zero, then we're"
+  },
+  {
+    "start": 1841.44,
+    "end": 1842.28,
+    "text": " not."
+  },
+  {
+    "start": 1842.28,
+    "end": 1847.76,
+    "text": " And if you'll allow me to jump to a mechanical meaning of"
+  },
+  {
+    "start": 1847.76,
+    "end": 1854.4,
+    "text": " this, if these were springs or something, masses, and these"
+  },
+  {
+    "start": 1854.4,
+    "end": 1859.64,
+    "text": " were forces on them, so I'm solving for displacements of"
+  },
+  {
+    "start": 1859.64,
+    "end": 1864.0,
+    "text": " masses that we'll see very soon, and these are forces, what"
+  },
+  {
+    "start": 1864.0,
+    "end": 1867.96,
+    "text": " I'm saying is, what that equation is saying is, because"
+  },
+  {
+    "start": 1867.96,
+    "end": 1872.52,
+    "text": " they're sort of cyclical, it's somehow saying that if the"
+  },
+  {
+    "start": 1872.52,
+    "end": 1877.8400000000001,
+    "text": " forces add up to zero, if the resultant force is zero, then"
+  },
+  {
+    "start": 1877.8400000000001,
+    "end": 1878.56,
+    "text": " you're OK."
+  },
+  {
+    "start": 1878.56,
+    "end": 1883.72,
+    "text": " The springs and masses don't take off or start spinning or"
+  },
+  {
+    "start": 1883.72,
+    "end": 1885.72,
+    "text": " whatever."
+  },
+  {
+    "start": 1885.72,
+    "end": 1890.44,
+    "text": " So there's a physical meaning for that condition that it's"
+  },
+  {
+    "start": 1890.44,
+    "end": 1895.72,
+    "text": " OK provided if the b's add up to zero."
+  },
+  {
+    "start": 1895.72,
+    "end": 1902.08,
+    "text": " But of course, if the b's don't add up to zero, we're lost."
+  },
+  {
+    "start": 1902.08,
+    "end": 1909.0,
+    "text": " So cx equal b could be solved sometimes, but not always."
+  },
+  {
+    "start": 1909.0,
+    "end": 1913.52,
+    "text": " And so you see that we're seeing the difficulty with c is"
+  },
+  {
+    "start": 1913.52,
+    "end": 1915.52,
+    "text": " showing up several ways."
+  },
+  {
+    "start": 1915.52,
+    "end": 1920.32,
+    "text": " It's showing up in a c times a vector x giving zero."
+  },
+  {
+    "start": 1920.32,
+    "end": 1922.8,
+    "text": " That's bad news."
+  },
+  {
+    "start": 1922.8,
+    "end": 1925.44,
+    "text": " Because no c inverse can bring you back."
+  },
+  {
+    "start": 1926.16,
+    "end": 1927.68,
+    "text": " You can't come back from zero."
+  },
+  {
+    "start": 1927.68,
+    "end": 1931.3200000000002,
+    "text": " Once you've got to zero, c inverse could never bring you"
+  },
+  {
+    "start": 1931.3200000000002,
+    "end": 1934.04,
+    "text": " back to x."
+  },
+  {
+    "start": 1934.04,
+    "end": 1941.24,
+    "text": " a took x into b up there, and then a inverse brought back x."
+  },
+  {
+    "start": 1941.24,
+    "end": 1944.0800000000002,
+    "text": " But here, there's no way to bring back that x, because I"
+  },
+  {
+    "start": 1944.0800000000002,
+    "end": 1947.44,
+    "text": " can't multiply zero by anything and get back to x."
+  },
+  {
+    "start": 1947.44,
+    "end": 1950.24,
+    "text": " So that's why I see it's got troubles here."
+  },
+  {
+    "start": 1950.24,
+    "end": 1953.0800000000002,
+    "text": " Here I see it's got troubles, because if I add the left"
+  },
+  {
+    "start": 1953.08,
+    "end": 1955.24,
+    "text": " sides, I get zero."
+  },
+  {
+    "start": 1955.24,
+    "end": 1957.56,
+    "text": " And therefore, the right sides must add to zero."
+  },
+  {
+    "start": 1957.56,
+    "end": 1961.28,
+    "text": " So you've got trouble several ways."
+  },
+  {
+    "start": 1961.28,
+    "end": 1962.6799999999998,
+    "text": " Let's see another way."
+  },
+  {
+    "start": 1962.6799999999998,
+    "end": 1967.6399999999999,
+    "text": " Let's see geometrically why we're in trouble."
+  },
+  {
+    "start": 1967.6399999999999,
+    "end": 1973.96,
+    "text": " So let me draw a picture to go with that picture."
+  },
+  {
+    "start": 1973.96,
+    "end": 1977.04,
+    "text": " So there's three dimensional space."
+  },
+  {
+    "start": 1977.04,
+    "end": 1979.08,
+    "text": " I didn't change u."
+  },
+  {
+    "start": 1979.08,
+    "end": 1984.96,
+    "text": " I didn't change v, but I changed w to minus one."
+  },
+  {
+    "start": 1984.96,
+    "end": 1985.8799999999999,
+    "text": " What does that mean?"
+  },
+  {
+    "start": 1985.8799999999999,
+    "end": 1989.3999999999999,
+    "text": " Minus one sort of going this way, maybe?"
+  },
+  {
+    "start": 1989.3999999999999,
+    "end": 1991.4399999999998,
+    "text": " Zero, one is the z direction."
+  },
+  {
+    "start": 1991.4399999999998,
+    "end": 1993.72,
+    "text": " Somehow I changed it to there."
+  },
+  {
+    "start": 1993.72,
+    "end": 1997.6399999999999,
+    "text": " So this is w star, maybe, a different w."
+  },
+  {
+    "start": 1997.6399999999999,
+    "end": 2003.4399999999998,
+    "text": " This is the w that gave me problems."
+  },
+  {
+    "start": 2003.4399999999998,
+    "end": 2006.32,
+    "text": " What's the problem?"
+  },
+  {
+    "start": 2006.36,
+    "end": 2011.04,
+    "text": " How does the picture show the problem?"
+  },
+  {
+    "start": 2011.04,
+    "end": 2013.0,
+    "text": " I'm not sure."
+  },
+  {
+    "start": 2013.0,
+    "end": 2017.2,
+    "text": " I don't, might, might."
+  },
+  {
+    "start": 2017.2,
+    "end": 2021.04,
+    "text": " What's the problem with those three vectors, those three"
+  },
+  {
+    "start": 2021.04,
+    "end": 2022.2,
+    "text": " columns of c?"
+  },
+  {
+    "start": 2025.0,
+    "end": 2027.36,
+    "text": " And why are they, yeah."
+  },
+  {
+    "start": 2027.36,
+    "end": 2029.56,
+    "text": " They're in the same plane."
+  },
+  {
+    "start": 2029.56,
+    "end": 2031.32,
+    "text": " They're in the same plane."
+  },
+  {
+    "start": 2031.32,
+    "end": 2033.56,
+    "text": " W star gave us nothing new."
+  },
+  {
+    "start": 2033.56,
+    "end": 2038.04,
+    "text": " We had the combinations of u and v made a plane, and w star"
+  },
+  {
+    "start": 2038.04,
+    "end": 2040.28,
+    "text": " happened to fall in that plane."
+  },
+  {
+    "start": 2040.28,
+    "end": 2046.6799999999998,
+    "text": " So this is a plane here, somehow, and goes through the"
+  },
+  {
+    "start": 2046.6799999999998,
+    "end": 2049.32,
+    "text": " origin, of course."
+  },
+  {
+    "start": 2049.32,
+    "end": 2050.2799999999997,
+    "text": " What is that plane?"
+  },
+  {
+    "start": 2050.2799999999997,
+    "end": 2061.4,
+    "text": " This is all combinations of u, v, and the third guy, w star."
+  },
+  {
+    "start": 2061.4,
+    "end": 2062.04,
+    "text": " Right."
+  },
+  {
+    "start": 2062.04,
+    "end": 2065.16,
+    "text": " Is a plane, and I drew a triangle, but of course I"
+  },
+  {
+    "start": 2065.16,
+    "end": 2068.16,
+    "text": " should draw the plane goes out to infinity."
+  },
+  {
+    "start": 2068.16,
+    "end": 2072.48,
+    "text": " But the point is there are lots of b's, lots of right"
+  },
+  {
+    "start": 2072.48,
+    "end": 2073.92,
+    "text": " hand sides, not on that plane."
+  },
+  {
+    "start": 2076.6,
+    "end": 2077.16,
+    "text": " OK."
+  },
+  {
+    "start": 2077.16,
+    "end": 2082.2,
+    "text": " Now what would, if I drew all combinations of u, v, w, the"
+  },
+  {
+    "start": 2082.2,
+    "end": 2085.2,
+    "text": " original w, what have I got?"
+  },
+  {
+    "start": 2085.2,
+    "end": 2088.7599999999998,
+    "text": " So let me bring that picture back for a moment."
+  },
+  {
+    "start": 2088.8,
+    "end": 2092.76,
+    "text": " If I took all combinations of those, does w lie in the plane"
+  },
+  {
+    "start": 2092.76,
+    "end": 2095.6000000000004,
+    "text": " of u and v?"
+  },
+  {
+    "start": 2095.6000000000004,
+    "end": 2096.2000000000003,
+    "text": " No."
+  },
+  {
+    "start": 2096.2000000000003,
+    "end": 2096.8,
+    "text": " Right."
+  },
+  {
+    "start": 2096.8,
+    "end": 2098.8,
+    "text": " I would call it independent."
+  },
+  {
+    "start": 2098.8,
+    "end": 2100.92,
+    "text": " These three vectors are independent."
+  },
+  {
+    "start": 2100.92,
+    "end": 2105.4,
+    "text": " These three, u, v, and w star, I would call dependent."
+  },
+  {
+    "start": 2105.4,
+    "end": 2109.7200000000003,
+    "text": " Because the third guy was a combination of the first two."
+  },
+  {
+    "start": 2109.7200000000003,
+    "end": 2110.1600000000003,
+    "text": " OK."
+  },
+  {
+    "start": 2110.1600000000003,
+    "end": 2113.44,
+    "text": " So yeah, tell me what do I get now?"
+  },
+  {
+    "start": 2113.44,
+    "end": 2116.4,
+    "text": " So now you're really up to 3d."
+  },
+  {
+    "start": 2116.4,
+    "end": 2120.56,
+    "text": " What do you get if you take all combinations of u, v, and w?"
+  },
+  {
+    "start": 2123.7200000000003,
+    "end": 2125.56,
+    "text": " Say it again."
+  },
+  {
+    "start": 2125.56,
+    "end": 2128.2000000000003,
+    "text": " The whole space."
+  },
+  {
+    "start": 2128.2000000000003,
+    "end": 2131.76,
+    "text": " All combinations, if taking all combinations of u, v, w,"
+  },
+  {
+    "start": 2131.76,
+    "end": 2133.44,
+    "text": " give you the whole space."
+  },
+  {
+    "start": 2133.44,
+    "end": 2134.64,
+    "text": " Why is that?"
+  },
+  {
+    "start": 2134.64,
+    "end": 2140.64,
+    "text": " Well, we just showed, when it was a, we showed that we"
+  },
+  {
+    "start": 2140.64,
+    "end": 2143.2000000000003,
+    "text": " could get every b."
+  },
+  {
+    "start": 2143.2000000000003,
+    "end": 2146.12,
+    "text": " We wanted the combination that gave b."
+  },
+  {
+    "start": 2146.12,
+    "end": 2148.4,
+    "text": " And we found it."
+  },
+  {
+    "start": 2148.4,
+    "end": 2154.04,
+    "text": " So at the beginning, when we were working with u, v, w,"
+  },
+  {
+    "start": 2154.04,
+    "end": 2161.3599999999997,
+    "text": " we found, and this was the shorthand here,"
+  },
+  {
+    "start": 2161.3599999999997,
+    "end": 2164.24,
+    "text": " this said find a combination to give b."
+  },
+  {
+    "start": 2164.24,
+    "end": 2166.88,
+    "text": " And this says that combination will work."
+  },
+  {
+    "start": 2166.88,
+    "end": 2169.3599999999997,
+    "text": " And we wrote out what x was."
+  },
+  {
+    "start": 2169.3599999999997,
+    "end": 2170.7999999999997,
+    "text": " Now what's the difference?"
+  },
+  {
+    "start": 2170.7999999999997,
+    "end": 2172.7599999999998,
+    "text": " OK, here."
+  },
+  {
+    "start": 2172.7599999999998,
+    "end": 2175.7999999999997,
+    "text": " So those were dependent."
+  },
+  {
+    "start": 2176.8,
+    "end": 2181.1200000000003,
+    "text": " Sorry, those were independent."
+  },
+  {
+    "start": 2181.1200000000003,
+    "end": 2184.6400000000003,
+    "text": " I would even call those three vectors a basis"
+  },
+  {
+    "start": 2184.6400000000003,
+    "end": 2185.92,
+    "text": " for three-dimensional space."
+  },
+  {
+    "start": 2185.92,
+    "end": 2188.5600000000004,
+    "text": " That word basis is a big deal."
+  },
+  {
+    "start": 2188.5600000000004,
+    "end": 2191.2400000000002,
+    "text": " So a basis for five-dimensional space"
+  },
+  {
+    "start": 2191.2400000000002,
+    "end": 2195.7200000000003,
+    "text": " is five vectors that are independent."
+  },
+  {
+    "start": 2195.7200000000003,
+    "end": 2197.2400000000002,
+    "text": " That's one way to say it."
+  },
+  {
+    "start": 2197.2400000000002,
+    "end": 2199.92,
+    "text": " The second way to say it would be their combinations give"
+  },
+  {
+    "start": 2199.92,
+    "end": 2202.44,
+    "text": " the whole five-dimensional space."
+  },
+  {
+    "start": 2202.44,
+    "end": 2205.6400000000003,
+    "text": " A third way to say it, see if you can finish this sentence."
+  },
+  {
+    "start": 2205.64,
+    "end": 2208.2,
+    "text": " This is for the independent, the good guys."
+  },
+  {
+    "start": 2208.2,
+    "end": 2214.04,
+    "text": " If I put those five vectors into a five-by-five matrix,"
+  },
+  {
+    "start": 2214.04,
+    "end": 2221.56,
+    "text": " that matrix will be invertible."
+  },
+  {
+    "start": 2221.56,
+    "end": 2223.8799999999997,
+    "text": " That matrix will be invertible."
+  },
+  {
+    "start": 2223.8799999999997,
+    "end": 2227.0,
+    "text": " So an invertible matrix is one with a basis sitting"
+  },
+  {
+    "start": 2227.0,
+    "end": 2227.7999999999997,
+    "text": " in its columns."
+  },
+  {
+    "start": 2227.7999999999997,
+    "end": 2232.7999999999997,
+    "text": " It's a transform that has an inverse transform."
+  },
+  {
+    "start": 2232.7999999999997,
+    "end": 2235.24,
+    "text": " This matrix is not invertible."
+  },
+  {
+    "start": 2235.24,
+    "end": 2238.0,
+    "text": " Those three vectors are not a basis."
+  },
+  {
+    "start": 2238.0,
+    "end": 2241.9599999999996,
+    "text": " Their combinations are only in a plane."
+  },
+  {
+    "start": 2241.9599999999996,
+    "end": 2244.16,
+    "text": " By the way, a plane is a subspace."
+  },
+  {
+    "start": 2244.16,
+    "end": 2247.4799999999996,
+    "text": " So a plane would be a typical subspace."
+  },
+  {
+    "start": 2247.4799999999996,
+    "end": 2249.08,
+    "text": " It's like it filled it out."
+  },
+  {
+    "start": 2249.08,
+    "end": 2251.9599999999996,
+    "text": " You took all the combinations, you did your job,"
+  },
+  {
+    "start": 2251.9599999999996,
+    "end": 2255.12,
+    "text": " but in that case, the whole space"
+  },
+  {
+    "start": 2255.12,
+    "end": 2257.4799999999996,
+    "text": " would be a count as a subspace, too."
+  },
+  {
+    "start": 2257.4799999999996,
+    "end": 2262.0,
+    "text": " That's the way you get subspaces by taking all combinations."
+  },
+  {
+    "start": 2262.04,
+    "end": 2265.84,
+    "text": " OK, now I'm even going to push you one more step,"
+  },
+  {
+    "start": 2265.84,
+    "end": 2270.92,
+    "text": " and then this example is complete."
+  },
+  {
+    "start": 2270.92,
+    "end": 2276.24,
+    "text": " Can you tell me, what vectors do you get?"
+  },
+  {
+    "start": 2276.24,
+    "end": 2278.2,
+    "text": " All combinations of u, v, w."
+  },
+  {
+    "start": 2278.2,
+    "end": 2279.72,
+    "text": " Let me try to write something."
+  },
+  {
+    "start": 2279.72,
+    "end": 2283.0,
+    "text": " This gives only a plane."
+  },
+  {
+    "start": 2288.2,
+    "end": 2290.08,
+    "text": " Because we've got two independent vectors,"
+  },
+  {
+    "start": 2290.08,
+    "end": 2292.24,
+    "text": " but not the third."
+  },
+  {
+    "start": 2292.24,
+    "end": 2295.36,
+    "text": " OK."
+  },
+  {
+    "start": 2295.36,
+    "end": 2297.56,
+    "text": " I don't know if I should even ask."
+  },
+  {
+    "start": 2297.56,
+    "end": 2300.6,
+    "text": " Do we know an equation for that plane?"
+  },
+  {
+    "start": 2300.6,
+    "end": 2304.84,
+    "text": " Well, I think we do, if we think about it correctly."
+  },
+  {
+    "start": 2304.84,
+    "end": 2308.24,
+    "text": " All vectors, all combinations of u, v, w, star"
+  },
+  {
+    "start": 2308.24,
+    "end": 2315.36,
+    "text": " is the same as saying all vectors c times x."
+  },
+  {
+    "start": 2321.08,
+    "end": 2328.7999999999997,
+    "text": " Do you agree that those two are exactly the same thing?"
+  },
+  {
+    "start": 2328.7999999999997,
+    "end": 2331.3199999999997,
+    "text": " This is the key, because we're moving up"
+  },
+  {
+    "start": 2331.3199999999997,
+    "end": 2336.68,
+    "text": " to vectors, combinations, and now come subspaces."
+  },
+  {
+    "start": 2336.68,
+    "end": 2339.6,
+    "text": " If I take all combinations of u, v, w, star,"
+  },
+  {
+    "start": 2339.6,
+    "end": 2342.64,
+    "text": " I say that that's the same as all vectors c times x."
+  },
+  {
+    "start": 2342.64,
+    "end": 2346.84,
+    "text": " Why is that?"
+  },
+  {
+    "start": 2347.52,
+    "end": 2352.6800000000003,
+    "text": " It's what I said in the very first sentence at 4 o'clock."
+  },
+  {
+    "start": 2352.6800000000003,
+    "end": 2357.2400000000002,
+    "text": " The combinations of u, v, w, star, how do I produce them?"
+  },
+  {
+    "start": 2357.2400000000002,
+    "end": 2361.28,
+    "text": " I create the matrix with those columns."
+  },
+  {
+    "start": 2361.28,
+    "end": 2368.2000000000003,
+    "text": " I multiply them by x's, and I get all the combinations."
+  },
+  {
+    "start": 2368.2000000000003,
+    "end": 2371.56,
+    "text": " And this is just c times x."
+  },
+  {
+    "start": 2371.56,
+    "end": 2376.36,
+    "text": " So what I've said there is just another way of saying,"
+  },
+  {
+    "start": 2376.36,
+    "end": 2378.7200000000003,
+    "text": " how does matrix multiplication work?"
+  },
+  {
+    "start": 2378.7200000000003,
+    "end": 2382.08,
+    "text": " Put the guys in its columns and multiply by a vector."
+  },
+  {
+    "start": 2382.08,
+    "end": 2383.48,
+    "text": " OK."
+  },
+  {
+    "start": 2383.48,
+    "end": 2389.2400000000002,
+    "text": " So we're getting all vectors c times x."
+  },
+  {
+    "start": 2389.2400000000002,
+    "end": 2394.32,
+    "text": " And now I was going to stretch it that little bit further."
+  },
+  {
+    "start": 2394.32,
+    "end": 2398.1200000000003,
+    "text": " Can we describe what vectors we get?"
+  },
+  {
+    "start": 2398.1200000000003,
+    "end": 2400.2400000000002,
+    "text": " So that's my question."
+  },
+  {
+    "start": 2400.24,
+    "end": 2409.6,
+    "text": " What b's, what b's, so this is b equal b1, b2, b3, do we get?"
+  },
+  {
+    "start": 2409.6,
+    "end": 2410.7599999999998,
+    "text": " We don't get them all."
+  },
+  {
+    "start": 2410.7599999999998,
+    "end": 2415.2799999999997,
+    "text": " That's, right?"
+  },
+  {
+    "start": 2415.2799999999997,
+    "end": 2416.16,
+    "text": " We don't get them all."
+  },
+  {
+    "start": 2416.16,
+    "end": 2418.68,
+    "text": " That's the trouble with c."
+  },
+  {
+    "start": 2418.68,
+    "end": 2421.08,
+    "text": " We only get a plane of them."
+  },
+  {
+    "start": 2421.08,
+    "end": 2429.8799999999997,
+    "text": " And now can you tell me which b's we do get when we look"
+  },
+  {
+    "start": 2430.52,
+    "end": 2436.92,
+    "text": " at all combinations of these three dependent vectors?"
+  },
+  {
+    "start": 2436.92,
+    "end": 2439.8,
+    "text": " Well, we've done a lot today."
+  },
+  {
+    "start": 2439.8,
+    "end": 2442.84,
+    "text": " Let me just tell you the answer, because it's here."
+  },
+  {
+    "start": 2442.84,
+    "end": 2445.56,
+    "text": " The b's have to add to zero."
+  },
+  {
+    "start": 2445.56,
+    "end": 2448.7200000000003,
+    "text": " That's the equation that the b's have to satisfy."
+  },
+  {
+    "start": 2448.7200000000003,
+    "end": 2453.56,
+    "text": " If, because when we wrote out cx, we noticed that we always"
+  },
+  {
+    "start": 2453.56,
+    "end": 2456.28,
+    "text": " got, the components always added to zero."
+  },
+  {
+    "start": 2456.28,
+    "end": 2460.2400000000002,
+    "text": " So which b's do we get?"
+  },
+  {
+    "start": 2460.2400000000002,
+    "end": 2465.2400000000002,
+    "text": " We get the ones where the components add to zero."
+  },
+  {
+    "start": 2465.2400000000002,
+    "end": 2470.1600000000003,
+    "text": " In other words, that's the equation of the plane,"
+  },
+  {
+    "start": 2470.1600000000003,
+    "end": 2471.2400000000002,
+    "text": " you could say."
+  },
+  {
+    "start": 2471.2400000000002,
+    "end": 2473.7200000000003,
+    "text": " Yeah, actually, that's a good way to look at it."
+  },
+  {
+    "start": 2473.7200000000003,
+    "end": 2479.7200000000003,
+    "text": " All these vectors are on the plane."
+  },
+  {
+    "start": 2479.7200000000003,
+    "end": 2483.52,
+    "text": " Do the components of u add to zero?"
+  },
+  {
+    "start": 2483.52,
+    "end": 2485.2400000000002,
+    "text": " Look at u."
+  },
+  {
+    "start": 2485.24,
+    "end": 2486.72,
+    "text": " Yes."
+  },
+  {
+    "start": 2486.72,
+    "end": 2491.0,
+    "text": " Do the components of v add to zero?"
+  },
+  {
+    "start": 2491.0,
+    "end": 2492.56,
+    "text": " Yes, add them up."
+  },
+  {
+    "start": 2492.56,
+    "end": 2495.8399999999997,
+    "text": " Do the components of w star, now that you fixed it"
+  },
+  {
+    "start": 2495.8399999999997,
+    "end": 2497.0,
+    "text": " correctly for me."
+  },
+  {
+    "start": 2497.0,
+    "end": 2498.04,
+    "text": " Do they add to zero?"
+  },
+  {
+    "start": 2498.04,
+    "end": 2500.4399999999996,
+    "text": " Yes, so all the combinations will add to zero."
+  },
+  {
+    "start": 2500.4399999999996,
+    "end": 2502.7999999999997,
+    "text": " That's the plane."
+  },
+  {
+    "start": 2502.7999999999997,
+    "end": 2504.3999999999996,
+    "text": " That's the plane."
+  },
+  {
+    "start": 2504.3999999999996,
+    "end": 2508.2799999999997,
+    "text": " You see, there's so many different ways to see, and none"
+  },
+  {
+    "start": 2508.2799999999997,
+    "end": 2512.72,
+    "text": " of this is difficult, but it's coming fast, because we're"
+  },
+  {
+    "start": 2512.7599999999998,
+    "end": 2516.3199999999997,
+    "text": " seeing the same thing in different languages."
+  },
+  {
+    "start": 2516.3199999999997,
+    "end": 2519.68,
+    "text": " We're seeing it geometrically in a picture of a plane."
+  },
+  {
+    "start": 2519.68,
+    "end": 2522.2,
+    "text": " We're seeing it as a combination of vectors."
+  },
+  {
+    "start": 2522.2,
+    "end": 2525.2799999999997,
+    "text": " We're seeing it as a multiplication by a matrix."
+  },
+  {
+    "start": 2525.2799999999997,
+    "end": 2531.9199999999996,
+    "text": " And we saw it sort of here by operation, operating and"
+  },
+  {
+    "start": 2531.9199999999996,
+    "end": 2541.0,
+    "text": " simplifying and getting the key fact out of the equations."
+  },
+  {
+    "start": 2541.72,
+    "end": 2548.56,
+    "text": " I wanted to give you this example, the two examples,"
+  },
+  {
+    "start": 2548.56,
+    "end": 2551.4,
+    "text": " because they bring out so many of the key ideas."
+  },
+  {
+    "start": 2551.4,
+    "end": 2556.64,
+    "text": " The key idea of a subspace, shall I just say a little"
+  },
+  {
+    "start": 2556.64,
+    "end": 2558.68,
+    "text": " what that word means?"
+  },
+  {
+    "start": 2558.68,
+    "end": 2563.6,
+    "text": " A subspace, what's a subspace?"
+  },
+  {
+    "start": 2563.6,
+    "end": 2568.36,
+    "text": " Well, what's a vector space, first of all?"
+  },
+  {
+    "start": 2568.4,
+    "end": 2573.36,
+    "text": " A vector space is a bunch of vectors, and the rule is you"
+  },
+  {
+    "start": 2573.36,
+    "end": 2576.1600000000003,
+    "text": " have to be able to take their combinations."
+  },
+  {
+    "start": 2576.1600000000003,
+    "end": 2579.44,
+    "text": " That's what linear algebra does, takes combination."
+  },
+  {
+    "start": 2579.44,
+    "end": 2584.2400000000002,
+    "text": " So a vector space is one where you take all combinations."
+  },
+  {
+    "start": 2584.2400000000002,
+    "end": 2588.88,
+    "text": " So yeah, so it finally took just this triangle, that would"
+  },
+  {
+    "start": 2588.88,
+    "end": 2594.44,
+    "text": " not be a subspace, because one combination would be to you"
+  },
+  {
+    "start": 2594.44,
+    "end": 2596.28,
+    "text": " and it would be out of the triangle."
+  },
+  {
+    "start": 2596.28,
+    "end": 2602.2000000000003,
+    "text": " So a subspace, just think of it as a plane."
+  },
+  {
+    "start": 2602.2000000000003,
+    "end": 2605.6800000000003,
+    "text": " But then, of course, it could be in higher dimensions."
+  },
+  {
+    "start": 2605.6800000000003,
+    "end": 2609.28,
+    "text": " It could be a seven dimensional subspace inside 15"
+  },
+  {
+    "start": 2609.28,
+    "end": 2610.84,
+    "text": " dimensional space."
+  },
+  {
+    "start": 2610.84,
+    "end": 2615.84,
+    "text": " And I don't know if you're good at visualizing that."
+  },
+  {
+    "start": 2615.84,
+    "end": 2616.6800000000003,
+    "text": " I'm not."
+  },
+  {
+    "start": 2616.6800000000003,
+    "end": 2618.7200000000003,
+    "text": " But it's never mind."
+  },
+  {
+    "start": 2618.7200000000003,
+    "end": 2620.76,
+    "text": " You've got seven vectors."
+  },
+  {
+    "start": 2620.76,
+    "end": 2622.6400000000003,
+    "text": " You think, OK, they're combinations."
+  },
+  {
+    "start": 2622.6400000000003,
+    "end": 2624.8,
+    "text": " They give a seven dimensional subspace."
+  },
+  {
+    "start": 2624.84,
+    "end": 2627.0800000000004,
+    "text": " Each vector has 15 components?"
+  },
+  {
+    "start": 2627.0800000000004,
+    "end": 2628.36,
+    "text": " No problem."
+  },
+  {
+    "start": 2628.36,
+    "end": 2630.1200000000003,
+    "text": " I mean, no problem for MATLAB, certainly."
+  },
+  {
+    "start": 2630.1200000000003,
+    "end": 2633.6800000000003,
+    "text": " It's got, what, a matrix with 105 entries?"
+  },
+  {
+    "start": 2633.6800000000003,
+    "end": 2635.8,
+    "text": " It deals with that instantly."
+  },
+  {
+    "start": 2635.8,
+    "end": 2636.7200000000003,
+    "text": " OK."
+  },
+  {
+    "start": 2636.7200000000003,
+    "end": 2643.2400000000002,
+    "text": " So a subspace is like a vector space inside a bigger one."
+  },
+  {
+    "start": 2643.2400000000002,
+    "end": 2647.2000000000003,
+    "text": " That's why the prefix sub is there."
+  },
+  {
+    "start": 2647.2000000000003,
+    "end": 2651.76,
+    "text": " And mathematics always counts the biggest possibility, too,"
+  },
+  {
+    "start": 2651.76,
+    "end": 2653.6400000000003,
+    "text": " which would be the whole space."
+  },
+  {
+    "start": 2653.64,
+    "end": 2655.72,
+    "text": " And what's the smallest?"
+  },
+  {
+    "start": 2655.72,
+    "end": 2659.2,
+    "text": " So what's the smallest subspace of R3?"
+  },
+  {
+    "start": 2659.2,
+    "end": 2661.0,
+    "text": " So I have three dimensional space."
+  },
+  {
+    "start": 2661.0,
+    "end": 2664.0,
+    "text": " You could tell me all the subspaces of R3."
+  },
+  {
+    "start": 2664.0,
+    "end": 2666.04,
+    "text": " So there's one, a plane."
+  },
+  {
+    "start": 2666.04,
+    "end": 2668.24,
+    "text": " Yeah, tell me all the subspaces of R3."
+  },
+  {
+    "start": 2668.24,
+    "end": 2673.12,
+    "text": " And then you'll have that word kind of down."
+  },
+  {
+    "start": 2673.12,
+    "end": 2674.68,
+    "text": " A line."
+  },
+  {
+    "start": 2674.68,
+    "end": 2678.04,
+    "text": " So planes and lines, those are, you could say, the real,"
+  },
+  {
+    "start": 2678.04,
+    "end": 2681.4,
+    "text": " the proper subspaces, the best, the right ones."
+  },
+  {
+    "start": 2681.44,
+    "end": 2687.44,
+    "text": " But there are a couple more possibilities, which are a point."
+  },
+  {
+    "start": 2687.44,
+    "end": 2689.1600000000003,
+    "text": " Which point?"
+  },
+  {
+    "start": 2689.1600000000003,
+    "end": 2689.88,
+    "text": " The origin."
+  },
+  {
+    "start": 2689.88,
+    "end": 2691.0,
+    "text": " The only other origin."
+  },
+  {
+    "start": 2691.0,
+    "end": 2693.8,
+    "text": " Because if I had, if you tried to say that point was a"
+  },
+  {
+    "start": 2693.8,
+    "end": 2696.08,
+    "text": " subspace, no way."
+  },
+  {
+    "start": 2696.08,
+    "end": 2696.96,
+    "text": " Why not?"
+  },
+  {
+    "start": 2696.96,
+    "end": 2700.2400000000002,
+    "text": " Because I wouldn't be able to multiply that vector by 5,"
+  },
+  {
+    "start": 2700.2400000000002,
+    "end": 2703.96,
+    "text": " and I would be away from the point."
+  },
+  {
+    "start": 2703.96,
+    "end": 2708.96,
+    "text": " But the zero subspace, the really small subspace, that"
+  },
+  {
+    "start": 2708.96,
+    "end": 2710.56,
+    "text": " just has the zero vector."
+  },
+  {
+    "start": 2710.56,
+    "end": 2712.68,
+    "text": " It's got one vector in it."
+  },
+  {
+    "start": 2712.68,
+    "end": 2713.32,
+    "text": " Not empty."
+  },
+  {
+    "start": 2713.32,
+    "end": 2715.52,
+    "text": " It's got that one point, but that's all."
+  },
+  {
+    "start": 2715.52,
+    "end": 2721.08,
+    "text": " OK, so planes, lines, the origin, and then the other"
+  },
+  {
+    "start": 2721.08,
+    "end": 2727.16,
+    "text": " possibility for a subspace is the whole space."
+  },
+  {
+    "start": 2727.16,
+    "end": 2730.92,
+    "text": " So the dimensions could be 3 for the whole space, 2 for a"
+  },
+  {
+    "start": 2730.92,
+    "end": 2734.44,
+    "text": " plane, 1 for a line, 0 for a point."
+  },
+  {
+    "start": 2734.44,
+    "end": 2739.7999999999997,
+    "text": " It's just, yeah, it just kicks together."
+  },
+  {
+    "start": 2739.8,
+    "end": 2742.32,
+    "text": " OK, how are we for time?"
+  },
+  {
+    "start": 2742.32,
+    "end": 2744.44,
+    "text": " Maybe it went more than half."
+  },
+  {
+    "start": 2744.44,
+    "end": 2749.5600000000004,
+    "text": " But now is the chance to just ask me if you want to, like"
+  },
+  {
+    "start": 2749.5600000000004,
+    "end": 2753.1600000000003,
+    "text": " anything about the course."
+  },
+  {
+    "start": 2753.1600000000003,
+    "end": 2754.5600000000004,
+    "text": " Is it all linear algebra?"
+  },
+  {
+    "start": 2754.5600000000004,
+    "end": 2755.48,
+    "text": " No."
+  },
+  {
+    "start": 2755.48,
+    "end": 2762.92,
+    "text": " But I think I can't do anything more helpful to you than"
+  },
+  {
+    "start": 2762.92,
+    "end": 2767.0,
+    "text": " to, for you to see, begin to see, when you look at a"
+  },
+  {
+    "start": 2767.0,
+    "end": 2770.08,
+    "text": " matrix, begin to see, what is it doing?"
+  },
+  {
+    "start": 2770.08,
+    "end": 2771.96,
+    "text": " What is it about?"
+  },
+  {
+    "start": 2771.96,
+    "end": 2774.92,
+    "text": " And of course matrices can be rectangular."
+  },
+  {
+    "start": 2774.92,
+    "end": 2779.64,
+    "text": " So I'll give you a hint about what's coming in the course"
+  },
+  {
+    "start": 2779.64,
+    "end": 2786.36,
+    "text": " itself, is we'll have rectangular matrices A. OK."
+  },
+  {
+    "start": 2786.36,
+    "end": 2788.32,
+    "text": " They're not invertible."
+  },
+  {
+    "start": 2788.32,
+    "end": 2792.2,
+    "text": " They're taking 7 dimensional space to 3 dimensional space"
+  },
+  {
+    "start": 2792.2,
+    "end": 2792.64,
+    "text": " or something."
+  },
+  {
+    "start": 2792.64,
+    "end": 2795.12,
+    "text": " No, you can't invert that."
+  },
+  {
+    "start": 2795.16,
+    "end": 2800.08,
+    "text": " But what comes up every time, I sort of got the idea, finally,"
+  },
+  {
+    "start": 2800.08,
+    "end": 2805.52,
+    "text": " every time I see a rectangular matrix, maybe 7 by 3."
+  },
+  {
+    "start": 2805.52,
+    "end": 2808.88,
+    "text": " That would be 7 rows, 3 columns."
+  },
+  {
+    "start": 2808.88,
+    "end": 2814.2799999999997,
+    "text": " Then what comes up with a rectangular matrix A is sooner"
+  },
+  {
+    "start": 2814.2799999999997,
+    "end": 2817.96,
+    "text": " or later A transpose sticks its nose in."
+  },
+  {
+    "start": 2817.96,
+    "end": 2825.04,
+    "text": " And multiplies that A. So the matrix that I, and we could"
+  },
+  {
+    "start": 2825.96,
+    "end": 2828.0,
+    "text": " do it for our A here."
+  },
+  {
+    "start": 2828.0,
+    "end": 2831.24,
+    "text": " Actually, if I did it for that original matrix A, I would get"
+  },
+  {
+    "start": 2831.24,
+    "end": 2833.16,
+    "text": " something you'd recognize."
+  },
+  {
+    "start": 2833.16,
+    "end": 2839.24,
+    "text": " So A, what I want to say is that the course focuses on A"
+  },
+  {
+    "start": 2839.24,
+    "end": 2843.84,
+    "text": " transpose A. And I'll just say now that that matrix always"
+  },
+  {
+    "start": 2843.84,
+    "end": 2845.44,
+    "text": " comes out square."
+  },
+  {
+    "start": 2845.44,
+    "end": 2848.6,
+    "text": " Because this would be 3 times 7 times 7 times 3."
+  },
+  {
+    "start": 2848.6,
+    "end": 2851.44,
+    "text": " So this would be 3 by 3."
+  },
+  {
+    "start": 2851.44,
+    "end": 2853.44,
+    "text": " And it always comes out symmetric."
+  },
+  {
+    "start": 2853.48,
+    "end": 2856.32,
+    "text": " That's the nice thing."
+  },
+  {
+    "start": 2856.32,
+    "end": 2858.88,
+    "text": " And even more, we'll see more."
+  },
+  {
+    "start": 2858.88,
+    "end": 2866.52,
+    "text": " So that's like a hint of where watch for A transpose A in"
+  },
+  {
+    "start": 2866.52,
+    "end": 2867.48,
+    "text": " what's coming."
+  },
+  {
+    "start": 2867.48,
+    "end": 2871.32,
+    "text": " And watch for it in applications of all kinds."
+  },
+  {
+    "start": 2871.32,
+    "end": 2876.92,
+    "text": " I mean, in networks, an A will be associated with"
+  },
+  {
+    "start": 2876.92,
+    "end": 2879.96,
+    "text": " Kirchhoff's voltage law, an A transpose with Kirchhoff's"
+  },
+  {
+    "start": 2879.96,
+    "end": 2880.56,
+    "text": " current law."
+  },
+  {
+    "start": 2881.56,
+    "end": 2884.4,
+    "text": " They're just teamed up together."
+  },
+  {
+    "start": 2884.4,
+    "end": 2886.84,
+    "text": " And we'll see more."
+  },
+  {
+    "start": 2886.84,
+    "end": 2890.24,
+    "text": " All right, now let me give you a chance to ask any question."
+  },
+  {
+    "start": 2890.24,
+    "end": 2891.24,
+    "text": " Whatever."
+  },
+  {
+    "start": 2894.2799999999997,
+    "end": 2897.48,
+    "text": " Homework, so did I mention homework?"
+  },
+  {
+    "start": 2897.48,
+    "end": 2903.16,
+    "text": " You may have said that's a crazy homework to say three"
+  },
+  {
+    "start": 2903.16,
+    "end": 2904.7599999999998,
+    "text": " problems in 1.1."
+  },
+  {
+    "start": 2904.7599999999998,
+    "end": 2907.36,
+    "text": " I've never done this before."
+  },
+  {
+    "start": 2907.36,
+    "end": 2914.4,
+    "text": " So essentially, you can get away with anything this week."
+  },
+  {
+    "start": 2914.4,
+    "end": 2916.48,
+    "text": " And indefinitely, actually."
+  },
+  {
+    "start": 2916.48,
+    "end": 2922.32,
+    "text": " MIT, how many are, is this the first day of MIT classes?"
+  },
+  {
+    "start": 2922.32,
+    "end": 2923.0,
+    "text": " Oh, wow."
+  },
+  {
+    "start": 2923.0,
+    "end": 2923.84,
+    "text": " OK."
+  },
+  {
+    "start": 2923.84,
+    "end": 2925.96,
+    "text": " Well, welcome to MIT."
+  },
+  {
+    "start": 2925.96,
+    "end": 2928.6800000000003,
+    "text": " And I hope you like it."
+  },
+  {
+    "start": 2928.6800000000003,
+    "end": 2936.1600000000003,
+    "text": " It's very, it's not so high pressure or whatever you is"
+  },
+  {
+    "start": 2936.2799999999997,
+    "end": 2937.56,
+    "text": " associated with MIT."
+  },
+  {
+    "start": 2937.56,
+    "end": 2939.16,
+    "text": " It's kind of tolerant."
+  },
+  {
+    "start": 2939.16,
+    "end": 2943.3599999999997,
+    "text": " You ask, at least if my advisees ask for something, I"
+  },
+  {
+    "start": 2943.3599999999997,
+    "end": 2944.16,
+    "text": " will say yes."
+  },
+  {
+    "start": 2944.16,
+    "end": 2945.6,
+    "text": " It's easier that way."
+  },
+  {
+    "start": 2945.6,
+    "end": 2951.04,
+    "text": " And much better."
+  },
+  {
+    "start": 2951.04,
+    "end": 2957.3199999999997,
+    "text": " And let me just, again, and I'll say it often in private."
+  },
+  {
+    "start": 2957.3199999999997,
+    "end": 2961.2,
+    "text": " So this is like a grown up course."
+  },
+  {
+    "start": 2961.2,
+    "end": 2963.44,
+    "text": " I'm figuring you're here to learn."
+  },
+  {
+    "start": 2963.48,
+    "end": 2966.08,
+    "text": " So it's not my job to force it."
+  },
+  {
+    "start": 2966.08,
+    "end": 2967.92,
+    "text": " My job is to help it."
+  },
+  {
+    "start": 2967.92,
+    "end": 2971.68,
+    "text": " And I hope this is some help."
+  }
+]

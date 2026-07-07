@@ -1,0 +1,13 @@
+{
+  "source": "/Users/jackson/【MIT 18.06SC】线性代数，2011年秋季/[P05]05 - 复习1 ｜ 麻省理工学院18.085计算科学与工程I，2008年秋季.mp4",
+  "kind": "media",
+  "model": "small",
+  "device": "cpu",
+  "language": "en",
+  "gpu": {
+    "cuda": false,
+    "cuda_name": null,
+    "mps": true,
+    "nvidia_smi": false
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "source": "/Users/jackson/Downloads/Problems (PDF).pdf",
+  "tool": "docling",
+  "out": "courses/mit-18-06sc-linear-algebra-fall-2011/transcripts/L06/problem-set",
+  "stats": {
+    "markdown_chars": 484
+  },
+  "signals": {
+    "pages": 2,
+    "sampled_pages": 2,
+    "scanned": false,
+    "cjk_ratio": 0.0,
+    "math_per_page": 1.0,
+    "likely_formulas": false,
+    "images_per_page": 0.0,
+    "two_column": false,
+    "chars_per_page": 284.0,
+    "recommended_tool": "docling",
+    "reason": "general structured extraction → Docling"
+  }
+}

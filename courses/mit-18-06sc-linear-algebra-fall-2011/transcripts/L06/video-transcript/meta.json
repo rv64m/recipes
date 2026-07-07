@@ -1,0 +1,21 @@
+{
+  "source": "/Users/jackson/Downloads/Lecture video transcript (PDF).pdf",
+  "tool": "pymupdf4llm",
+  "out": "courses/mit-18-06sc-linear-algebra-fall-2011/transcripts/L06/video-transcript",
+  "stats": {
+    "markdown_chars": 29960
+  },
+  "signals": {
+    "pages": 24,
+    "sampled_pages": 10,
+    "scanned": false,
+    "cjk_ratio": 0.0,
+    "math_per_page": 0.0,
+    "likely_formulas": false,
+    "images_per_page": 0.0,
+    "two_column": false,
+    "chars_per_page": 1118.0,
+    "recommended_tool": "pymupdf4llm",
+    "reason": "large text-heavy PDF → PyMuPDF4LLM (lightweight, fast)"
+  }
+}
